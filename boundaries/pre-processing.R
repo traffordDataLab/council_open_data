@@ -19,6 +19,24 @@ st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Administrative_Boun
   select(area_code = wd18cd, area_name = wd18nm) %>% 
   st_write("electoral_ward.geojson")
 
+# Westminster Parliamentary Constituencies -------------------------
+# Source: ONS Open Geography Portal
+# URL: https://geoportal.statistics.gov.uk/datasets/westminster-parliamentary-constituencies-december-2018-uk-bgc
+# Licence: OGL v3.0
+st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Electoral_Boundaries/Westminster_Parliamentary_Constituencies_December_2018_UK_BGC/MapServer/0/query?where=1%3D1&outFields=pcon18cd,pcon18nm&geometry=-2.478454%2C53.357425%2C-2.253022%2C53.480363&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outSR=4326&f=geojson") %>% 
+  st_intersection(la) %>% 
+  select(area_code = pcon18cd, area_name = pcon18nm) %>% 
+  filter(area_name %in% c("Altrincham and Sale West", "Stretford and Urmston", "Wythenshawe and Sale East")) %>% 
+  st_write("westminster_parliamentary_constituency.geojson")
+
+# Parishes -------------------------
+# Source: ONS Open Geography Portal
+# URL: https://geoportal.statistics.gov.uk/datasets/parishes-december-2018-generalised-clipped-boundaries-ew
+# Licence: OGL v3.0
+st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Administrative_Boundaries/Parishes_December_2018_Boundaries_EW/MapServer/2/query?where=UPPER(lad18cd)%20like%20'%25E08000009%25'&outFields=par18cd,par18nm&outSR=4326&f=geojson") %>% 
+  select(area_code = par18cd, area_name = par18nm) %>% 
+  st_write("parish.geojson")
+
 # Middle Super Output Areas -------------------------
 # Source: ONS Open Geography Portal
 # URL: https://geoportal.statistics.gov.uk/datasets/middle-layer-super-output-areas-december-2011-boundaries-bgc
@@ -42,20 +60,3 @@ st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/L
 st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Output_Area_December_2011_Boundaries/MapServer/2/query?where=UPPER(lad11cd)%20like%20'%25E08000009%25'&outFields=oa11cd&outSR=4326&f=json") %>% 
   select(area_code = oa11cd) %>% 
   st_write("oa.geojson")
-
-# Westminster Parliamentary Constituencies -------------------------
-# Source: ONS Open Geography Portal
-# URL: https://geoportal.statistics.gov.uk/datasets/westminster-parliamentary-constituencies-december-2018-uk-bgc
-# Licence: OGL v3.0
-st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Electoral_Boundaries/Westminster_Parliamentary_Constituencies_December_2018_UK_BGC/MapServer/0/query?where=1%3D1&outFields=pcon18cd,pcon18nm&geometry=-2.478454%2C53.357425%2C-2.253022%2C53.480363&geometryType=esriGeometryEnvelope&inSR=4326&spatialRel=esriSpatialRelIntersects&outSR=4326&f=geojson") %>% 
-  st_intersection(la) %>% 
-  select(area_code = pcon18cd, area_name = pcon18nm) %>% 
-  st_write("westminster_parliamentary_constituency.geojson")
-
-# Parishes -------------------------
-# Source: ONS Open Geography Portal
-# URL: https://geoportal.statistics.gov.uk/datasets/parishes-december-2018-generalised-clipped-boundaries-ew
-# Licence: OGL v3.0
-st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Administrative_Boundaries/Parishes_December_2018_Boundaries_EW/MapServer/2/query?where=UPPER(lad18cd)%20like%20'%25E08000009%25'&outFields=par18cd,par18nm&outSR=4326&f=geojson") %>% 
-  select(area_code = par18cd, area_name = par18nm) %>% 
-  st_write("parish.geojson")
