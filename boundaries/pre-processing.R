@@ -51,7 +51,7 @@ st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/M
 # Licence: OGL v3.0
 st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Lower_Super_Output_Areas_December_2011_Boundaries/MapServer/2/query?where=UPPER(lsoa11nm)%20like%20'%25TRAFFORD%25'&outFields=lsoa11cd,lsoa11nm&outSR=4326&f=geojson") %>% 
   select(area_code = lsoa11cd, area_name = lsoa11nm) %>% 
-    st_write("lsoa.geojson")
+  st_write("lsoa.geojson")
 
 # Output Areas -------------------------
 # Source: ONS Open Geography Portal
