@@ -23,7 +23,7 @@
 </tr>
 <tr>
 	<td>Openness rating</td>
-	<td>&#9733&#9734&#9734&#9734&#9734&nbsp; Stuff on the Web with an open licence</td>
+	<td>&#9733&#9734&#9734&#9734&#9734&nbsp; available on the Web under an open licence</td>
 </tr>
 <tr>
 	<td>Last updated</td>
