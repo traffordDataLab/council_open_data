@@ -1,6 +1,6 @@
 # Administrative, electoral and statistical boundaries #
 
-library(tidyverse) ; library(sf) ; library(jsonlite)
+library(tidyverse) ; library(sf)
 
 # Local authority district -------------------------
 # Source: ONS Open Geography Portal
@@ -60,3 +60,19 @@ st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/L
 st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Output_Area_December_2011_Boundaries/MapServer/2/query?where=UPPER(lad11cd)%20like%20'%25E08000009%25'&outFields=oa11cd&outSR=4326&f=json") %>% 
   select(area_code = oa11cd) %>% 
   st_write("oa.geojson")
+
+# Localities -------------------------
+# Source: ONS Open Geography Portal
+# URL: https://geoportal.statistics.gov.uk/datasets/output-area-december-2011-generalised-clipped-boundaries-in-england-and-wales
+# Licence: OGL v3.0
+st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Administrative_Boundaries/Wards_December_2018_Boundaries_V3/MapServer/2/query?where=wd18cd%20IN%20('E05000819',%20'E05000820',%20'E05000821',%20'E05000822',%20'E05000823',%20'E05000824',%20'E05000825',%20'E05000826',%20'E05000827',%20'E05000828',%20'E05000829',%20'E05000830',%20'E05000831',%20'E05000832',%20'E05000833',%20'E05000834',%20'E05000835',%20'E05000836',%20'E05000837',%20'E05000838',%20'E05000839')&outFields=wd18cd,wd18nm&outSR=4326&f=geojson") %>% 
+  select(area_code = wd18cd, area_name = wd18nm) %>% 
+  mutate(area_name = 
+           case_when(
+             area_name %in% c("Ashton upon Mersey", "Brooklands", "Priory", "St Mary\'s", "Sale Moor") ~ "Central",
+             area_name %in% c("Clifford", "Gorse Hill", "Longford", "Stretford") ~ "North",
+             area_name %in% c("Altrincham", "Bowdon", "Broadheath", "Hale Barns", "Hale Central", "Timperley", "Village") ~ "South",
+             area_name %in% c("Bucklow-St Martins", "Davyhulme East", "Davyhulme West", "Flixton", "Urmston") ~ "West")) %>% 
+  group_by(area_name) %>% 
+  summarise() %>% 
+  st_write("localities.geojson")

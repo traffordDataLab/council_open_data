@@ -61,4 +61,11 @@ Outputs using these boundaries must include the following copyright statement: "
     <td>.geojson</td>
     <td>&#9733&#9733&#9733&#9734&#9734&nbsp; Structured data in a non-proprietary format (e.g. CSV)</td>
   </tr>
+  <tr>
+    <td>Localities</td>
+    <td><a href="https://geoportal.statistics.gov.uk/">ONS Open Geography Portal</a></td>
+    <td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">OGL v3.0</a></td>
+    <td>.geojson</td>
+    <td>&#9733&#9733&#9733&#9734&#9734&nbsp; Structured data in a non-proprietary format (e.g. CSV)</td>
+  </tr>
   </table> 
