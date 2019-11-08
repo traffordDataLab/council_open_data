@@ -23,7 +23,7 @@
 </tr>
 <tr>
 	<td>Openness rating</td>
-	<td>&#9733&#9733&#9733&#9734&#9734&nbsp; Structured data in an non-proprietary format (e.g. CSV)</td>
+	<td>&#9733&#9733&#9733&#9734&#9734&nbsp; Structured data in a non-proprietary format (e.g. CSV)</td>
 </tr>
 <tr>
 	<td>Last updated</td>
