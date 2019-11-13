@@ -1,8 +1,8 @@
 ## Council open data
 
-Datasets that [Trafford Council](https://www.trafford.gov.uk) are required to publish to meet the minimum requirements of the [Local Government Transparency Code](https://www.gov.uk/government/publications/local-government-transparency-code-2015) are stored in this repository. Links to the datasets are provided on Trafford Council's [open data page](https://www.trafford.gov.uk/about-your-council/data-protection/open-data/open-data.aspx) and on [data.gov.uk](https://data.gov.uk/search?filters%5Bpublisher%5D=Trafford+Council). Archived data and metadata is given on [data.gov.uk](https://data.gov.uk/search?filters%5Bpublisher%5D=Trafford+Council).
+Datasets that [Trafford Council](https://www.trafford.gov.uk) are required to publish to meet the minimum requirements of the [Local Government Transparency Code](https://www.gov.uk/government/publications/local-government-transparency-code-2015) are stored in this repository. Links to the datasets are provided on Trafford Council's [open data page](https://www.trafford.gov.uk/about-your-council/data-protection/open-data/open-data.aspx) and on [data.gov.uk](https://data.gov.uk/search?filters%5Bpublisher%5D=Trafford+Council). Links to archived data and metadata are given on [data.gov.uk](https://data.gov.uk/search?filters%5Bpublisher%5D=Trafford+Council).
 
-All datasets are available under an [Open Government Licence v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) in a non-proprietary open format (e.g. CSV or GeoJSON). The datasets therefore meet a [3 star open data rating](https://5stardata.info/en/).
+All datasets are available under an [Open Government Licence v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) in a non-proprietary open format (e.g. CSV or GeoJSON). The datasets therefore merit a [3 star open data rating](https://5stardata.info/en/).
 
 Each dataset is structured and follows a common standard or schema:
 
