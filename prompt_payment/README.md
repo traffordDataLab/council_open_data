@@ -27,4 +27,8 @@
 	<td>Last updated</td>
 	<td>2019-11-13</td>
 </tr>
+<tr>
+	<td>Page on data.gov.uk</td>
+	<td><a href="https://data.gov.uk/dataset/4eb0bea9-f089-4b02-b324-103a4b5bbc11/prompt-payment">View</a></td>
+</tr>
 </table>
