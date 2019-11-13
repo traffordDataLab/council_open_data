@@ -1,0 +1,28 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "countries.csv"
+  "tableSchema": {
+    "columns": [{
+      "titles": "country",
+      "dc:description": "The ISO two-letter code for a country, in lowercase."
+    },{
+      "titles": "country group",
+      "dc:description": "A lowercase two-letter code for a group of countries."
+    },{
+      "titles": "name (en)",
+      "dc:description": "The official name of the country in English."
+    },{
+      "titles": "name (fr)",
+      "dc:description": "The official name of the country in French."
+    },{
+      "titles": "name (de)",
+      "dc:description": "The official name of the country in German."
+    },{
+      "titles": "latitude",
+      "dc:description": "The latitude of an indicative point in the country."
+    },{
+      "titles": "longitude",
+      "dc:description": "The longitude of an indicative point in the country."
+    }]
+  }
+}
