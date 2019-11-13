@@ -1,6 +1,6 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "countries.csv"
+  "url": "countries.csv",
   "tableSchema": {
     "columns": [{
       "titles": "country",
