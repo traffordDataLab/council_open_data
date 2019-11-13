@@ -27,4 +27,8 @@
 	<td>Last updated</td>
 	<td></td>
 </tr>
+<tr>
+	<td>Page on data.gov.uk</td>
+	<td><a href="#">View</a></td>
+</tr>
 </table>
