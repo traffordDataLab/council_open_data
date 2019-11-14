@@ -1,2 +1,4 @@
-period,paid_on_time,interest_paid,liable_interest
-2016/17,0.95,0,119154
+period,paid_on_time,interest_paid,liable_interest,not_paid_on_time
+2018/19,0.8575,0,116904.43,4879
+2017/18,0.9018,0,133127.25,3316
+2016/17,0.9450,0,119154.00,1650

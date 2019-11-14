@@ -14,6 +14,9 @@
     },{
       "titles": "liable_interest",
       "dc:description": "The total amount of interest that the contracting authority was liable to (whether or not paid and whether under any statutory or other requirement), due to a breach of Regulation 113."
+    },{
+      "titles": "not_paid_on_time",
+      "dc:description": "Number of invoices not paid within 30 days (Not mandatory requirement to publish requested as part of the FOIR)."
     }]
   }
 }
