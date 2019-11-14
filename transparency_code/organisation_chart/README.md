@@ -19,7 +19,7 @@
 </tr>
 <tr>
 	<td>Format</td>
-	<td>.pdf</td>
+	<td>PDF</td>
 </tr>
 <tr>
 	<td>Openness rating</td>
