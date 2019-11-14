@@ -19,7 +19,7 @@
 </tr>
 <tr>
 	<td>Format</td>
-	<td>.csv</td>
+	<td>CSV</td>
 </tr>
 <tr>
 	<td>Openness rating</td>
