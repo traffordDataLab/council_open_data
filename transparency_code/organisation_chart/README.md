@@ -27,6 +27,10 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td></td>
+	<td>2018-19</td>
+</tr>
+<tr>
+	<td>Page on data.gov.uk</td>
+	<td><a href="https://data.gov.uk/dataset/8b65b7fe-62b7-42c2-a57b-9797a552ea56/organisation-chart">View</a></td>
 </tr>
 </table>
