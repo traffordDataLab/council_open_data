@@ -29,6 +29,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td><a href="#">View</a></td>
+	<td><a href="https://data.gov.uk/dataset/611f203d-0da6-40a4-9117-48dcd4f1a4d4/trafford-council-allotments">View</a></td>
 </tr>
 </table>
