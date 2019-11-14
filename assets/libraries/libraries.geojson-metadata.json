@@ -1,0 +1,25 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "libraries.geojson",
+  "tableSchema": {
+    "columns": [{
+      "titles": "name",
+      "dc:description": "Name of library."
+    },{
+      "titles": "type",
+      "dc:description": "Local authority or community run library."
+    },{
+      "titles": "address",
+      "dc:description": "Address of library."
+    },{
+      "titles": "postcode",
+      "dc:description": "Library postcode."
+    },{
+      "titles": "email",
+      "dc:description": "Main library email address."
+    },{
+      "titles": "website",
+      "dc:description": "Library website address."
+    }]
+  }
+}
