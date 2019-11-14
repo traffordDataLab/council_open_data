@@ -1,0 +1,13 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "allotments.geojson",
+  "tableSchema": {
+    "columns": [{
+      "titles": "name",
+      "dc:description": "Name of site."
+    },{
+      "titles": "osm_id",
+      "dc:description": "OpenStreetMap id."
+    }]
+  }
+}
