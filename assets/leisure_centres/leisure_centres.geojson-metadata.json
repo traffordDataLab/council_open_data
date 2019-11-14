@@ -1,0 +1,25 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "leisure_centres.geojson",
+  "tableSchema": {
+    "columns": [{
+      "titles": "name",
+      "dc:description": "Name of leisure centre."
+    },{
+      "titles": "address",
+      "dc:description": "Full address of leisure centre."
+    },{
+      "titles": "postcode",
+      "dc:description": "Postcode of leisure centre"
+    },{
+      "titles": "telephone",
+      "dc:description": "Telephone number of leisure centre."
+    },{
+      "titles": "opening_hours",
+      "dc:description": "Opening hours of leisure centre."
+    },{
+      "titles": "facilities",
+      "dc:description": "Facilites of leisure centre."
+    }]
+  }
+}
