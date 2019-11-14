@@ -10,7 +10,7 @@
       "dc:description": "Full address of leisure centre."
     },{
       "titles": "postcode",
-      "dc:description": "Postcode of leisure centre"
+      "dc:description": "Postcode of leisure centre."
     },{
       "titles": "telephone",
       "dc:description": "Telephone number of leisure centre."
