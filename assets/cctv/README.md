@@ -5,7 +5,7 @@
 </tr>
 <tr>
 	<td>Description</td>
-	<td>Locations of Local Authority controlled CCTV.</td>
+	<td>Location of Local Authority controlled CCTV.</td>
 </tr>
 <tr>
 	<td>Frequency</td>
@@ -16,8 +16,8 @@
 	<td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">OGL v3.0</a></td>
 </tr>
 <tr>
+	<td>Format</td>
 	<td>GeoJSON</td>
-	<td></td>
 </tr>
 <tr>
 	<td>Openness rating</td>
