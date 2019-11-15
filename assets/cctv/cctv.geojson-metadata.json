@@ -1,0 +1,13 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "cctv.geojson",
+  "tableSchema": {
+    "columns": [{
+      "titles": "camera_id",
+      "dc:description": "Unique CCTV id"
+    },{
+      "titles": "location",
+      "dc:description": "Name of road CCTV is located on."
+    }]
+  }
+}
