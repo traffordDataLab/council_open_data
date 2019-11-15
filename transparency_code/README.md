@@ -12,7 +12,7 @@ Datasets that must be published in an open format by Trafford Council to meet th
 |Social housing asset value |Annual | |
 |Grants to voluntary, community and social enterprise organisations |Annual | |
 |[Organisation chart](organisation_chart) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
-|Trade union facility time |Annual | |
+|[Trade union facility time](trade_union_facility_time) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |Parking account |Annual | |
 |Parking spaces |Annual | |
 |[Senior salaries](senior_salaries) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
