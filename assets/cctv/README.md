@@ -29,6 +29,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td><a href="#">View</a></td>
+	<td><a href="https://data.gov.uk/dataset/fc4aaad0-d99a-4a42-935c-745d6cb8abfc/trafford-council-cctv">View</a></td>
 </tr>
 </table>
