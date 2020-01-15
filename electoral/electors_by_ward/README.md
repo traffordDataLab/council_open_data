@@ -31,6 +31,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td><a href="#">View</a></td>
+	<td><a href="https://data.gov.uk/dataset/e6f9ad1f-5db5-46cb-8495-dbee792ca4ec/trafford-council-electors-by-ward">View</a></td>
 </tr>
 </table>
