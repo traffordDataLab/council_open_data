@@ -1,0 +1,13 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "electors_by_ward_2020.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "Ward",
+      "dc:description": "The name of the ward."
+    },{
+      "titles": "Electors",
+      "dc:description": "The number of residents who are registered to vote."
+    }]
+  }
+}
