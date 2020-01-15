@@ -3,7 +3,10 @@
   "url": "electors_by_ward_2020.csv",
   "tableSchema": {
     "columns": [{
-      "titles": "Ward",
+      "titles": "Ward code",
+      "dc:description": "The GSS code of the ward."
+    },{
+      "titles": "Ward name",
       "dc:description": "The name of the ward."
     },{
       "titles": "Electors",
