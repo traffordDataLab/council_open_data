@@ -1,0 +1,54 @@
+---
+pagetitle: "Boundaries"
+lang: "en-GB"
+output:
+  html_document:
+    self_contained: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+library(tidyverse) ; library(htmltools) ; library(DT) 
+
+#df <- read_csv("data_set.csv") %>% 
+#  rename_all(. %>% str_to_title() %>% str_replace_all("_", " "))
+```
+
+<style>
+@import url("https://www.trafforddatalab.io/open_data/guidance/template/styles.css")
+</style>
+<header>
+<a href="https://www.trafforddatalab.io/data"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="100" border="0" style="position:absolute; top:0; right:0; padding:5px;"/></a>
+
+# Boundaries
+*Vector boundary layers for administrative, electoral and statistical geographies.*
+<br />
+</header>
+<main>
+## Metadata
+
+|Source |Publisher |Time period |Geography |Licence |Attribution |Last updated |
+|:---|:---|:---|:---|:---|:---|:---|
+|ONS Open Geography Portal |<a href="http://geoportal.statistics.gov.uk/" target="_blank">Office for National Statistics (ONS)</a> |2011 - 2019 |Local authority district, Electoral wards, Westminster Parliamentary Constituencies, Parishes, Middle Super Output Areas, Lower-layer Super Output Areas, Output Areas, Localities  |<a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a> |ONS Geography Open Data. Shared by: ONSGeography_data. Data Source: ons-inspire.esriuk.com |2020-01-21 |
+
+## Preview
+The majority of these boundaries can be previewed in our <a href="https://www.trafforddatalab.io/explore/" target="_blank">Explore</a> mapping application. Alternatively you can also preview them within our <a href="https://github.com/traffordDataLab/council_open_data/tree/master/boundaries" target="_blank">council_open_data</a> GitHub repository.
+
+## Data
+Download the complete datasets using the links below.
+
+|File name |Format |
+|:---|:---|
+|[local_authority_district](local_authority_district.geojson) |GeoJSON |
+|[localities](localities.geojson) |GeoJSON |
+|[electoral_ward](electoral_ward.geojson) |GeoJSON |
+|[msoa](msoa.geojson) |GeoJSON |
+|[lsoa](lsoa.geojson) |GeoJSON |
+|[oa](oa.geojson) |GeoJSON |
+|[parish](parish.geojson) |GeoJSON |
+|[westminster_parliamentary_constituency](westminster_parliamentary_constituency.geojson) |GeoJSON |
+
+## Pre-processing
+The <a href="https://cran.r-project.org" target="_blank">R</a> [script](pre-processing.R) used to process the data can adapted to other areas.<br /><br />
+</main>
+</script>
