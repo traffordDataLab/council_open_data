@@ -2,9 +2,9 @@
 
 Datasets that [Trafford Council](https://www.trafford.gov.uk) create and publish, i.e. the council is the source as well as the publisher of the data. Included within this repository is a [transparency_code](https://github.com/traffordDataLab/council_open_data/tree/master/transparency_code) sub-folder, containing those datasets required to be published in order to meet the minimum requirements of the [Local Government Transparency Code](https://www.gov.uk/government/publications/local-government-transparency-code-2015).
 
-For datasets regarding Trafford which are published by an external source, but cleaned and tidied by Trafford Data Lab, please see our [open_data repository](https://github.com/traffordDataLab/open_data).
+All datasets are available under an [Open Government Licence v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) and where possible have a [3 star open data rating](https://5stardata.info/en/) because they are in a non-proprietary open format (e.g. CSV or GeoJSON).
 
-All datasets have a [3 star open data rating](https://5stardata.info/en/) because they are available under an [Open Government Licence v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) in a non-proprietary open format (e.g. CSV or GeoJSON).
+For datasets regarding Trafford which are published by an external source, but cleaned and tidied by Trafford Data Lab, please see our [open_data repository](https://github.com/traffordDataLab/open_data).
 
 ### Workflow
 

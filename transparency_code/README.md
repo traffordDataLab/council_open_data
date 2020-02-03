@@ -19,5 +19,4 @@ Datasets that must be published in an open format by Trafford Council to meet th
 |[Constitution](https://www.trafford.gov.uk/about-your-council/about-us/our-constitution.aspx) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |Pay multiple |Annual | |
 |Fraud |Annual | |
-|Waste contracts |Annual | |
-
+|Waste contracts |One-off | |
