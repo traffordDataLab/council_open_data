@@ -20,5 +20,5 @@ Column (variable) names in datasets are expressed in a presentation format, rath
 |[Senior salaries](senior_salaries) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 |[Constitution](constitution) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |Pay multiple |Annual | |
-|Fraud |Annual | |
+|[Fraud](fraud) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |Waste contracts |One-off | |
