@@ -2,6 +2,8 @@
 
 Datasets that must be published in an open format by Trafford Council to meet the minimum requirement of the [Local Government Transparency Code](https://www.gov.uk/government/publications/local-government-transparency-code-2015).
 
+Column (variable) names in datasets are expressed in a presentation format, rather than snake case.
+
 
 |Dataset |Frequency |Licence |
 |:--- |:--- |:--- |
