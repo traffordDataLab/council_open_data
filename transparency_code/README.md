@@ -21,4 +21,4 @@ Column (variable) names in datasets are expressed in a presentation format, rath
 |[Constitution](constitution) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |Pay multiple |Annual | |
 |[Fraud](fraud) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|Waste contracts |One-off | |
+|[Waste contracts](waste_contract) |One-off | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
