@@ -12,7 +12,7 @@ Column (variable) names in datasets are expressed in a presentation format, rath
 |Procurement information |Quarterly | |
 |Local authority land |Annual | |
 |Social housing asset value |Annual | |
-|Grants to voluntary, community and social enterprise organisations |Annual | |
+|[Grants to voluntary, community and social enterprise organisations](grants) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |[Organisation chart](organisation_chart) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 |[Trade union facility time](trade_union_facility_time) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |Parking account |Annual | |

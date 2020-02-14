@@ -1,0 +1,121 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "url": "trafford_council_voluntary_sector_grants_360_giving_format.csv",
+    "tableSchema": {
+        "columns": [{
+            "titles": "Identifier",
+            "dc:description": "String, required. The unique identifier for this grant. Made up of your 360Giving prefix, and an identifier from your records. See the 360Giving Grant identifier guidance for details."
+        },{
+            "titles": "Title",
+            "dc:description": "String, required. A title for this grant activity. This should be under 140 characters long."
+        },{
+            "titles": "Description",
+            "dc:description": "String, required. A short description of this grant activity."
+        },{
+            "titles": "Currency",
+            "dc:description": "String, required. The currency used in amounts. Use the three-letter currency code from ISO 4217 eg: Use GBP for Pounds Sterling."
+        },{
+            "titles": "Amount Applied For",
+            "dc:description": "Number. Total amount applied for in numbers (do not include commas or currency symbols such as £). If you have provided detailed transaction information on a separate table, this should equal the sum of all the application transactions for this grant."
+        },{
+            "titles": "Amount Awarded",
+            "dc:description": "Number, required. Total amount awarded in numbers (do not include commas or currency symbols such as £). If you have provided detailed transaction information on a separate table, this should equal the sum of all the award transactions for this grant."
+        },{
+            "titles": "Amount Disbursed",
+            "dc:description": "Number. Total amount disbursed (paid) to this grantee when this record was last updated (in numbers: do not include commas or currency symbols such as £)). If you have provided detailed transaction information on a separate table, this should equal the sum of all the disbursement transactions for this grant."
+        },{
+            "titles": "Award Date",
+            "dc:description": "String, required. When was the decision to award this grant made. The date should be written as YYYY-MM-DD, or in full date-time format."
+        },{
+            "titles": "URL",
+            "dc:description": "Uri. A URL (Web Address) where further information about this grant can be found. This could point to the website of the recipient organisation, or might link to further details on the funders website."
+        },{
+            "titles": "Planned Dates:Start Date",
+            "dc:description": "String. All events should have a start date. Dates should be in YYYY-MM-DD or date-time format. If the month or day are not available, these may be omitted."
+        },{
+            "titles": "Planned Dates:End Date",
+            "dc:description": "String. An end date for the grant. Dates should be in YYYY-MM-DD or date-time format. If the month or day are not available, these may be omitted."
+        },{
+            "titles": "Planned Dates:Duration (months)",
+            "dc:description": "String. "
+        },{
+            "titles": "Recipient Org:Identifier",
+            "dc:description": "String, required. A globally unique identifier for this organisation. This is important to enable data on funders and recipients to be linked up across different grant-makers. The Organisation Identifier Standard guidance explains how to create this ID, based either on the known company or charity number, or upon identifiers held in the grant-maker’s internal systems."
+        },{
+            "titles": "Recipient Org:Name",
+            "dc:description": "String, required. Organisation name."
+        },{
+            "titles": "Recipient Org:Charity Number",
+            "dc:description": "String. Registered charity number, if applicable."
+        },{
+            "titles": "Recipient Org:Company Number",
+            "dc:description": "String. Registered UK company number, if applicable."
+        },{
+            "titles": "Recipient Org:Street Address",
+            "dc:description": "String. Building number and street name."
+        },{
+            "titles": "Recipient Org:City",
+            "dc:description": "String. City or town."
+        },{
+            "titles": "Recipient Org:County",
+            "dc:description": "String. County."
+        },{
+            "titles": "Recipient Org:Country",
+            "dc:description": "String. Country."
+        },{
+            "titles": "Recipient Org:Postal Code",
+            "dc:description": "String. Postal code (please try and provide a post code whenever possible)."
+        },{
+            "titles": "Recipient Org:Description",
+            "dc:description": "String. A short description of this organisation and its area of work."
+        },{
+            "titles": "Recipient Org:Web Address",
+            "dc:description": "Uri. A web address for the Organisation"
+        },{
+            "titles": "Beneficiary Location:Name",
+            "dc:description": "String. A name for this location."
+        },{
+            "titles": "Beneficiary Location:Country Code",
+            "dc:description": "String. The ISO Country Code of the location of this activity."
+        },{
+            "titles": "Beneficiary Location:Latitude",
+            "dc:description": "Number. The latitude of a point location."
+        },{
+            "titles": "Beneficiary Location:Longitude",
+            "dc:description": "Number. The longitude of a point location."
+        },{
+            "titles": "Beneficiary Location:Geographic Code",
+            "dc:description": "String. A code referring to a geographical area, drawn from an established gazetteer. For example, the code for a local authority ward, or parliamentary constituency."
+        },{
+            "titles": "Beneficiary Location:Geographic Code Type",
+            "dc:description": "String. The type of Geographic Code (geoCode) used (e.g. Ward, Parliamentary Constituency etc.). This value for this field should be drawn from the codelist of geographic code types."
+        },{
+            "titles": "Funding Org:Identifier",
+            "dc:description": "String, required. A globally unique identifier for this organisation. This is important to enable data on funders and recipients to be linked up across different grant-makers. The Organisation Identifier Standard guidance explains how to create this ID, based either on the known company or charity number, or upon identifiers held in the grant-maker’s internal systems. For Trafford Council this is: GB-LAE-TRF."
+        },{
+            "titles": "Funding Org:Name",
+            "dc:description": "String, required. Organisation name. For Trafford Council this is: Trafford Metropolitan Borough Council."
+        },{
+            "titles": "Funding Org:Department",
+            "dc:description": "String. The department or sub-unit of this organisation making or receiving the grant."
+        },{
+            "titles": "Grant Programme:Code",
+            "dc:description": "String. An identifier for this grant programme."
+        },{
+            "titles": "Grant Programme:Title",
+            "dc:description": "String. The title of this grant programme."
+        },{
+            "titles": "Grant Programme:URL",
+            "dc:description": "Uri. A web link to more details of this grant programme."
+        },{
+            "titles": "From An Open Call?",
+            "dc:description": "String. Was this grant made as the result of an open call for applications? Values should be ‘Yes’ or ‘No’."
+        },{
+            "titles": "Last Modified",
+            "dc:description": "Date-time. When was information on this grant last updated? A full date-time should be given. Usually this can be generated automatically by the software managing or exporting this data."
+        },{
+            "titles": "Data Source",
+            "dc:description": "Uri. A web link pointing to the source of this data. This may be an original 360Giving data file, a file from which the data was converted, or an organisation website."
+        }]
+    }
+}
