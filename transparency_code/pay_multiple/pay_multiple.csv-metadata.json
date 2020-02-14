@@ -1,0 +1,25 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "url": "pay_multiple.csv",
+    "tableSchema": {
+        "columns": [{
+            "titles": "Date",
+            "dc:description": "The date that the information was approved by the council, in YYYY-MM-DD format."
+        },{
+            "titles": "Chief Exec Salary",
+            "dc:description": "The Chief Executive Salary level used for comparative purposes, in Great British Pounds (GBP)."
+        },{
+            "titles": "Max Salary of Lowest Paid Job",
+            "dc:description": "The maximum salary level of the lowest paid Council job, in Great British Pounds (GBP)."
+        },{
+            "titles": "Median Salary",
+            "dc:description": "The Median (middle) of the salary range, in Great British Pounds (GBP)."
+        },{
+            "titles": "Ratio of Median to Chief Exec Salary",
+            "dc:description": "The ratio of pay between the median earner and the Chief Executive. The figures show the amount in Great British Pounds (GBP) earned by the Chief Executive for every £1 earned by the median earner."
+        },{
+            "titles": "Ratio of Lowest Paid to Average Chief Officer",
+            "dc:description": "The ratio of pay between the lowest paid employee and the average Chief Officer. The figures show the amount in Great British Pounds (GBP) earned by the average Chief Officer for every £1 earned by the lowest paid member of staff."
+        }]
+    }
+}
