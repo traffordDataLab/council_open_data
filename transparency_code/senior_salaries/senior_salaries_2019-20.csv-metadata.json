@@ -1,0 +1,37 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "senior_salaries_2019-20.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "Employee name",
+      "dc:description": "Name of the employee in post. A value of 'vacant' indicates that the role exists but is not presently filled, a value of 'n/a' indicates that the role no longer exists."
+    },{
+      "titles": "Job title",
+      "dc:description": "Title of the post held by the named employee."
+    },{
+      "titles": "Directorate",
+      "dc:description": "Area within the council structure dealing with a particular activity that the post is assigned to."
+    },{
+      "titles": "Salary band (bottom)",
+      "dc:description": "Lowest amount the post holder can earn."
+    },{
+      "titles": "Salary band (top)",
+      "dc:description": "Highest amount the post holder can earn."
+    },{
+      "titles": "Key responsibilities",
+      "dc:description": "The main responsibilities of the post."
+    },{
+      "titles": "Bonus value",
+      "dc:description": "Amount received as a bonus."
+    },{
+      "titles": "Bonus details",
+      "dc:description": "Information regarding the bonus received."
+    },{
+      "titles": "Benefits in kind value",
+      "dc:description": "Amount received as benefits in kind."
+    },{
+      "titles": "Benefits details",
+      "dc:description": "Information regarding the benefits in kind received."
+    }]
+  }
+}
