@@ -31,6 +31,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td><a href="#">View</a></td>
+	<td><a href="https://data.gov.uk/dataset/ee17e3bc-ea3e-4072-b5b2-882473b31dfa/trafford-council-waste-contract">View</a></td>
 </tr>
 </table>

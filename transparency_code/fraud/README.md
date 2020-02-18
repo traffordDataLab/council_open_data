@@ -31,6 +31,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td><a href="#">View</a></td>
+	<td><a href="https://data.gov.uk/dataset/4912290a-b62d-49a9-bb8c-f30ef87c375c/trafford-council-fraud">View</a></td>
 </tr>
 </table>
