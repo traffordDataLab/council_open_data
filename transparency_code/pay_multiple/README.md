@@ -31,6 +31,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td></td>
+	<td><a href="https://data.gov.uk/dataset/d9d9eef1-109e-4fdb-8165-104e0fbfce54/trafford-council-pay-multiple">View</a></td>
 </tr>
 </table>
