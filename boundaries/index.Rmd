@@ -3,6 +3,7 @@ pagetitle: "Boundaries"
 lang: "en-GB"
 output:
   html_document:
+    css: ../../open_data/guidance/template/styles.css
     self_contained: TRUE
 ---
 
@@ -14,41 +15,59 @@ library(tidyverse) ; library(htmltools) ; library(DT)
 #  rename_all(. %>% str_to_title() %>% str_replace_all("_", " "))
 ```
 
-<style>
-@import url("https://www.trafforddatalab.io/open_data/guidance/template/styles.css")
-</style>
 <header>
-<a href="https://www.trafforddatalab.io/data"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" width="100" border="0" style="position:absolute; top:0; right:0; padding:5px;"/></a>
+<span id="a11yNav"><a href="#downloads" class="themeBlockDark">Skip to downloads</a></span>
+<a href="https://www.trafforddatalab.io/data.html"><img src="https://www.trafforddatalab.io/assets/logo/trafforddatalab_logo.svg" alt="Trafford Data Lab" aria-label="Return to Trafford Data Lab data page" width="100" class="traffordDataLabLogo"/></a>
 
-# Boundaries
+<h1>Boundaries</h1>
 *Vector boundary layers for administrative, electoral and statistical geographies.*
-<br />
+
 </header>
+
 <main>
-## Metadata
+<h2>Metadata</h2>
 
-|Source |Publisher |Time period |Geography |Licence |Attribution |Last updated |
-|:---|:---|:---|:---|:---|:---|:---|
-|ONS Open Geography Portal |<a href="http://geoportal.statistics.gov.uk/" target="_blank">Office for National Statistics (ONS)</a> |2011 - 2019 |Local authority district, Electoral wards, Westminster Parliamentary Constituencies, Parishes, Middle Super Output Areas, Lower-layer Super Output Areas, Output Areas, Localities  |<a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a> |ONS Geography Open Data. Shared by: ONSGeography_data. Data Source: ons-inspire.esriuk.com |2020-01-21 |
+<table id="metadata" class="table table-condensed">
+  <thead>
+    <tr class="header">
+      <th>Source</th>
+      <th>Publisher</th>
+      <th>Time period</th>
+      <th>Geography</th>
+      <th>Licence</th>
+      <th>Attribution</th>
+      <th>Last updated</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>ONS Open Geography Portal</td>
+    <td><a href="http://geoportal.statistics.gov.uk/" target="_blank">Office for National Statistics (ONS)</a></td>
+    <td>2011-2019</td>
+    <td>Local authority district, Electoral wards, Westminster Parliamentary Constituencies, Parishes, Middle Super Output Areas, Lower-layer Super Output Areas, Output Areas, Localities</td>
+    <td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a></td>
+    <td>ONS Geography Open Data. Shared by: ONSGeography_data. Data Source: ons-inspire.esriuk.com</td>
+    <td><time datetime="2020-01-21">2020-01-21</time></td>
+  </tr>
+</table>
 
-## Preview
-The majority of these boundaries can be previewed in our <a href="https://www.trafforddatalab.io/explore/" target="_blank">Explore</a> mapping application. Alternatively you can also preview them within our <a href="https://github.com/traffordDataLab/council_open_data/tree/master/boundaries" target="_blank">council_open_data</a> GitHub repository.
+<h2>Preview</h2>
+The majority of these boundaries can be previewed in our <a href="https://www.trafforddatalab.io/explore/" target="_blank">Explore mapping application</a>. Alternatively you can also preview them within our <a href="https://github.com/traffordDataLab/council_open_data/tree/master/boundaries" target="_blank">council_open_data GitHub repository</a>.
 
-## Data
-Download the complete datasets using the links below.
+<h2>Data</h2>
+<span id ="downloads">Download the complete dataset using the following links:</span>
 
 |File name |Format |
-|:---|:---|
-|[local_authority_district](local_authority_district.geojson) |GeoJSON |
-|[localities](localities.geojson) |GeoJSON |
-|[electoral_ward](electoral_ward.geojson) |GeoJSON |
-|[msoa](msoa.geojson) |GeoJSON |
-|[lsoa](lsoa.geojson) |GeoJSON |
-|[oa](oa.geojson) |GeoJSON |
-|[parish](parish.geojson) |GeoJSON |
-|[westminster_parliamentary_constituency](westminster_parliamentary_constituency.geojson) |GeoJSON |
+|---|---|
+|[local_authority_district.geojson](local_authority_district.geojson) |GeoJSON |
+|[localities.geojson](localities.geojson) |GeoJSON |
+|[electoral_ward.geojson](electoral_ward.geojson) |GeoJSON |
+|[msoa.geojson](msoa.geojson) |GeoJSON |
+|[lsoa.geojson](lsoa.geojson) |GeoJSON |
+|[oa.geojson](oa.geojson) |GeoJSON |
+|[parish.geojson](parish.geojson) |GeoJSON |
+|[westminster_parliamentary_constituency.geojson](westminster_parliamentary_constituency.geojson) |GeoJSON |
 
-## Pre-processing
-The <a href="https://cran.r-project.org" target="_blank">R</a> [script](pre-processing.R) used to process the data can adapted to other areas.<br /><br />
+<h2>Pre-processing</h2>
+[The R script used to process the data](pre-processing.R) can be adapted to other areas. For information about R visit the <a href="https://cran.r-project.org" target="_blank">CRAN website</a>.
+
 </main>
-</script>
