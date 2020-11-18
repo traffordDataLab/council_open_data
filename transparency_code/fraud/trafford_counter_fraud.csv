@@ -1,6 +1,7 @@
-Organisation Name,Organisation URI,Reporting Date,Reporting Period,Total Occasions Fraud Powers Used,Total Fraud Employees Count,FTE Fraud Employees Count,Total Fraud Specialists Count,FTE Fraud Specialists Count,Amount Spent Countering Fraud,Total Cases Fraud Investigated,Total Cases Fraud Identified,Value Fraud Identified,Value Fraud Recovered,Total Cases Irregularities Investigated,Total Cases Irregularities Identified,Value Irregularities Identified,Value Irregularities Recovered
-Trafford Council,http://opendatacommunities.org/id/metropolitan-district-council/trafford,2015-03-31,Apr14 - Mar15,710,11,7,8,8,327310,517,NA,NA,NA,NA,NA,NA,NA
-Trafford Council,http://opendatacommunities.org/id/metropolitan-district-council/trafford,2016-03-31,Apr15 - Mar16,332,10,7.5,7,7,290962,648,NA,NA,NA,NA,NA,NA,NA
-Trafford Council,http://opendatacommunities.org/id/metropolitan-district-council/trafford,2017-03-31,Apr16 - Mar17,13,6,4.5,3,3,168486,265,NA,NA,NA,NA,NA,NA,NA
-Trafford Council,http://opendatacommunities.org/id/metropolitan-district-council/trafford,2018-03-31,Apr 17- Mar 18,15,6,5.3,3,3,174997,284,NA,NA,NA,NA,NA,NA,NA
-Trafford Council,http://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-31,Apr 18 - Mar 19,7,4,3.8,4,3.8,148831,278,NA,NA,NA,NA,NA,NA,NA
+Organisation Name,Organisation URI,Reporting Date,Reporting Period Start,Reporting Period End,Total Occasions Fraud Powers Used,Total Fraud Employees Count,FTE Fraud Employees Count,Total Fraud Specialists Count,FTE Fraud Specialists Count,Amount Spent Countering Fraud,Total Cases Fraud Investigated
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2015-03-31,2014-04-01,2015-03-31,710,11,7,8,8,327310,517
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2016-03-31,2015-04-01,2016-03-31,332,10,7.5,7,7,290962,648
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2017-03-31,2016-04-01,2017-03-31,13,6,4.5,3,3,168486,265
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2018-03-31,2017-04-01,2018-03-31,15,6,5.3,3,3,174997,284
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-31,2018-04-01,2019-03-31,7,4,3.8,4,3.8,148831,278
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020-03-31,2019-04-01,2020-03-31,30,4,4,3,3,132499,185

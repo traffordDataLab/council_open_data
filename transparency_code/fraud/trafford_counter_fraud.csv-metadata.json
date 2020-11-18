@@ -10,10 +10,13 @@
       "dc:description": "The Uniform Resource Identifier which contains the description of the organisation named in Organisation Name."
     },{
       "titles": "Reporting Date",
-      "dc:description": "The date that the data was reported, in the format YYYY-MM-DD."
+      "dc:description": "The date that the data was reported, in the ISO international date format YYYY-MM-DD."
     },{
-      "titles": "Reporting Period",
-      "dc:description": "The period of time to which the reported data relates."
+      "titles": "Reporting Period Start",
+      "dc:description": "The start date of the period to which the reported data relates, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "Reporting Period End",
+      "dc:description": "The end date of the period to which the reported data relates, in the ISO international date format YYYY-MM-DD."
     },{
       "titles": "Total Occasions Fraud Powers Used",
       "dc:description": "The number of occasions the authority used its powers under the Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014, or similar powers."
@@ -35,27 +38,6 @@
     },{
       "titles": "Total Cases Fraud Investigated",
       "dc:description": "The total number of fraud cases investigated."
-    },{
-      "titles": "Total Cases Fraud Identified",
-      "dc:description": "The total number of cases where fraud was dentified."
-    },{
-      "titles": "Value Fraud Identified",
-      "dc:description": "The value of the identified fraud, in Great British Pounds (GBP)."
-    },{
-      "titles": "Value Fraud Recovered",
-      "dc:description": "The value of the fraud recovered, in Great British Pounds (GBP)."
-    },{
-      "titles": "Total Cases Irregularities Investigated",
-      "dc:description": "The total number of cases of irregularity investigated."
-    },{
-      "titles": "Total Cases Irregularities Identified",
-      "dc:description": "The total number of cases where irregularity was identified."
-    },{
-      "titles": "Value Irregularities Identified",
-      "dc:description": "The value of the irregularity identified, in Great British Pounds (GBP)."
-    },{
-      "titles": "Value Irregularities Recovered",
-      "dc:description": "The value of the irregularity recovered, in Great British Pounds (GBP)."
     }]
   }
 }
