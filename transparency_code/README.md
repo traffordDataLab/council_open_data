@@ -1,9 +1,10 @@
 ## Transparency code
 
-Datasets that must be published in an open format by Trafford Council to meet the minimum requirement of the [Local Government Transparency Code](https://www.gov.uk/government/publications/local-government-transparency-code-2015).
+Datasets that must be published in an open format by Trafford Council to meet the minimum requirement of the [Local Government Transparency Code 2015](https://www.gov.uk/government/publications/local-government-transparency-code-2015).
 
 Column (variable) names in datasets are expressed in a presentation format, rather than snake case.
 
+**NOTE**: The 'Social housing asset value' dataset is not listed as Trafford Council transferred all social housing stock to Trafford Housing Trust in 2004 and so do not have any data to publish for this aspect of the Transparency Code.
 
 |Dataset |Frequency |Licence |
 |:--- |:--- |:--- |
@@ -11,7 +12,6 @@ Column (variable) names in datasets are expressed in a presentation format, rath
 |Government Procurement Card transactions |Quarterly | |
 |Procurement information |Quarterly | |
 |Local authority land |Annual | |
-|Social housing asset value |Annual | |
 |[Grants to voluntary, community and social enterprise organisations](grants) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |[Organisation chart](organisation_chart) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 |[Trade union facility time](trade_union_facility_time) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
