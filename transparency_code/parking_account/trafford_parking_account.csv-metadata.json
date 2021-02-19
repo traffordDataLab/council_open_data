@@ -1,0 +1,103 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "trafford_parking_account.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "organisation_name",
+      "dc:description": "The name of the organisation to which the dataset relates."
+    },{
+      "titles": "organisation_code",
+      "dc:description": "The Uniform Resource Identifier which contains the description of the organisation named in Organisation Name."
+    },{
+      "titles": "period",
+      "dc:description": "The financial year to which the data relates, in the format YYYY/YY."
+    },{
+      "titles": "on_street_income_parking",
+      "dc:description": "On street parking income in GBP from parking."
+    },{
+      "titles": "on_street_income_permit",
+      "dc:description": "On street parking income in GBP from the purchase of resident parking permits."
+    },{
+      "titles": "on_street_income_pcn",
+      "dc:description": "On street parking income in GBP from Penalty Charge Notices (PCN). PCN income cannot be split between on-street and car parks (off-street) so the amount stated is the total of all PCN income."
+    },{
+      "titles": "on_street_income_blue_badge",
+      "dc:description": "On street parking income in GBP from Blue Badge application fees."
+    },{
+      "titles": "on_street_income_other",
+      "dc:description": "On street parking income in GBP from other sources."
+    },{
+      "titles": "on_street_income_total",
+      "dc:description": "The total on street parking income in GBP."
+    },{
+      "titles": "on_street_costs_enforcement",
+      "dc:description": "On street parking direct costs in GBP from civil enforcement. Parking contract and enforcement - total enforcement contract costs included here as no split between on and off street."
+    },{
+      "titles": "on_street_costs_admin",
+      "dc:description": "On street parking direct costs in GBP from admin, appeals, debt recovery and maintenance. All staffing and running costs and central costs less enforcement and capital."
+    },{
+      "titles": "on_street_costs_schemes",
+      "dc:description": "On street parking direct costs in GBP from scheme review/new schemes."
+    },{
+      "titles": "on_street_costs_capital",
+      "dc:description": "On street parking direct costs in GBP from capital charges."
+    },{
+      "titles": "on_street_costs_other",
+      "dc:description": "On street parking direct costs in GBP from other aspects."
+    },{
+      "titles": "on_street_costs_total",
+      "dc:description": "The total on street parking direct costs in GBP."
+    },{
+      "titles": "on_street_surplus_deficit",
+      "dc:description": "On street parking surplus/deficit in GBP (On Street Income:Total minus On Street Costs:Total). Deficit shown as negative amount."
+    },{
+      "titles": "on_street_surplus_deficit_spend_off_street_parking",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on off street parking provision"
+    },{
+      "titles": "on_street_surplus_deficit_spend_park_and_ride",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on park and ride."
+    },{
+      "titles": "on_street_surplus_deficit_spend_supported_bus",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on supported bus service."
+    },{
+      "titles": "on_street_surplus_deficit_spend_concessionary_fares",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on concessionary fares and passes."
+    },{
+      "titles": "on_street_surplus_deficit_spend_community_transport",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on community transport."
+    },{
+      "titles": "on_street_surplus_deficit_spend_shopmobility",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on Shopmobility."
+    },{
+      "titles": "on_street_surplus_deficit_spend_school_crossing",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on school crossing patrols."
+    },{
+      "titles": "on_street_surplus_deficit_spend_highway_maintenance",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on highway maintenance and traffic improvement."
+    },{
+      "titles": "on_street_surplus_deficit_spend_transport_planning",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on transport planning costs."
+    },{
+      "titles": "on_street_surplus_deficit_spend_other",
+      "dc:description": "Amount of on street parking surplus/deficit in GBP spent on other apects."
+    },{
+      "titles": "off_street_income_parking",
+      "dc:description": "Off street parking income in GBP from parking."
+    },{
+      "titles": "off_street_income_pcn",
+      "dc:description": "Off street parking income resulting from Penalty Charge Notices (PCN). PCN income cannot be split between on-street and car parks (off-street) so the value stated is NA and the total amount of all PCN income is given in on_street_income_pcn."
+    },{
+      "titles": "off_street_income_other",
+      "dc:description": "Off street parking income in GBP from other sources."
+    },{
+      "titles": "off_street_income_total",
+      "dc:description": "The total off street parking income in GBP"
+    },{
+      "titles": "off_street_costs_total",
+      "dc:description": "The total off street parking direct costs in GBP."
+    },{
+      "titles": "off_street_surplus_deficit",
+      "dc:description": "Off street parking surplus/deficit in GBP (Off Street Income:Total minus Off Street Costs:Total). Deficit shown as negative amount."
+    }]
+  }
+}
