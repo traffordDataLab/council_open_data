@@ -3,41 +3,38 @@
   "url": "trafford_counter_fraud.csv",
   "tableSchema": {
     "columns": [{
-      "titles": "Organisation Name",
+      "titles": "OrganisationLabel",
       "dc:description": "The name of the organisation to which the counter fraud activity relates."
     },{
-      "titles": "Organisation URI",
+      "titles": "OrganisationCode",
       "dc:description": "The Uniform Resource Identifier which contains the description of the organisation named in Organisation Name."
     },{
-      "titles": "Reporting Date",
+      "titles": "EffectiveDate",
       "dc:description": "The date that the data was reported, in the ISO international date format YYYY-MM-DD."
     },{
-      "titles": "Reporting Period Start",
-      "dc:description": "The start date of the period to which the reported data relates, in the ISO international date format YYYY-MM-DD."
-    },{
-      "titles": "Reporting Period End",
-      "dc:description": "The end date of the period to which the reported data relates, in the ISO international date format YYYY-MM-DD."
-    },{
-      "titles": "Total Occasions Fraud Powers Used",
+      "titles": "TotalOccasionsFraudPowers",
       "dc:description": "The number of occasions the authority used its powers under the Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014, or similar powers."
     },{
-      "titles": "Total Fraud Employees Count",
+      "titles": "TotalFraudEmployeesCount",
       "dc:description": "Total number of employees undertaking investigations and prosecutions of fraud."
     },{
-      "titles": "FTE Fraud Employees Count",
+      "titles": "FTEFraudEmployeesCount",
       "dc:description": "Total Full Time Equivalent number of employees undertaking investigations and prosecutions of fraud."
     },{
-      "titles": "Total Fraud Specialists Count",
+      "titles": "TotalFraudSpecialistsCount",
       "dc:description": "Total number of professionally accredited counter fraud specialists."
     },{
-      "titles": "FTE Fraud Specialists Count",
+      "titles": "FTEFraudSpecialistCount",
       "dc:description": "Total Full Time Equivalent number of professionally accredited counter fraud specialists."
     },{
-      "titles": "Amount Spent Countering Fraud",
-      "dc:description": "Total amount spent by the authority on the investigation and prosecution of fraud."
+      "titles": "FraudSpentAmount",
+      "dc:description": "Total amount spent by the authority in GBP on the investigation and prosecution of fraud."
     },{
-      "titles": "Total Cases Fraud Investigated",
+      "titles": "TotalInvestigatedFraud",
       "dc:description": "The total number of fraud cases investigated."
+    },{
+      "titles": "Period",
+      "dc:description": "The financial year to which the data relates in the format YYYY/YY."
     }]
   }
 }
