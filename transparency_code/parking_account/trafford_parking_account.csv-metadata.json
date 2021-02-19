@@ -49,7 +49,7 @@
       "dc:description": "The total on street parking direct costs in GBP."
     },{
       "titles": "on_street_surplus_deficit",
-      "dc:description": "On street parking surplus/deficit in GBP (On Street Income:Total minus On Street Costs:Total). Deficit shown as negative amount."
+      "dc:description": "On street parking surplus/deficit in GBP (on_street_income_total minus on_street_costs_total). Deficit shown as negative amount."
     },{
       "titles": "on_street_surplus_deficit_spend_off_street_parking",
       "dc:description": "Amount of on street parking surplus/deficit in GBP spent on off street parking provision"
@@ -97,7 +97,7 @@
       "dc:description": "The total off street parking direct costs in GBP."
     },{
       "titles": "off_street_surplus_deficit",
-      "dc:description": "Off street parking surplus/deficit in GBP (Off Street Income:Total minus Off Street Costs:Total). Deficit shown as negative amount."
+      "dc:description": "Off street parking surplus/deficit in GBP (off_street_income_total minus off_street_costs_total). Deficit shown as negative amount."
     }]
   }
 }
