@@ -9,10 +9,8 @@ library(tidyverse)
 # Read in the data to a tibble
 df_raw <- read_csv("https://www.trafford.gov.uk/about-your-council/data-protection/open-data/docs/trafford-public-funeral-summary.csv")
 
-# Tidy up the data
+# Tidy up the data making the variable names snake case
 df <- df_raw %>%
-  # Rename the columns according to the LGA schema: https://schemas.opendata.esd.org.uk/Fraud
-  # NOTE: we have added an extra field `Period` which contains the financial year to which the data belongs. This is because `EffectiveDate` doesn't convey this fully.
   rename(organisation_name = `Organisation Name`,
          organisation_code = `Organisation Code`,
          period = `Period`,
