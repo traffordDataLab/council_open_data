@@ -1,0 +1,25 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "cctv.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "camera_id",
+      "dc:description": "Unique CCTV camera id"
+    },{
+      "titles": "location",
+      "dc:description": "Name of the road or place the CCTV camera is located on."
+    },{
+      "titles": "area_name",
+      "dc:description": "Name of the Local Authority in which the CCTV camera is located."
+    },{
+      "titles": "area_code",
+      "dc:description": "Unique reference code of the Local Authority in which the CCTV camera is located."
+    },{
+      "titles": "lon",
+      "dc:description": "Longitude coordinate of the CCTV camera."
+    },{
+      "titles": "lat",
+      "dc:description": "Latitude coordinate of the CCTV camera."
+    }]
+  }
+}

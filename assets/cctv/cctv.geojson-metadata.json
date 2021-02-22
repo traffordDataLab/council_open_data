@@ -8,6 +8,12 @@
     },{
       "titles": "location",
       "dc:description": "Name of road CCTV is located on."
+    },{
+      "titles": "area_name",
+      "dc:description": "Name of the Local Authority in which the CCTV is located."
+    },{
+      "titles": "area_code",
+      "dc:description": "Unique reference code of the Local Authority in which the CCTV is located."
     }]
   }
 }

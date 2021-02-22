@@ -17,7 +17,7 @@
 </tr>
 <tr>
 	<td>Format</td>
-	<td>GeoJSON</td>
+	<td>CSV, GeoJSON</td>
 </tr>
 <tr>
 	<td>Openness rating</td>
@@ -25,7 +25,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2019-04-12</td>
+	<td>2021-02-10</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
