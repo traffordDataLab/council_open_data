@@ -5,7 +5,7 @@
 </tr>
 <tr>
 	<td>Description</td>
-	<td>Summary information of Public Health Funerals carried out by Trafford Council under the Public Health (Control of Diseases) Act 1984. Information given by financial year from 2015/16. Please note the [Freedom of Information disclaimer](https://www.trafford.gov.uk/about-your-council/data-protection/open-data/open-data-notes.aspx#public_funeral_information_disclaimer) regarding what information the council is able to publish.</td>
+	<td>Summary information of Public Health Funerals carried out by Trafford Council under the Public Health (Control of Diseases) Act 1984. Information given by financial year from 2015/16. Latest financial year's data correct up to Q3. Please note the <a href="https://www.trafford.gov.uk/about-your-council/data-protection/open-data/open-data-notes.aspx#public_funeral_information_disclaimer">Freedom of Information disclaimer</a> regarding what information the council is able to publish.</td>
 </tr>
 <tr>
 	<td>Frequency</td>
