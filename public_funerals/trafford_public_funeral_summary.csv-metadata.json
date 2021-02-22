@@ -1,0 +1,28 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "trafford_public_funeral_summary.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "organisation_name",
+      "dc:description": "The name of the organisation to which the dataset relates."
+    },{
+      "titles": "organisation_code",
+      "dc:description": "The Uniform Resource Identifier which contains the description of the organisation named in Organisation Name."
+    },{
+      "titles": "period",
+      "dc:description": "The financial year to which the data relates in the format YYYY/YY."
+    },{
+      "titles": "number_of_funerals",
+      "dc:description": "The total number of public funerals provided by Trafford within the time period."
+    },{
+      "titles": "cost",
+      "dc:description": "The total cost in GBP of providing the funerals. NA indicates that the information was not recorded."
+    },{
+      "titles": "number_of_burials",
+      "dc:description": "The number of funerals out of the total which were provided as burials."
+    },{
+      "titles": "number_of_cremations",
+      "dc:description": "The number of funerals out of the total which were provided as cremations."
+    }]
+  }
+}
