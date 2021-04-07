@@ -27,10 +27,10 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2020-11-11</td>
+	<td>2021-04-07</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td></td>
+	<td><a href="https://data.gov.uk/dataset/b8be28d4-e7be-4f1c-a83d-ca49bee16f5b/trafford-council-grants-to-voluntary-and-community-organisations">Trafford Council - Grants to voluntary and community organisations</a></td>
 </tr>
 </table>
