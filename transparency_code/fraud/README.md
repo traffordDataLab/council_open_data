@@ -10,6 +10,10 @@
 	<td>Information regarding counter fraud work undertaken by Trafford Council.</td>
 </tr>
 <tr>
+	<td>Temporal coverage</td>
+	<td>2014/15 - 2020/21</td>
+</tr>
+<tr>
 	<td>Frequency</td>
 	<td>Annual</td>
 </tr>
@@ -27,7 +31,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2020-03-31</td>
+	<td>2021-06-31</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
