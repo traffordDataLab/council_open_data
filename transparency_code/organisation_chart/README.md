@@ -27,7 +27,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2018-19</td>
+	<td>2021-07-23</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
