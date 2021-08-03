@@ -1,8 +1,8 @@
-OrganisationLabel,OrganisationCode,EffectiveDate,TotalOccasionsFraudPowers,TotalFraudEmployeesCount,FTEFraudEmployeesCount,TotalFraudSpecialistsCount,FTEFraudSpecialistCount,FraudSpentAmount,TotalInvestigatedFraud,Period
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2015-03-31,710,11,7,8,8,327310,517,2014/15
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2016-03-31,332,10,7.5,7,7,290962,648,2015/16
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2017-03-31,13,6,4.5,3,3,168486,265,2016/17
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2018-03-31,15,6,5.3,3,3,174997,284,2017/18
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-31,7,4,3.8,4,3.8,148831,278,2018/19
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020-03-31,30,4,4,3,3,132499,185,2019/20
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2021-03-31,13,4,3,3,2,110176,132,2020/21
+Organisation name,Organisation code,Effective date,Total occasions fraud powers,Total fraud employees count,FTE fraud employees count,Total fraud specialists count,FTE fraud specialist count,Fraud spent amount,Total investigated fraud,Total identified fraud,Value fraud,Value fraud recovered,Total investigated irregularities,Total identified irregularities,Value irregularities,Value irregularities recovered
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2015-03-31,710,11,7,8,8,327310,517,NA,NA,NA,NA,NA,NA,NA
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2016-03-31,332,10,7.5,7,7,290962,648,NA,NA,NA,NA,NA,NA,NA
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2017-03-31,13,6,4.5,3,3,168486,265,NA,NA,NA,NA,NA,NA,NA
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2018-03-31,15,6,5.3,3,3,174997,284,NA,NA,NA,NA,NA,NA,NA
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-31,7,4,3.8,4,3.8,148831,278,NA,NA,NA,NA,NA,NA,NA
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020-03-31,30,4,4,3,3,132499,185,NA,NA,NA,NA,NA,NA,NA
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2021-03-31,13,4,3,3,2,110176,132,NA,NA,NA,NA,NA,NA,NA

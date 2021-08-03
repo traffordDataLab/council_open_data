@@ -1,40 +1,58 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "trafford_counter_fraud.csv",
+  "url": "https://www.trafforddatalab.io/council_open_data/transparency_code/fraud/trafford_counter_fraud.csv",
   "tableSchema": {
     "columns": [{
-      "titles": "OrganisationLabel",
+      "titles": "Organisation name",
       "dc:description": "The name of the organisation to which the counter fraud activity relates."
     },{
-      "titles": "OrganisationCode",
-      "dc:description": "The Uniform Resource Identifier which contains the description of the organisation named in Organisation Name."
+      "titles": "Organisation code",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
     },{
-      "titles": "EffectiveDate",
-      "dc:description": "The date that the data was reported, in the ISO international date format YYYY-MM-DD."
+      "titles": "Effective date",
+      "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
     },{
-      "titles": "TotalOccasionsFraudPowers",
-      "dc:description": "The number of occasions the authority used its powers under the Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014, or similar powers."
+      "titles": "Total occasions fraud powers",
+      "dc:description": "Number of occasions the organisation used its powers under the Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014, or similar powers."
     },{
-      "titles": "TotalFraudEmployeesCount",
+      "titles": "Total fraud employees count",
       "dc:description": "Total number of employees undertaking investigations and prosecutions of fraud."
     },{
-      "titles": "FTEFraudEmployeesCount",
-      "dc:description": "Total Full Time Equivalent number of employees undertaking investigations and prosecutions of fraud."
+      "titles": "FTE fraud employees count",
+      "dc:description": "Total full time equivalent numbers of employees undertaking investigations and prosecutions of fraud."
     },{
-      "titles": "TotalFraudSpecialistsCount",
+      "titles": "Total fraud specialists count",
       "dc:description": "Total number of professionally accredited counter fraud specialists."
     },{
-      "titles": "FTEFraudSpecialistCount",
-      "dc:description": "Total Full Time Equivalent number of professionally accredited counter fraud specialists."
+      "titles": "FTE fraud specialist count",
+      "dc:description": "Total full time equivalent numbers of professionally accredited counter fraud specialists."
     },{
-      "titles": "FraudSpentAmount",
-      "dc:description": "Total amount spent by the authority in GBP on the investigation and prosecution of fraud."
+      "titles": "Fraud spent amount",
+      "dc:description": "Total amount spent by the organisation in GBP on the investigation and prosecution of fraud."
     },{
-      "titles": "TotalInvestigatedFraud",
-      "dc:description": "The total number of fraud cases investigated."
+      "titles": "Total investigated fraud",
+      "dc:description": "Total number of fraud cases investigated."
     },{
-      "titles": "Period",
-      "dc:description": "The financial year to which the data relates in the format YYYY/YY."
+      "titles": "Total identified fraud",
+      "dc:description": "Total number of occasions on which fraud was identified."
+    },{
+      "titles": "Value fraud",
+      "dc:description": "Total monetary value in GBP of the fraud that was detected."
+    },{
+      "titles": "Value fraud recovered",
+      "dc:description": "Total monetary value in GBP of the fraud that was recovered."
+    },{
+      "titles": "Total investigated irregularities",
+      "dc:description": "Total number of cases of irregularity investigated."
+    },{
+      "titles": "Total identified irregularities",
+      "dc:description": "Total number of occasions on which an irregularity was identified."
+    },{
+      "titles": "Value irregularities",
+      "dc:description": "Total monetary value in GBP of the irregularity that was detected."
+    },{
+      "titles": "Value irregularities recovered",
+      "dc:description": "Total monetary value in GBP of the irregularity that was recovered."
     }]
   }
 }
