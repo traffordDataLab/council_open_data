@@ -1,25 +1,34 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "url": "pay_multiple.csv",
+    "url": "https://www.trafforddatalab.io/council_open_data/transparency_code/pay_multiple/pay_multiple.csv",
     "tableSchema": {
         "columns": [{
-            "titles": "Date",
-            "dc:description": "The date that the information was approved by the council, in YYYY-MM-DD format."
+          "titles": "Organisation name",
+          "dc:description": "The name of the organisation to which the pay multiple data relates."
         },{
-            "titles": "Chief Exec Salary",
-            "dc:description": "The Chief Executive Salary level used for comparative purposes, in Great British Pounds (GBP)."
+          "titles": "Organisation code",
+          "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
         },{
-            "titles": "Lowest Paid Job Salary",
-            "dc:description": "The maximum salary level of the lowest paid Council job, in Great British Pounds (GBP)."
+          "titles": "Effective date",
+          "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
         },{
-            "titles": "Median Salary",
-            "dc:description": "The Median (middle) of the salary range, in Great British Pounds (GBP)."
+            "titles": "Pay multiple factor",
+            "dc:description": "Factor that is used to calculate the pay multiple: 'Median', 'Mean', 'Lowest' and 'Highest' remuneration pay. The use of 'Median' and 'Highest' is mandatory, the other factors are optional."
         },{
-            "titles": "Ratio of Median to Chief Exec Salary",
-            "dc:description": "The ratio of pay between the median earner and the Chief Executive. The figures show the amount in Great British Pounds (GBP) earned by the Chief Executive for every £1 earned by the median earner."
+            "titles": "Renumeration value",
+            "dc:description": "Remuneration value in GBP for the 'Pay multiple factor'."
         },{
-            "titles": "Ratio of Lowest Paid to Average Chief Officer Salary",
-            "dc:description": "The ratio of pay between the lowest paid employee and the average Chief Officer. The figures show the amount in Great British Pounds (GBP) earned by the average Chief Officer for every £1 earned by the lowest paid member of staff."
+            "titles": "Ratio",
+            "dc:description": "The ratio is the highest earned remuneration divided by the 'Pay multiple factor'. The Transparency Code mandates to show the pay multiple for the median remuneration, i.e Highest:Median. Shown as numeric ratio."
+        },{
+            "titles": "Period",
+            "dc:description": "The financial year for which the pay multiple is calculated in the format YYYY/YY."
+        },{
+            "titles": "Model calculation",
+            "dc:description": "Code from 0 - 4 to specify what factor was used to calculate the ratio, to meet the requirement of www.paycompare.org.uk. 0 = Unreported or otherwise uncertain, 1 = Highest:Median of whole workforce, 2 = Highest:Median of non-chief officers, 3 = Highest:Mean of whole workforce, 4 = Highest:lowest."
+        },{
+            "titles": "Organisation type",
+            "dc:description": "Abbreviation to specify type of public organisation. MBC = Metropolitan Borough Council."
         }]
     }
 }

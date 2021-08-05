@@ -1,4 +1,10 @@
-Date,Chief Exec Salary,Lowest Paid Job Salary,Median Salary,Ratio of Median to Chief Exec Salary,Ratio of Lowest Paid to Average Chief Officer Salary
-2019-03-20,165000,15016,23111,1:7.14,1:6.23
-2020-03-18,165000,17323,23836,1:6.92,1:5.71
-2021-03-24,169538,17800,24491,1:6.92,1:5.76
+Organisation name,Organisation code,Effective date,Pay multiple factor,Renumeration value,Ratio,Period,Model calculation,Organisation type
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-20,Highest,165000,1.00:1,2019/20,0,MBC
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-20,Median,23111,7.14:1,2019/20,1,MBC
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-20,Lowest,15016,10.99:1,2019/20,4,MBC
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020-03-18,Highest,165000,1.00:1,2020/21,0,MBC
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020-03-18,Median,23836,6.92:1,2020/21,1,MBC
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020-03-18,Lowest,17323,9.52:1,2020/21,4,MBC
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2021-03-24,Highest,169538,1.00:1,2021/22,0,MBC
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2021-03-24,Median,24491,6.92:1,2021/22,1,MBC
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2021-03-24,Lowest,17800,9.52:1,2021/22,4,MBC

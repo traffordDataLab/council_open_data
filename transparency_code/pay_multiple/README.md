@@ -19,7 +19,7 @@
 </tr>
 <tr>
 	<td>Format</td>
-	<td>CSV, PDF</td>
+	<td>CSV</td>
 </tr>
 <tr>
 	<td>Openness rating</td>
@@ -27,7 +27,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2021-05-06</td>
+	<td>2021-08-05</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
