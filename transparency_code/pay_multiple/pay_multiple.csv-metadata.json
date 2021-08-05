@@ -15,7 +15,7 @@
             "titles": "Pay multiple factor",
             "dc:description": "Factor that is used to calculate the pay multiple: 'Median', 'Mean', 'Lowest' and 'Highest' remuneration pay. The use of 'Median' and 'Highest' is mandatory, the other factors are optional."
         },{
-            "titles": "Renumeration value",
+            "titles": "Remuneration value",
             "dc:description": "Remuneration value in GBP for the 'Pay multiple factor'."
         },{
             "titles": "Ratio",
