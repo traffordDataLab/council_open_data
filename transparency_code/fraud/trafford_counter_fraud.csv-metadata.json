@@ -3,55 +3,55 @@
   "url": "https://www.trafforddatalab.io/council_open_data/transparency_code/fraud/trafford_counter_fraud.csv",
   "tableSchema": {
     "columns": [{
-      "titles": "Organisation name",
+      "titles": "OrganisationLabel",
       "dc:description": "The name of the organisation to which the counter fraud activity relates."
     },{
-      "titles": "Organisation code",
+      "titles": "OrganisationURI",
       "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
     },{
-      "titles": "Effective date",
+      "titles": "EffectiveDate",
       "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
     },{
-      "titles": "Total occasions fraud powers",
+      "titles": "TotalOccasionsFraudPowers",
       "dc:description": "Number of occasions the organisation used its powers under the Prevention of Social Housing Fraud (Power to Require Information) (England) Regulations 2014, or similar powers."
     },{
-      "titles": "Total fraud employees count",
+      "titles": "TotalFraudEmployeesCount",
       "dc:description": "Total number of employees undertaking investigations and prosecutions of fraud."
     },{
-      "titles": "FTE fraud employees count",
+      "titles": "FTEFraudEmployeesCount",
       "dc:description": "Total full time equivalent numbers of employees undertaking investigations and prosecutions of fraud."
     },{
-      "titles": "Total fraud specialists count",
+      "titles": "TotalFraudSpecialistsCount",
       "dc:description": "Total number of professionally accredited counter fraud specialists."
     },{
-      "titles": "FTE fraud specialist count",
+      "titles": "FTEFraudSpecialistCount",
       "dc:description": "Total full time equivalent numbers of professionally accredited counter fraud specialists."
     },{
-      "titles": "Fraud spent amount",
+      "titles": "FraudSpentAmount",
       "dc:description": "Total amount spent by the organisation in GBP on the investigation and prosecution of fraud."
     },{
-      "titles": "Total investigated fraud",
+      "titles": "TotalInvestigatedFraud",
       "dc:description": "Total number of fraud cases investigated."
     },{
-      "titles": "Total identified fraud",
+      "titles": "TotalIdentifiedFraud",
       "dc:description": "Total number of occasions on which fraud was identified."
     },{
-      "titles": "Value fraud",
+      "titles": "ValueFraud",
       "dc:description": "Total monetary value in GBP of the fraud that was detected."
     },{
-      "titles": "Value fraud recovered",
+      "titles": "ValueFraudRecovered",
       "dc:description": "Total monetary value in GBP of the fraud that was recovered."
     },{
-      "titles": "Total investigated irregularities",
+      "titles": "TotalInvestigatedIrregularities",
       "dc:description": "Total number of cases of irregularity investigated."
     },{
-      "titles": "Total identified irregularities",
+      "titles": "TotalIdentifiedIrregularities",
       "dc:description": "Total number of occasions on which an irregularity was identified."
     },{
-      "titles": "Value irregularities",
+      "titles": "ValueIrregularities",
       "dc:description": "Total monetary value in GBP of the irregularity that was detected."
     },{
-      "titles": "Value irregularities recovered",
+      "titles": "ValueIrregularitiesRecovered",
       "dc:description": "Total monetary value in GBP of the irregularity that was recovered."
     }]
   }
