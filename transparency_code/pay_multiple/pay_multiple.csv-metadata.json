@@ -3,19 +3,19 @@
     "url": "https://www.trafforddatalab.io/council_open_data/transparency_code/pay_multiple/pay_multiple.csv",
     "tableSchema": {
         "columns": [{
-          "titles": "Organisation name",
+          "titles": "OrganisationLabel",
           "dc:description": "The name of the organisation to which the pay multiple data relates."
         },{
-          "titles": "Organisation code",
+          "titles": "OrganisationURI",
           "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
         },{
-          "titles": "Effective date",
+          "titles": "EffectiveDate",
           "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
         },{
-            "titles": "Pay multiple factor",
+            "titles": "PayMultipleFactor",
             "dc:description": "Factor that is used to calculate the pay multiple: 'Median', 'Mean', 'Lowest' and 'Highest' remuneration pay. The use of 'Median' and 'Highest' is mandatory, the other factors are optional."
         },{
-            "titles": "Remuneration value",
+            "titles": "RemunerationValue",
             "dc:description": "Remuneration value in GBP for the 'Pay multiple factor'."
         },{
             "titles": "Ratio",
@@ -24,10 +24,10 @@
             "titles": "Period",
             "dc:description": "The financial year for which the pay multiple is calculated in the format YYYY/YY."
         },{
-            "titles": "Model calculation",
+            "titles": "ModelCalculation",
             "dc:description": "Code from 0 - 4 to specify what factor was used to calculate the ratio, to meet the requirement of www.paycompare.org.uk. 0 = Unreported or otherwise uncertain, 1 = Highest:Median of whole workforce, 2 = Highest:Median of non-chief officers, 3 = Highest:Mean of whole workforce, 4 = Highest:lowest."
         },{
-            "titles": "Organisation type",
+            "titles": "OrganisationType",
             "dc:description": "Abbreviation to specify type of public organisation. MBC = Metropolitan Borough Council."
         }]
     }

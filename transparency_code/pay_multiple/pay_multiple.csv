@@ -1,4 +1,4 @@
-Organisation name,Organisation code,Effective date,Pay multiple factor,Remuneration value,Ratio,Period,Model calculation,Organisation type
+OrganisationLabel,OrganisationURI,EffectiveDate,PayMultipleFactor,RemunerationValue,Ratio,Period,ModelCalculation,OrganisationType
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-20,Highest,165000,1.00:1,2019/20,0,MBC
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-20,Median,23111,7.14:1,2019/20,1,MBC
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019-03-20,Lowest,15016,10.99:1,2019/20,4,MBC
