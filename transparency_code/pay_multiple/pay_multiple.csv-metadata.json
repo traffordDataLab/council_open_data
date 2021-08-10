@@ -16,10 +16,10 @@
             "dc:description": "Factor that is used to calculate the pay multiple: 'Median', 'Mean', 'Lowest' and 'Highest' remuneration pay. The use of 'Median' and 'Highest' is mandatory, the other factors are optional."
         },{
             "titles": "RemunerationValue",
-            "dc:description": "Remuneration value in GBP for the 'Pay multiple factor'."
+            "dc:description": "Remuneration value in GBP for the pay multiple factor."
         },{
             "titles": "Ratio",
-            "dc:description": "The ratio is the highest earned remuneration divided by the 'Pay multiple factor'. The Transparency Code mandates to show the pay multiple for the median remuneration, i.e Highest:Median. Shown as numeric ratio."
+            "dc:description": "The ratio is the highest earned remuneration divided by the pay multiple factor. The Transparency Code mandates to show the pay multiple for the median remuneration, i.e Highest:Median. Shown as numeric ratio."
         },{
             "titles": "Period",
             "dc:description": "The financial year for which the pay multiple is calculated in the format YYYY/YY."
