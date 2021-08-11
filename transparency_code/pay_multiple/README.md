@@ -10,6 +10,10 @@
 	<td>Ratio between the highest taxable earnings for the given year (including base salary, variable pay, bonuses, allowances and the cash value of any benefits-in-kind) and the median earnings figure of the whole of the authority's workforce. This information is also contained within Trafford Council's Pay Policy Statement.</td>
 </tr>
 <tr>
+	<td>Temporal coverage</td>
+	<td>2019/20 - 2021/22</td>
+</tr>
+<tr>
 	<td>Frequency</td>
 	<td>Annual</td>
 </tr>
@@ -27,7 +31,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2021-08-09</td>
+	<td>2021-08-11</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
