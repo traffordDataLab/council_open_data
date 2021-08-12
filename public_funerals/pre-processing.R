@@ -12,7 +12,7 @@ df_raw <- read_csv("https://www.trafford.gov.uk/about-your-council/data-protecti
 # Tidy up the data making the variable names snake case
 df <- df_raw %>%
   rename(organisation_name = `Organisation Name`,
-         organisation_code = `Organisation Code`,
+         organisation_uri = `Organisation Code`,
          period = `Period`,
          number_of_funerals = `Number of Funerals`,
          cost = `Cost`,
