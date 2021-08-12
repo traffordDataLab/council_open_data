@@ -5,11 +5,15 @@
 </tr>
 <tr>
 	<td>Description</td>
-	<td>Summary information of Public Health Funerals carried out by Trafford Council under the Public Health (Control of Diseases) Act 1984. Information given by financial year from 2015/16. Latest financial year's data correct up to Q3. Please note the <a href="https://www.trafford.gov.uk/about-your-council/data-protection/open-data/open-data-notes.aspx#public_funeral_information_disclaimer">Freedom of Information disclaimer</a> regarding what information the council is able to publish.</td>
+	<td>Summary information of Public Health Funerals carried out by Trafford Council under the Public Health (Control of Diseases) Act 1984. Information given by financial year. Please note the <a href="https://www.trafford.gov.uk/about-your-council/data-protection/open-data/open-data-notes.aspx#public_funeral_information_disclaimer">Freedom of Information disclaimer</a> regarding what information the council is able to publish.</td>
+</tr>
+<tr>
+	<td>Temporal coverage</td>
+	<td>2015/16 - 2021/22 (Q1)</td>
 </tr>
 <tr>
 	<td>Frequency</td>
-	<td>Annual</td>
+	<td>Quarterly</td>
 </tr>
 <tr>
 	<td>Licence</td>
@@ -25,10 +29,10 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2021-02-19</td>
+	<td>2021-08-12</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td></td>
+	<td><a href="https://data.gov.uk/dataset/88f973fe-e5ad-4909-87b6-df0e818f60e9/trafford-council-public-funerals">View</a></td>
 </tr>
 </table>
