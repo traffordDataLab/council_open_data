@@ -1,0 +1,34 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "url": "https://www.trafforddatalab.io/council_open_data/transparency_code/trade_union_facility_time/trade_union_facility_time.csv",
+    "tableSchema": {
+        "columns": [{
+          "titles": "OrganisationLabel",
+          "dc:description": "The name of the organisation to which the data relates."
+        },{
+          "titles": "OrganisationURI",
+          "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+        },{
+          "titles": "EffectiveDate",
+          "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
+        },{
+            "titles": "TotalRepresentativeCount",
+            "dc:description": "Total number of staff who are union representatives (including general, learning and health and safety representatives)."
+        },{
+            "titles": "FTERepresentativesCount",
+            "dc:description": "Total number (full time equivalent) of staff who are unionrepresentatives (including general, learning and health and safety representatives)."
+        },{
+            "titles": "TotalRepresentativesMajorityDutyCount",
+            "dc:description": "Total number of union representatives who devote at least 50 per cent of their time to union duties."
+        },{
+            "titles": "FTERepresentativesMajorityDutyCount",
+            "dc:description": "Total number (full time equivalent) of union representatives who devote at least 50 per cent of their time to union duties."
+        },{
+            "titles": "TotalEstimateSpendingAmount",
+            "dc:description": "A basic estimate of spending on unions in GBP. Calculated as the number of full time equivalent days spent on union duties multiplied by the average salary."
+        },{
+            "titles": "RelativeEstimateSpending",
+            "dc:description": "A basic estimate of spending on unions as a percentage of the total pay bill. Calculated as the total estimate spending divided by the total pay bill multiplied by 100 per cent."
+        }]
+    }
+}

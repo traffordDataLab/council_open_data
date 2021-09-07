@@ -10,6 +10,10 @@
 	<td>Paid time off during working hours for trade union representatives to carry out trade union duties.</td>
 </tr>
 <tr>
+	<td>Temporal coverage</td>
+	<td>2016/17 - 2020/21</td>
+</tr>
+<tr>
 	<td>Frequency</td>
 	<td>Annual</td>
 </tr>
@@ -19,15 +23,15 @@
 </tr>
 <tr>
 	<td>Format</td>
-	<td>PDF</td>
+	<td>CSV</td>
 </tr>
 <tr>
 	<td>Openness rating</td>
-	<td>&#9733;&#9734;&#9734;&#9734;&#9734;&nbsp; available on the Web under an open licence</td>
+	<td>&#9733;&#9733;&#9733;&#9734;&#9734;&nbsp; Structured data in a non-proprietary format (e.g. CSV)</td>
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2019</td>
+	<td>2021-09-07</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
