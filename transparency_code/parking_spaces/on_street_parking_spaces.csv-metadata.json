@@ -1,0 +1,37 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "on_street_parking_spaces.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "OrganisationLabel",
+      "dc:description": "The name of the organisation to which the dataset relates."
+    },{
+      "titles": "OrganisationURI",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+    },{
+      "titles": "EffectiveDate",
+      "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "TrafficRegulationOrderType",
+      "dc:description": "The type of Traffic Regulation Order (TRO) which applies to the parking spaces."
+    },{
+      "titles": "Location",
+      "dc:description": "Street name and area where the parking spaces are located."
+    },{
+      "titles": "SideOfRoad",
+      "dc:description": "The side of road/street where the parking spaces are located."
+    },{
+      "titles": "ParkingSpaces",
+      "dc:description": "The approximate number of parking spaces available at the location."
+    },{
+      "titles": "FreeParking",
+      "dc:description": "TRUE or FALSE indicating whether parking is available free of charge."
+    },{
+      "titles": "ParkingStartPoint",
+      "dc:description": "Description of where the parking spaces start in relation to a fixed identifiable point e.g. junction with another road."
+    },{
+      "titles": "ParkingEndPoint",
+      "dc:description": "Description of where the parking spaces end in relation to a fixed identifiable point e.g. junction with another road."
+    }]
+  }
+}

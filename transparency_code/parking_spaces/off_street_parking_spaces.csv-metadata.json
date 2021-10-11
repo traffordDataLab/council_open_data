@@ -1,0 +1,52 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "off_street_parking_spaces.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "OrganisationLabel",
+      "dc:description": "The name of the organisation to which the dataset relates."
+    },{
+      "titles": "OrganisationURI",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+    },{
+      "titles": "EffectiveDate",
+      "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "Location",
+      "dc:description": "Street name and area where the car park is located."
+    },{
+      "titles": "Postcode",
+      "dc:description": "Postcode where the car park is located."
+    },{
+      "titles": "ParkingSpaces",
+      "dc:description": "The number of parking spaces available within the car park."
+    },{
+      "titles": "DisabledParkingSpaces",
+      "dc:description": "The number of parking spaces specifically marked out as a disabled parking bay."
+    },{
+      "titles": "ParkingRestrictions",
+      "dc:description": "Information relating to the terms of use of the car park e.g. time limits, applicable charges etc."
+    },{
+      "titles": "FreeParking",
+      "dc:description": "TRUE or FALSE indicating whether parking is available free of charge (subject to the terms mentioned in ParkingRestrictions)."
+    },{
+      "titles": "ChargeableParking",
+      "dc:description": "TRUE or FALSE indicating whether parking is subject to a charge (subject to the terms mentioned in ParkingRestrictions)."
+    },{
+      "titles": "HeightRestriction",
+      "dc:description": "TRUE or FALSE indicating whether there is a height restriction in force."
+    },{
+      "titles": "HeightRestrictionMetres",
+      "dc:description": "Height restriction (if applicable) in metres expressed as a number to 2 decimal places, e.g. 1.98 and is approximately derived from the HeightRestrictionFeet value. Zero value indicates no height restriction."
+    },{
+      "titles": "HeightRestrictionFeet",
+      "dc:description": "Height restriction (if applicable) in feet expressed as a number to 1 decimal place e.g. 6.5 is 6 and a half feet, or 6 feet 6 inches. Zero value indicates no height restriction."
+    },{
+      "titles": "ElectricVehiclePoint",
+      "dc:description": "TRUE or FALSE indicating whether there are charging points for electric vehicles."
+    },{
+      "titles": "ParkMarkAward",
+      "dc:description": "TRUE or FALSE indicating whether the car park has been awarded a Park Mark, a Police Crime Prevention Initiative (Police-CPI) aimed at reducing both crime and the fear of crime in parking facilities. More information is available at https://www.parkmark.co.uk/."
+    }]
+  }
+}
