@@ -16,7 +16,7 @@ Column (variable) names in these datasets may be expressed in formats other than
 |[Organisation chart](organisation_chart) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 |[Trade union facility time](trade_union_facility_time) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |[Parking account](parking_account) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|Parking spaces |Annual | |
+|[Parking spaces](parking_spaces) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |[Senior salaries](senior_salaries) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |[Constitution](constitution) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |[Pay multiple](pay_multiple) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
