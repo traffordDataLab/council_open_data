@@ -35,6 +35,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td><a href="https://data.gov.uk/dataset/9bde628d-d3f9-478c-b7f2-6d9523f99981/trafford-council-trade-union-facility-time">View</a></td>
+	<td><a href="https://data.gov.uk/dataset/9bde628d-d3f9-478c-b7f2-6d9523f99981/trafford-council-trade-union-facility-time">Trafford Council - Trade union facility time</a></td>
 </tr>
 </table>

@@ -31,6 +31,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td><a href="https://data.gov.uk/dataset/d1ef450e-a18c-4152-946e-59c4d11471db/trafford-council-constitution">View</a></td>
+	<td><a href="https://data.gov.uk/dataset/d1ef450e-a18c-4152-946e-59c4d11471db/trafford-council-constitution">Trafford Council - Constitution</a></td>
 </tr>
 </table>

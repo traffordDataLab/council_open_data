@@ -31,6 +31,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td><a href="https://data.gov.uk/dataset/63e25c61-93dd-4ed3-9c86-cb64fb299377/trafford-council-senior-salaries">View</a></td>
+	<td><a href="https://data.gov.uk/dataset/63e25c61-93dd-4ed3-9c86-cb64fb299377/trafford-council-senior-salaries">Trafford Council - Senior Salaries</a></td>
 </tr>
 </table>
