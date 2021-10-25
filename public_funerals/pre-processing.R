@@ -1,23 +1,13 @@
 ## Public Health Funerals ##
 # Source: Trafford Council
-# Publisher URL: https://www.trafford.gov.uk/about-your-council/data-protection/open-data/docs/trafford-public-funeral-summary.csv
+# Publisher URL: https://www.trafford.gov.uk/about-your-council/data-protection/open-data/docs/trafford-public-funerals.csv
 # Licence: Open Government Licence v3.0
 
 # Load the necessary R packages
 library(tidyverse)
 
 # Read in the data to a tibble
-df_raw <- read_csv("https://www.trafford.gov.uk/about-your-council/data-protection/open-data/docs/trafford-public-funeral-summary.csv")
+df_raw <- read_csv("https://www.trafford.gov.uk/about-your-council/data-protection/open-data/docs/trafford-public-funerals.csv")
 
-# Tidy up the data making the variable names snake case
-df <- df_raw %>%
-  rename(organisation_name = `Organisation Name`,
-         organisation_uri = `Organisation Code`,
-         period = `Period`,
-         number_of_funerals = `Number of Funerals`,
-         cost = `Cost`,
-         number_of_burials = `Number of Burials`,
-         number_of_cremations = `Number of Cremations`)
-  
-# Write out the cleaned data
-write_csv(df, "trafford_public_funeral_summary.csv")
+# No tidying of the data required, so just write out the raw data
+write_csv(df_raw, "trafford_public_funerals.csv")

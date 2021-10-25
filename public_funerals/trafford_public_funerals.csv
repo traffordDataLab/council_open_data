@@ -1,8 +1,27 @@
-organisation_name,organisation_uri,period,number_of_funerals,cost,number_of_burials,number_of_cremations
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2015/16,5,NA,1,4
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2016/17,4,3671.22,3,1
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2017/18,4,3409,4,0
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2018/19,3,3500,0,3
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019/20,2,1573.35,2,0
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,10,13451,6,4
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2021/22,2,2328,1,1
+OrganisationLabel,OrganisationURI,FinancialYear,CalendarYear,Date,Cost,Type
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2015/16,2016,2016-03-17,1262,Unknown
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2016/17,2016,2016-11-28,740,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2016/17,2016,2016-12-08,793,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2016/17,2017,2017-02-06,1199,Cremation
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2016/17,2017,2017-03-16,939.22,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2017/18,2017,2017,812,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2017/18,2017,2017-06-05,869,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2017/18,2017,2017-06-29,859,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2017/18,2017,2017-08-24,869,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2018/19,2018,2018-06-18,1180,Cremation
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2018/19,2018,2018-08-06,1180,Cremation
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2018/19,2018,2018-10-18,1140,Cremation
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019/20,2019,2019-07-29,1210.78,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2019/20,2019,2019-08-19,362.57,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-04-22,1509,Cremation
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-04-24,24,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-04-30,24,Cremation
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-05-04,1475,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-05-06,2075,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-06-19,2075,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-07-15,1159,Cremation
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-08-12,1159,Cremation
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-10-15,1975.5,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2020/21,2020,2020-10-15,1975.5,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2021/22,2021,2021-04-21,1164,Burial
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2021/22,2021,2021-06-25,1164,Cremation

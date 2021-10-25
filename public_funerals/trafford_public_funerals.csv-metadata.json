@@ -3,26 +3,26 @@
   "url": "https://www.trafforddatalab.io/council_open_data/public_funerals/trafford_public_funeral_summary.csv",
   "tableSchema": {
     "columns": [{
-      "titles": "organisation_name",
+      "titles": "OrganisationLabel",
       "dc:description": "The name of the organisation to which the dataset relates."
     },{
-      "titles": "organisation_uri",
+      "titles": "OrganisationURI",
       "dc:description": "The Uniform Resource Identifier which contains the description of the organisation."
     },{
-      "titles": "period",
-      "dc:description": "The financial year to which the data relates in the format YYYY/YY."
+      "titles": "FinancialYear",
+      "dc:description": "The financial year in which the funeral took place in the format YYYY/YY."
     },{
-      "titles": "number_of_funerals",
-      "dc:description": "The total number of public funerals provided within the period."
+      "titles": "CalendarYear",
+      "dc:description": "The calendar year in which the funeral took place in the format YYYY."
     },{
-      "titles": "cost",
-      "dc:description": "The total cost in GBP of providing the funerals. NA indicates that the information was not recorded."
+      "titles": "Date",
+      "dc:description": "The actual date that the funeral took place in the format YYYY-MM-DD."
     },{
-      "titles": "number_of_burials",
-      "dc:description": "The number of funerals out of the total which were provided as burials."
+      "titles": "Cost",
+      "dc:description": "The total cost in GBP of providing the funeral."
     },{
-      "titles": "number_of_cremations",
-      "dc:description": "The number of funerals out of the total which were provided as cremations."
+      "titles": "Type",
+      "dc:description": "Whether the funeral was a Burial or a Cremation."
     }]
   }
 }
