@@ -1,0 +1,22 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "https://www.trafforddatalab.io/council_open_data/transparency_code/senior_salaries/senior_salaries_count.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "OrganisationLabel",
+      "dc:description": "The name of the organisation to which the data relates."
+    },{
+      "titles": "OrganisationURI",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+    },{
+      "titles": "EffectiveDate",
+      "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "RenumerationBand",
+      "dc:description": "Salary bands starting at 50,000 GBP in brackets of 5,000 GBP."
+    },{
+      "titles": "EmployeeCount",
+      "dc:description": "Number of employees whose renumeration falls within the salary band."
+    }]
+  }
+}

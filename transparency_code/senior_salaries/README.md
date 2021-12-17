@@ -7,7 +7,7 @@
 </tr>
 <tr>
 	<td>Description</td>
-	<td>Details of the salaries of senior employees of Trafford Council. The data includes job title, responsibilities and salary band.</td>
+	<td>Details of renumeration, job title and responsibilities of senior employees whose salary is at least &pound;50,000 and the number of employees whose renumeration is at least £50,000 in brackets of £5,000.</td>
 </tr>
 <tr>
 	<td>Frequency</td>
@@ -27,7 +27,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2020-02-18</td>
+	<td>2021-12-17</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>

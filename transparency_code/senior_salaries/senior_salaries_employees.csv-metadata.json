@@ -1,0 +1,52 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "https://www.trafforddatalab.io/council_open_data/transparency_code/senior_salaries/senior_salaries_employees.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "OrganisationLabel",
+      "dc:description": "The name of the organisation to which the data relates."
+    },{
+      "titles": "OrganisationURI",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+    },{
+      "titles": "EffectiveDate",
+      "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "JobTitle",
+      "dc:description": "Job title of the employee."
+    },{
+      "titles": "Name",
+      "dc:description": "Name of the individual for senior employees whose salary is 150,000 GBP and over, otherwise NA indicating Not Applicable."
+    },{
+      "titles": "Directorate",
+      "dc:description": "The name of the directorate/department within the local authority to which the employee belongs."
+    },{
+      "titles": "Salary",
+      "dc:description": "Total pay in salary for the accounting period in GBP."
+    },{
+      "titles": "PensionContribution",
+      "dc:description": "How much annually the employer contributes towards the individual's pension expressed as a percentage."
+    },{
+      "titles": "Bonuses",
+      "dc:description": "The value of the employee's bonus. NA indicates that this is Not Applicable."
+    },{
+      "titles": "ExpenseAllowances",
+      "dc:description": "The total value of expenses subject to income tax to which the employee is entitled. NA indicates that this is Not Applicable."
+    },{
+      "titles": "LossOfPostCompensation",
+      "dc:description": "Payments made to or received by the individual in connection with the termination of their employment. NA indicates that this is Not Applicable."
+    },{
+      "titles": "BenefitsInKind",
+      "dc:description": "The total value of benefits in kind to which the individual is entitled. NA indicates that this is Not Applicable."
+    },{
+      "titles": "BonusDetails",
+      "dc:description": "List of bonus details. NA indicates that this is Not Applicable."
+    },{
+      "titles": "BenefitsDetails",
+      "dc:description": "List of benefits details. NA indicates that this is Not Applicable."
+    },{
+      "titles": "Responsibilities",
+      "dc:description": "List of the individual's responsibilities."
+    }]
+  }
+}
