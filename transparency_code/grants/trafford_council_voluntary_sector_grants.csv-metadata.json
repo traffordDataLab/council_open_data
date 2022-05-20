@@ -1,6 +1,6 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
-    "url": "trafford_council_grants.csv",
+    "url": "trafford_council_voluntary_sector_grants.csv",
     "tableSchema": {
         "columns": [{
             "titles": "Identifier",
