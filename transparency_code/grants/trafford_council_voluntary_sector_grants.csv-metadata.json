@@ -111,6 +111,9 @@
             "titles": "From An Open Call?",
             "dc:description": "String. Was this grant made as the result of an open call for applications? Values should be ‘Yes’ or ‘No’."
         },{
+            "titles": "Related Activity",
+            "dc:description": "Array[string]. The identifiers of any related activities (e.g. other grants given as part of a multi-grant project)."
+        },{
             "titles": "Last Modified",
             "dc:description": "Date-time. When was information on this grant last updated? A full date-time should be given. Usually this can be generated automatically by the software managing or exporting this data."
         },{
