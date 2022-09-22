@@ -1,4 +1,5 @@
 # Administrative, electoral and statistical boundaries #
+# Generalised resolution (20m)
 
 library(tidyverse) ; library(sf)
 
@@ -37,33 +38,46 @@ st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Administrative_Boun
   select(area_code = par18cd, area_name = par18nm) %>% 
   st_write("parish.geojson")
 
-# Middle Super Output Areas -------------------------
+# Middle layer Super Output Areas (2021) -------------------------
 # Source: ONS Open Geography Portal
-# URL: https://geoportal.statistics.gov.uk/datasets/middle-layer-super-output-areas-december-2011-boundaries-bgc
+# URL: https://geoportal.statistics.gov.uk/datasets/ons::middle-layer-super-output-areas-december-2021-boundaries-generalised-clipped-ew-bgc/about
 # Licence: OGL v3.0
-st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Middle_Super_Output_Areas_December_2011_Boundaries/MapServer/2/query?where=msoa11cd%20IN%20('E02001283',%20'E02001277',%20'E02001282',%20'E02001281',%20'E02001278',%20'E02001279',%20'E02001272',%20'E02001273',%20'E02001276',%20'E02001285',%20'E02001284',%20'E02001275',%20'E02001259',%20'E02001262',%20'E02001260',%20'E02001268',%20'E02001274',%20'E02001286',%20'E02001266',%20'E02001265',%20'E02001270',%20'E02001264',%20'E02001271',%20'E02001263',%20'E02001269',%20'E02001261',%20'E02001280',%20'E02001267')&outFields=msoa11cd,msoa11nm&outSR=4326&f=geojson") %>% 
-  select(area_code = msoa11cd, area_name = msoa11nm) %>% 
+st_read("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Middle_layer_Super_Output_Areas_December_2021_EW_BGC/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson") %>%
+  select(area_code = MSOA21CD, area_name = MSOA21NM) %>% 
+  st_as_sf(crs = 4326, coords = c("long", "lat")) %>%
+  filter(grepl('Trafford', area_name)) %>%
   st_write("msoa.geojson")
 
-# Lower-layer Super Output Areas -------------------------
+# Lower layer Super Output Areas (2021) -------------------------
 # Source: ONS Open Geography Portal
-# URL: https://geoportal.statistics.gov.uk/datasets/lower-layer-super-output-areas-december-2011-generalised-clipped-boundaries-in-england-and-wales
+# URL: https://geoportal.statistics.gov.uk/datasets/ons::lower-layer-super-output-areas-december-2021-boundaries-generalised-clipped-ew-bgc/about
 # Licence: OGL v3.0
-st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Lower_Super_Output_Areas_December_2011_Boundaries/MapServer/2/query?where=UPPER(lsoa11nm)%20like%20'%25TRAFFORD%25'&outFields=lsoa11cd,lsoa11nm&outSR=4326&f=geojson") %>% 
-  select(area_code = lsoa11cd, area_name = lsoa11nm) %>% 
+st_read("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Lower_layer_Super_Output_Areas_Decemeber_2021_EW_BGC/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson") %>%
+  select(area_code = LSOA21CD, area_name = LSOA21NM) %>% 
+  st_as_sf(crs = 4326, coords = c("long", "lat")) %>%
+  filter(grepl('Trafford', area_name)) %>%
   st_write("lsoa.geojson")
 
-# Output Areas -------------------------
+# Output Areas (2021) -------------------------
 # Source: ONS Open Geography Portal
-# URL: https://geoportal.statistics.gov.uk/datasets/output-area-december-2011-generalised-clipped-boundaries-in-england-and-wales
+# URL: https://geoportal.statistics.gov.uk/datasets/ons::output-areas-december-2021-boundaries-generalised-clipped-ew-bgc/about
 # Licence: OGL v3.0
-st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Census_Boundaries/Output_Area_December_2011_Boundaries/MapServer/2/query?where=UPPER(lad11cd)%20like%20'%25E08000009%25'&outFields=oa11cd&outSR=4326&f=json") %>% 
-  select(area_code = oa11cd) %>% 
+
+# Load statistical lookup CSV to match the OA area codes to Local Authorities so that we can isolate the OAs for Trafford
+# Source: https://geoportal.statistics.gov.uk/datasets/output-area-to-lower-layer-super-output-area-to-middle-layer-super-output-area-to-local-authority-district-december-2021-lookup-in-england-and-wales-v2/about
+df_lookup <- read_csv("https://www.arcgis.com/sharing/rest/content/items/9f0bc2c6fbc9427ba11db01759e5f6d8/data") %>%
+  select(area_code = oa21cd, la_code = lad22cd, la_name = lad22nm)
+
+st_read("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Output_Areas_December_2021_Boundaries_EW_BGC/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson") %>%
+  select(area_code = OA21CD) %>% 
+  st_as_sf(crs = 4326, coords = c("long", "lat")) %>%
+  left_join(df_lookup) %>%
+  filter(la_code == "E08000009") %>%
   st_write("oa.geojson")
 
 # Localities -------------------------
 # Source: ONS Open Geography Portal
-# URL: https://geoportal.statistics.gov.uk/datasets/output-area-december-2011-generalised-clipped-boundaries-in-england-and-wales
+# URL: https://geoportal.statistics.gov.uk/datasets/wards-december-2018-generalised-clipped-boundaries-uk
 # Licence: OGL v3.0
 st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Administrative_Boundaries/Wards_December_2018_Boundaries_V3/MapServer/2/query?where=wd18cd%20IN%20('E05000819',%20'E05000820',%20'E05000821',%20'E05000822',%20'E05000823',%20'E05000824',%20'E05000825',%20'E05000826',%20'E05000827',%20'E05000828',%20'E05000829',%20'E05000830',%20'E05000831',%20'E05000832',%20'E05000833',%20'E05000834',%20'E05000835',%20'E05000836',%20'E05000837',%20'E05000838',%20'E05000839')&outFields=wd18cd,wd18nm&outSR=4326&f=geojson") %>% 
   select(area_code = wd18cd, area_name = wd18nm) %>% 
