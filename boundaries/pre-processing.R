@@ -5,10 +5,11 @@ library(tidyverse) ; library(sf)
 
 # Local authority district -------------------------
 # Source: ONS Open Geography Portal
-# URL: https://geoportal.statistics.gov.uk/datasets/local-authority-districts-april-2019-boundaries-uk-bgc
+# URL: https://geoportal.statistics.gov.uk/datasets/ons::local-authority-districts-december-2021-gb-bgc/about
 # Licence: OGL v3.0
-la <- st_read("https://ons-inspire.esriuk.com/arcgis/rest/services/Administrative_Boundaries/Local_Authority_Districts_April_2019_Boundaries_UK_BGC/MapServer/0/query?where=UPPER(lad19cd)%20like%20'%25E08000009%25'&outFields=lad19cd,lad19nm&outSR=4326&f=geojson") %>% 
-  select(area_code = lad19cd, area_name = lad19nm) 
+# NOTE: we need the LA boundary stored in order to do an intersection calculation later for Westminster Parliamentary Constituencies
+la <- st_read("https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_December_2021_GB_BGC/FeatureServer/0/query?outFields=lad21cd,lad21nm&where=UPPER(lad21cd)%20like%20%27%25E08000009%25%27&f=geojson") %>% 
+  select(area_code = LAD21CD, area_name = LAD21NM) 
 
 st_write(la, "local_authority_district.geojson")
 
