@@ -7,7 +7,7 @@
 </tr>
 <tr>
 	<td>Description</td>
-	<td>Breakdown of income and expenditure on the authority's parking account by financial year. Information is published 1 year in arrears.</td>
+	<td>Breakdown of income and expenditure on the authority's parking account by financial year.</td>
 </tr>
 <tr>
 	<td>Frequency</td>
@@ -27,7 +27,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2021-02-19</td>
+	<td>2022-10-03</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
