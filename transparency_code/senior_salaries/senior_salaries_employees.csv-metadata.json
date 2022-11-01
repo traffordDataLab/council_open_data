@@ -21,8 +21,11 @@
       "titles": "Directorate",
       "dc:description": "The name of the directorate/department within the local authority to which the employee belongs."
     },{
+      "titles": "Service",
+      "dc:description": "The name of the service or team below the directorate/department to which the employee belongs. NA indicates that this is Not Applicable.""
+    },{
       "titles": "Salary",
-      "dc:description": "Total pay in salary for the accounting period in GBP."
+      "dc:description": "Total pay in salary for the accounting period in GBP. NOTE: Salary for Acting Chief Executive/Corporate Director of Strategy and Resources includes an estimated £345 accrued Pay Award for 2021/2022, which wasn't paid until April 2022."
     },{
       "titles": "PensionContribution",
       "dc:description": "How much annually the employer contributes towards the individual's pension expressed as a percentage."
