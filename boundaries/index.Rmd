@@ -46,7 +46,7 @@ library(tidyverse) ; library(htmltools) ; library(DT)
     <td>Local authority district, Electoral wards, Westminster Parliamentary Constituencies, Parishes, Middle layer Super Output Areas, Lower layer Super Output Areas, Output Areas, Localities</td>
     <td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a></td>
     <td>ONS Geography Open Data. Shared by: ONSGeography_data. Data Source: ons-inspire.esriuk.com</td>
-    <td><time datetime="2022-09-21">2022-09-23</time></td>
+    <td><time datetime="2023-07-28">2023-07-28</time></td>
   </tr>
 </table>
 
