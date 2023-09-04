@@ -10,7 +10,7 @@ library(tidyverse)
 df_raw <- read_csv("https://www.trafford.gov.uk/about-your-council/open-data/docs/trafford-council-voluntary-sector-grants.csv")
 
 # Write out the data, no changes required
-write_csv(df_raw, "trafford_council_voluntary_sector_grants.csv")
+write_csv(df_raw, "trafford_council_voluntary_sector_grants.csv", na = "", eol = "\r\n")
 
 # Get CSV data converted to JSON by 360Giving Data Tool using the following steps:
 #1. Go to: https://dataquality.threesixtygiving.org
