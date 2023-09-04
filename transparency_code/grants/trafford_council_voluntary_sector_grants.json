@@ -4554,8 +4554,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-seed_studios",
+                    "id": "GB-CHC-1172658",
                     "name": "Seed Studios",
+                    "charityNumber": "1172658",
                     "addressCountry": "England"
                 }
             ],
@@ -4581,7 +4582,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -6750,7 +6751,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-the_friends_of_moor_nook_park",
+                    "id": "360G-trafford-friends_of_moor_nook_park",
                     "name": "The Friends of Moor Nook Park",
                     "addressCountry": "England"
                 }
@@ -6777,7 +6778,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -6794,7 +6795,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-the_friends_of_walkden_gardens",
+                    "id": "360G-trafford-friends_of_walkden_gardens",
                     "name": "The Friends of Walkden Gardens",
                     "addressCountry": "England"
                 }
@@ -6821,7 +6822,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -7154,8 +7155,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-friends_of_victoria_park",
+                    "id": "GB-CHC-1179731",
                     "name": "Friends of Victoria Park",
+                    "charityNumber": "1179731",
                     "addressCountry": "England"
                 }
             ],
@@ -7181,7 +7183,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -7331,8 +7333,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-theatre_of_the_senses",
+                    "id": "GB-COH-12201647",
                     "name": "Theatre Of The Senses",
+                    "companyNumber": "12201647",
                     "addressCountry": "England"
                 }
             ],
@@ -7358,7 +7361,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -9352,7 +9355,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-hard_yards_running_club_",
+                    "id": "360G-trafford-hard_yards_running_club",
                     "name": "Hard Yards Running Club",
                     "addressCountry": "England"
                 }
@@ -9379,7 +9382,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -9486,7 +9489,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-leaf-_language_library",
+                    "id": "360G-trafford-leaf_language_library",
                     "name": "LEAF- Language Library",
                     "addressCountry": "England"
                 }
@@ -9513,7 +9516,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -9889,7 +9892,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-urmston_in_bloom_",
+                    "id": "360G-trafford-urmston_in_bloom",
                     "name": "Urmston in Bloom",
                     "addressCountry": "England"
                 }
@@ -9916,7 +9919,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -11092,8 +11095,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-pegasus_riding_for_the_disabled",
+                    "id": "GB-CHC-1171377",
                     "name": "Pegasus Riding for the Disabled",
+                    "charityNumber": "1171377",
                     "addressCountry": "England"
                 }
             ],
@@ -11119,7 +11123,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -11268,7 +11272,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-stories_of_care_",
+                    "id": "360G-trafford-stories_of_care",
                     "name": "Stories of Care",
                     "addressCountry": "England"
                 }
@@ -11295,7 +11299,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -11356,7 +11360,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-the_friends_of_walkden_gardens",
+                    "id": "360G-trafford-friends_of_walkden_gardens",
                     "name": "The Friends Of Walkden Gardens",
                     "addressCountry": "England"
                 }
@@ -11383,7 +11387,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -11890,7 +11894,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-the_friends_of_oak_road_park",
+                    "id": "360G-trafford-friends_of_oak_road_park",
                     "name": "The Friends of Oak Road park",
                     "addressCountry": "England"
                 }
@@ -11917,7 +11921,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -12563,7 +12567,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-leaf-_language_library",
+                    "id": "360G-trafford-leaf_language_library",
                     "name": "LEAF- Language Library",
                     "addressCountry": "England"
                 }
@@ -12590,7 +12594,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -13409,7 +13413,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-trafford_african_and_caribbean_over_50's_club",
+                    "id": "360G-trafford-trafford_african_and_caribbean_over_50s_club",
                     "name": "Trafford African & Caribbean Over 50's Club",
                     "addressCountry": "England"
                 }
@@ -13436,7 +13440,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -13632,8 +13636,8 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-friends_of_broadway_park_davyhulme",
-                    "name": "Friends of Broadway Park Davyhulme",
+                    "id": "360G-trafford-friends_of_broadway_park",
+                    "name": "Friends of Broadway Park",
                     "addressCountry": "England"
                 }
             ],
@@ -13659,7 +13663,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -14028,7 +14032,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-friends_of_worthington_park_",
+                    "id": "360G-trafford-friends_of_worthington_park",
                     "name": "Friends of Worthington Park",
                     "addressCountry": "England"
                 }
@@ -14055,7 +14059,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -14207,7 +14211,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-pomona_gardens_",
+                    "id": "360G-trafford-pomona_gardens",
                     "name": "Pomona gardens",
                     "addressCountry": "England"
                 }
@@ -14234,7 +14238,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -14296,7 +14300,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-roebuck_lane_events_",
+                    "id": "360G-trafford-roebuck_lane_events",
                     "name": "Roebuck Lane Events",
                     "addressCountry": "England"
                 }
@@ -14323,7 +14327,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -14566,7 +14570,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-the_friends_of_denzell_gardens_and_the_devisdale",
+                    "id": "360G-trafford-friends_of_denzell_gardens_and_the_devisdale",
                     "name": "The Friends of Denzell Gardens and the Devisdale",
                     "addressCountry": "England"
                 }
@@ -14593,7 +14597,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -14610,7 +14614,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-the_friends_of_king_george_v_pool",
+                    "id": "360G-trafford-friends_of_king_george_v_pool",
                     "name": "The Friends of King George V Pool",
                     "addressCountry": "England"
                 }
@@ -14637,7 +14641,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -16491,7 +16495,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-united_response",
+                    "id": "360G-trafford-united_response",
                     "name": "United Response",
                     "addressCountry": "England"
                 }
@@ -16518,7 +16522,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -16535,7 +16539,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-african_caribbean_care_group",
+                    "id": "360G-trafford-african_caribbean_care_group",
                     "name": "African Caribbean Care Group",
                     "addressCountry": "England"
                 }
@@ -16562,7 +16566,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -16625,7 +16629,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-the_manchester_deaf_centre",
+                    "id": "360G-trafford-the_manchester_deaf_centre",
                     "name": "The Manchester Deaf Centre",
                     "addressCountry": "England"
                 }
@@ -16652,7 +16656,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -16760,7 +16764,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-pulling_together_asian_womens_group",
+                    "id": "360G-trafford-pulling_together_asian_womens_group",
                     "name": "Pulling Together Asian Women's Group",
                     "addressCountry": "England"
                 }
@@ -16787,7 +16791,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -16804,7 +16808,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-dynamic_heights",
+                    "id": "360G-trafford-dynamic_heights",
                     "name": "Dynamic Heights",
                     "addressCountry": "England"
                 }
@@ -16831,7 +16835,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -16938,7 +16942,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-tufc",
+                    "id": "360G-trafford-tufc",
                     "name": "TUF*C",
                     "addressCountry": "England"
                 }
@@ -16965,7 +16969,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17027,7 +17031,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_woodstock_park",
+                    "id": "360G-trafford-friends_of_woodstock_park",
                     "name": "Friends of Woodstock Park",
                     "addressCountry": "England"
                 }
@@ -17054,7 +17058,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17071,7 +17075,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-altrincham_chinese_association",
+                    "id": "360G-trafford-altrincham_chinese_association",
                     "name": "Altrincham Chinese Association",
                     "addressCountry": "England"
                 }
@@ -17098,7 +17102,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17115,8 +17119,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_victoria_park",
+                    "id": "GB-CHC-1179731",
                     "name": "Friends of Victoria Park",
+                    "charityNumber": "1179731",
                     "addressCountry": "England"
                 }
             ],
@@ -17142,7 +17147,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17159,7 +17164,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-drake_music",
+                    "id": "360G-trafford-drake_music",
                     "name": "Drake Music",
                     "addressCountry": "England"
                 }
@@ -17186,7 +17191,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17248,8 +17253,10 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-st_johns_centre",
-                    "name": "St Johns Centre",
+                    "id": "GB-COH-07597525",
+                    "name": "St John's Centre",
+                    "charityNumber": "1146058",
+                    "companyNumber": "07597525",
                     "addressCountry": "England"
                 }
             ],
@@ -17275,7 +17282,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:47Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17294,6 +17301,7 @@
                 {
                     "id": "GB-COH-09646545",
                     "name": "Gorse Hill Studios",
+                    "charityNumber": "1172118",
                     "companyNumber": "09646545",
                     "addressCountry": "England"
                 }
@@ -17320,7 +17328,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:54Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17382,8 +17390,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-pegasus_horseriding_for_the_disabled_association",
+                    "id": "GB-CHC-1171377",
                     "name": "Pegasus Horseriding for the Disabled Association",
+                    "charityNumber": "1171377",
                     "addressCountry": "England"
                 }
             ],
@@ -17409,7 +17418,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17426,7 +17435,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-the_hullard_park_apiary",
+                    "id": "360G-trafford-the_hullard_park_apiary",
                     "name": "The Hullard Park Apiary",
                     "addressCountry": "England"
                 }
@@ -17453,7 +17462,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17470,7 +17479,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-princess_street_festival",
+                    "id": "360G-trafford-princess_street_festival",
                     "name": "Princess Street Festival",
                     "addressCountry": "England"
                 }
@@ -17497,7 +17506,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17514,7 +17523,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-community_development_initiative",
+                    "id": "360G-trafford-community_development_initiative",
                     "name": "Community Development Initiative",
                     "addressCountry": "England"
                 }
@@ -17541,7 +17550,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17558,7 +17567,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_worthington_park",
+                    "id": "360G-trafford-friends_of_worthington_park",
                     "name": "Friends of Worthington Park",
                     "addressCountry": "England"
                 }
@@ -17585,7 +17594,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17602,7 +17611,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_davyhulme_park",
+                    "id": "360G-trafford-friends_of_davyhulme_park",
                     "name": "Friends of Davyhulme Park",
                     "addressCountry": "England"
                 }
@@ -17629,7 +17638,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17646,7 +17655,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_john_leigh_park",
+                    "id": "360G-trafford-friends_of_john_leigh_park",
                     "name": "Friends of john Leigh Park",
                     "addressCountry": "England"
                 }
@@ -17673,7 +17682,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17690,7 +17699,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-smallwords",
+                    "id": "360G-trafford-smallwords",
                     "name": "Smallwords",
                     "addressCountry": "England"
                 }
@@ -17717,7 +17726,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17779,7 +17788,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_walton_park",
+                    "id": "360G-trafford-friends_of_walton_park",
                     "name": "Friends of Walton Park",
                     "addressCountry": "England"
                 }
@@ -17806,7 +17815,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17823,7 +17832,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-collaborative_women_uk",
+                    "id": "360G-trafford-collaborative_women_uk",
                     "name": "Collaborative Women UK",
                     "addressCountry": "England"
                 }
@@ -17850,7 +17859,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17912,7 +17921,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-tufc",
+                    "id": "360G-trafford-tufc",
                     "name": "TUF*C",
                     "addressCountry": "England"
                 }
@@ -17939,7 +17948,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -17956,7 +17965,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_nook_park",
+                    "id": "360G-trafford-friends_of_nook_park",
                     "name": "Friends of Nook Park",
                     "addressCountry": "England"
                 }
@@ -17983,7 +17992,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18000,7 +18009,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-ot_creative_space_cic",
+                    "id": "360G-trafford-ot_creative_space_cic",
                     "name": "OT Creative Space CIC",
                     "addressCountry": "England"
                 }
@@ -18027,7 +18036,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18044,9 +18053,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "GB-COH-08313107",
+                    "id": "GB-COH-08814780",
                     "name": "Cheeky Cherubs Play and Learning Centre",
-                    "companyNumber": "08313107",
+                    "companyNumber": "08814780",
                     "addressCountry": "England"
                 }
             ],
@@ -18072,7 +18081,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:49Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18089,7 +18098,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-stretford_in_bloom",
+                    "id": "360G-trafford-stretford_in_bloom",
                     "name": "Stretford in Bloom",
                     "addressCountry": "England"
                 }
@@ -18116,7 +18125,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18133,7 +18142,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_worthington_park",
+                    "id": "360G-trafford-friends_of_worthington_park",
                     "name": "Friends of Worthington Park",
                     "addressCountry": "England"
                 }
@@ -18160,7 +18169,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18177,7 +18186,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-love_old_trafford",
+                    "id": "360G-trafford-love_old_trafford",
                     "name": "Love Old Trafford",
                     "addressCountry": "England"
                 }
@@ -18204,7 +18213,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18221,7 +18230,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-leaf_language_library",
+                    "id": "360G-trafford-leaf_language_library",
                     "name": "Leaf Language Library",
                     "addressCountry": "England"
                 }
@@ -18248,7 +18257,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18265,7 +18274,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-potters_allotment",
+                    "id": "360G-trafford-potters_allotment",
                     "name": "Potters Allotment",
                     "addressCountry": "England"
                 }
@@ -18292,7 +18301,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18309,7 +18318,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_longford_park",
+                    "id": "360G-trafford-friends_of_longford_park",
                     "name": "Friends of Longford Park",
                     "addressCountry": "England"
                 }
@@ -18336,7 +18345,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18398,7 +18407,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_john_leigh_park",
+                    "id": "360G-trafford-friends_of_john_leigh_park",
                     "name": "Friends of John Leigh Park",
                     "addressCountry": "England"
                 }
@@ -18425,7 +18434,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18442,7 +18451,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_chassen_park",
+                    "id": "360G-trafford-friends_of_chassen_park",
                     "name": "Friends of Chassen Park",
                     "addressCountry": "England"
                 }
@@ -18469,7 +18478,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18576,7 +18585,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-gorgeous_gorse_hill",
+                    "id": "360G-trafford-gorgeous_gorse_hill",
                     "name": "Gorgeous Gorse Hill",
                     "addressCountry": "England"
                 }
@@ -18603,7 +18612,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18620,7 +18629,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-broomwood_partnership",
+                    "id": "360G-trafford-broomwood_partnership",
                     "name": "Broomwood Partnership",
                     "addressCountry": "England"
                 }
@@ -18647,7 +18656,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18664,7 +18673,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-vintage_stitch",
+                    "id": "360G-trafford-vintage_stitch",
                     "name": "Vintage Stitch",
                     "addressCountry": "England"
                 }
@@ -18691,7 +18700,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18708,8 +18717,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-everybody_can",
-                    "name": "Everybody Can",
+                    "id": "GB-CHC-1053961",
+                    "name": "Everyone Can",
+                    "charityNumber": "1053961",
                     "addressCountry": "England"
                 }
             ],
@@ -18735,7 +18745,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18752,7 +18762,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_oak_road_park",
+                    "id": "360G-trafford-friends_of_oak_road_park",
                     "name": "Friends of Oak Road Park",
                     "addressCountry": "England"
                 }
@@ -18779,7 +18789,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18841,8 +18851,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_victoria_park",
+                    "id": "GB-CHC-1179731",
                     "name": "Friends of Victoria Park",
+                    "charityNumber": "1179731",
                     "addressCountry": "England"
                 }
             ],
@@ -18868,7 +18879,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18885,7 +18896,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-walking_for_health",
+                    "id": "360G-trafford-walking_for_health",
                     "name": "Walking for Health",
                     "addressCountry": "England"
                 }
@@ -18912,7 +18923,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18929,7 +18940,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-guardian_court_residents",
+                    "id": "360G-trafford-guardian_court_residents",
                     "name": "Guardian Court Residents",
                     "addressCountry": "England"
                 }
@@ -18956,7 +18967,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18973,8 +18984,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford_hongkongers",
+                    "id": "GB-COH-13595076",
                     "name": "Trafford HongKongers",
+                    "companyNumber": "13595076",
                     "addressCountry": "England"
                 }
             ],
@@ -19000,7 +19012,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19017,7 +19029,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford_petanque",
+                    "id": "360G-trafford-trafford_petanque",
                     "name": "Trafford Petanque",
                     "addressCountry": "England"
                 }
@@ -19044,7 +19056,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19151,9 +19163,10 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "GB-CHC-1146058",
+                    "id": "GB-COH-07597525",
                     "name": "St John's Centre",
                     "charityNumber": "1146058",
+                    "companyNumber": "07597525",
                     "addressCountry": "England"
                 }
             ],
@@ -19179,7 +19192,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:47Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19196,7 +19209,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-pandas",
+                    "id": "360G-trafford-pandas",
                     "name": "Pandas",
                     "addressCountry": "England"
                 }
@@ -19223,7 +19236,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19285,7 +19298,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-flourish_together",
+                    "id": "360G-trafford-flourish_together",
                     "name": "Flourish Together",
                     "addressCountry": "England"
                 }
@@ -19312,7 +19325,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19375,7 +19388,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-inch_art",
+                    "id": "360G-trafford-inch_art",
                     "name": "Inch Art",
                     "addressCountry": "England"
                 }
@@ -19402,7 +19415,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19509,7 +19522,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-pulling_together_asian_womens_group",
+                    "id": "360G-trafford-pulling_together_asian_womens_group",
                     "name": "Pulling Together Asian Women's Group",
                     "addressCountry": "England"
                 }
@@ -19536,7 +19549,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19553,7 +19566,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-blu_sci_partington",
+                    "id": "360G-trafford-blu_sci_partington",
                     "name": "Blu Sci Partington",
                     "addressCountry": "England"
                 }
@@ -19580,7 +19593,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19733,7 +19746,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-pulling_together_asian_womens_group",
+                    "id": "360G-trafford-pulling_together_asian_womens_group",
                     "name": "Pulling Together Asian Women's Group",
                     "addressCountry": "England"
                 }
@@ -19760,7 +19773,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19822,8 +19835,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-friends_of_victoria_park",
+                    "id": "GB-CHC-1179731",
                     "name": "Friends of Victoria Park",
+                    "charityNumber": "1179731",
                     "addressCountry": "England"
                 }
             ],
@@ -19849,7 +19863,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:52Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19866,7 +19880,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-leaf_language_library",
+                    "id": "360G-trafford-leaf_language_library",
                     "name": "Leaf Language Library",
                     "addressCountry": "England"
                 }
@@ -19893,7 +19907,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19910,7 +19924,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-string_of_hearts",
+                    "id": "360G-trafford-string_of_hearts",
                     "name": "String of Hearts",
                     "addressCountry": "England"
                 }
@@ -19937,7 +19951,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19954,7 +19968,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-manc_spirit",
+                    "id": "360G-trafford-manc_spirit",
                     "name": "Manc Spirit",
                     "addressCountry": "England"
                 }
@@ -19981,7 +19995,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19998,7 +20012,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-communities_united_project",
+                    "id": "360G-trafford-communities_united_project",
                     "name": "Communities United Project",
                     "addressCountry": "England"
                 }
@@ -20025,7 +20039,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:10:27Z",
+            "dateModified": "2023-09-04T09:39:43Z",
             "dataSource": "https://www.trafford.gov.uk/"
         }
     ]

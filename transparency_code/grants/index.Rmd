@@ -46,7 +46,7 @@ df <- read_csv("trafford_council_voluntary_sector_grants.csv") %>%
     <td>NA</td>
     <td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a></td>
     <td>Contains public sector information licensed under the Open Government Licence v3.0</td>
-    <td><time datetime="2022-05-03">2022-05-03</time></td>
+    <td><time datetime="2023-09-04">2023-09-04</time></td>
   </tr>
 </table>
 
