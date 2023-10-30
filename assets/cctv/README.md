@@ -5,7 +5,31 @@
 </tr>
 <tr>
 	<td>Description</td>
-	<td>Location of Local Authority controlled CCTV.</td>
+	<td>Location of Local Authority controlled CCTV cameras in Trafford.</td>
+</tr>
+<tr>
+	<td>Source</td>
+	<td>Trafford Council</td>
+</tr>
+<tr>
+	<td>Publisher</td>
+	<td>Trafford Council</td>
+</tr>
+<tr>
+	<td>Publisher URL</td>
+	<td><a href="https://www.trafforddatalab.io/council_open_data/assets/cctv">https://www.trafforddatalab.io/council_open_data/assets/cctv</a></td>
+</tr>
+<tr>
+	<td>Geography</td>
+	<td>Local authority</td>
+</tr>
+<tr>
+	<td>Geographic coverage</td>
+	<td>Trafford</td>
+</tr>
+<tr>
+	<td>Temporal coverage</td>
+	<td>2023-10</td>
 </tr>
 <tr>
 	<td>Frequency</td>
@@ -25,10 +49,14 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2021-02-10</td>
+	<td>2023-10-30</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
 	<td><a href="https://data.gov.uk/dataset/fc4aaad0-d99a-4a42-935c-745d6cb8abfc/trafford-council-cctv">View</a></td>
+</tr>
+<tr>
+	<td>Lab visualisation</td>
+	<td>View data within the Lab's <a href="https://www.trafforddatalab.io/explore/#dataset=cctv">Explore application</a>.</td>
 </tr>
 </table>

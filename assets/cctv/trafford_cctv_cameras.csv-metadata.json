@@ -1,6 +1,6 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "cctv.csv",
+  "url": "trafford_cctv_cameras.csv",
   "tableSchema": {
     "columns": [{
       "titles": "camera_id",
@@ -10,10 +10,10 @@
       "dc:description": "Name of the road or place the CCTV camera is located on."
     },{
       "titles": "area_name",
-      "dc:description": "Name of the Local Authority in which the CCTV camera is located."
+      "dc:description": "Name of the electoral ward in which the CCTV camera is located."
     },{
       "titles": "area_code",
-      "dc:description": "Unique reference code of the Local Authority in which the CCTV camera is located."
+      "dc:description": "Unique reference code of the electoral ward in which the CCTV camera is located."
     },{
       "titles": "lon",
       "dc:description": "Longitude coordinate of the CCTV camera."

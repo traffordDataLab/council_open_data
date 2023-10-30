@@ -1,19 +1,22 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "cctv.geojson",
+  "url": "trafford_cctv_cameras.geojson",
   "tableSchema": {
     "columns": [{
       "titles": "camera_id",
-      "dc:description": "Unique CCTV id"
+      "dc:description": "Unique CCTV camera id"
     },{
       "titles": "location",
-      "dc:description": "Name of road CCTV is located on."
+      "dc:description": "Name of the road or place the CCTV camera is located on."
     },{
       "titles": "area_name",
-      "dc:description": "Name of the Local Authority in which the CCTV is located."
+      "dc:description": "Name of the electoral ward in which the CCTV camera is located."
     },{
       "titles": "area_code",
-      "dc:description": "Unique reference code of the Local Authority in which the CCTV is located."
+      "dc:description": "Unique reference code of the electoral ward in which the CCTV camera is located."
+    },{
+      "titles": "geometry",
+      "dc:description": "Spatial latitude and longitude coordinates of the CCTV camera's position."
     }]
   }
 }
