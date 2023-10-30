@@ -21,7 +21,7 @@
 </tr>
 <tr>
 	<td>Geography</td>
-	<td>Local authority</td>
+	<td>Ward</td>
 </tr>
 <tr>
 	<td>Geographic coverage</td>
