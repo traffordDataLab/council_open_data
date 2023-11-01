@@ -1,0 +1,37 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "trafford_leisure_centres.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "name",
+      "dc:description": "Name of leisure centre."
+    },{
+      "titles": "address",
+      "dc:description": "Full address of leisure centre."
+    },{
+      "titles": "postcode",
+      "dc:description": "Postcode of leisure centre."
+    },{
+      "titles": "telephone",
+      "dc:description": "Telephone number of leisure centre."
+    },{
+      "titles": "website",
+      "dc:description": "Website of leisure centre."
+    },{
+      "titles": "opening_hours",
+      "dc:description": "Opening hours of leisure centre."
+    },{
+      "titles": "facilities",
+      "dc:description": "Facilites of leisure centre."
+    },{
+      "titles": "managed_by",
+      "dc:description": "Name of the company managing the leisure centre."
+    },{
+      "titles": "lon",
+      "dc:description": "Longitude coordinate of the leisure centre on a map."
+    },{
+      "titles": "lat",
+      "dc:description": "Latitude coordinate of the leisure centre on a map."
+    }]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "@context": "http://www.w3.org/ns/csvw",
-  "url": "trafford_leisure_centres_and_parking_polygons.geojson",
+  "url": "trafford_leisure_centres_and_parking.csv",
   "tableSchema": {
     "columns": [{
       "titles": "name",
@@ -26,9 +26,6 @@
     },{
       "titles": "managed_by",
       "dc:description": "Name of the company managing the leisure centre or car park."
-    },{
-      "titles": "geometry",
-      "dc:description": "Spatial coordinates describing the shape of the leisure centre or car park on a map."
     }]
   }
 }
