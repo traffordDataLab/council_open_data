@@ -23,6 +23,12 @@
     },{
       "titles": "Type",
       "dc:description": "Whether the funeral was a Burial or a Cremation."
+    },{
+      "titles": "Gender",
+      "dc:description": "Gender of the person. NA indicates this information is not available."
+    },{
+      "titles": "AgeAtDeath",
+      "dc:description": "Age in years of the person at the time of death. NA indicates this information is not available."
     }]
   }
 }
