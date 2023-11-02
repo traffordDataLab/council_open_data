@@ -29,7 +29,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2023-11-01</td>
+	<td>2023-11-02</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
