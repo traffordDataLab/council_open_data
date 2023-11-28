@@ -1659,8 +1659,8 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-beats_bazaar",
-                    "name": "Beats Bazaar",
+                    "id": "360G-trafford-beat_bazaar",
+                    "name": "Beat Bazaar",
                     "addressCountry": "England"
                 }
             ],
@@ -1686,7 +1686,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-11-27T18:03:05Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -4871,8 +4871,10 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-broadheath_community_association",
+                    "id": "GB-COH-07826708",
                     "name": "Broadheath Community Association",
+                    "charityNumber": "1160435",
+                    "companyNumber": "07826708",
                     "addressCountry": "England"
                 }
             ],
@@ -4898,7 +4900,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-11-27T18:03:05Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -8999,7 +9001,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-ashton_on_mersey_village_in_bloom_2019",
+                    "id": "360G-trafford-ashton_on_mersey_village_always_in_bloom",
                     "name": "Ashton On Mersey Village In Bloom 2019",
                     "addressCountry": "England"
                 }
@@ -9026,7 +9028,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-11-27T18:03:05Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -11715,7 +11717,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-pulling_together_asian_women's_group",
+                    "id": "360G-trafford-pulling_together_asian_womens_group",
                     "name": "Pulling Together Asian Women's Group",
                     "addressCountry": "England"
                 }
@@ -11742,7 +11744,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-11-27T18:03:05Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -12116,7 +12118,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-pulling_together_asian_women's_group",
+                    "id": "360G-trafford-pulling_together_asian_womens_group",
                     "name": "Pulling Together Asian Women's Group",
                     "addressCountry": "England"
                 }
@@ -12143,7 +12145,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-11-27T18:03:05Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -13369,8 +13371,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-the_therapy_shack",
-                    "name": "The Therapy Shack",
+                    "id": "GB-COH-13660048",
+                    "name": "The Therapy Shack CIC",
+                    "companyNumber": "13660048",
                     "addressCountry": "England"
                 }
             ],
@@ -13396,7 +13399,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-11-27T18:03:05Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -16050,7 +16053,7 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-pulling_together_asian_women's_group",
+                    "id": "360G-trafford-pulling_together_asian_womens_group",
                     "name": "Pulling Together Asian Women's Group",
                     "addressCountry": "England"
                 }
@@ -16077,7 +16080,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2022-05-03T18:09:56Z",
+            "dateModified": "2023-11-27T18:03:05Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -18010,8 +18013,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-ot_creative_space_cic",
+                    "id": "GB-COH-11907352",
                     "name": "OT Creative Space CIC",
+                    "companyNumber": "11907352",
                     "addressCountry": "England"
                 }
             ],
@@ -18037,7 +18041,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2023-09-04T15:29:37Z",
+            "dateModified": "2023-11-27T18:03:05Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -19479,7 +19483,7 @@
             "recipientOrganization": [
                 {
                     "id": "GB-COH-11386705",
-                    "name": "Bill and Andy's Music School CIC",
+                    "name": "Billy and Andy's Music School CIC",
                     "companyNumber": "11386705",
                     "addressCountry": "England"
                 }
@@ -19925,8 +19929,9 @@
             ],
             "recipientOrganization": [
                 {
-                    "id": "360G-trafford-string_of_hearts",
-                    "name": "String of Hearts",
+                    "id": "GB-COH-12351342",
+                    "name": "String of Hearts CIC",
+                    "companyNumber": "12351342",
                     "addressCountry": "England"
                 }
             ],
@@ -19952,7 +19957,7 @@
                 }
             ],
             "fromOpenCall": "Yes",
-            "dateModified": "2023-09-04T15:29:37Z",
+            "dateModified": "2023-11-27T18:03:05Z",
             "dataSource": "https://www.trafford.gov.uk/"
         },
         {
@@ -20041,6 +20046,4221 @@
             ],
             "fromOpenCall": "Yes",
             "dateModified": "2023-09-04T15:29:37Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG12",
+            "title": "Voluntary Sector Grant to Ashton in Bloom",
+            "description": "Jubilee Celebration - planters and flowers",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-ashton_on_mersey_village_always_in_bloom",
+                    "name": "Ashton on Mersey Village Always in Bloom",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG13",
+            "title": "Voluntary Sector Grant to Broadheath Jubilee",
+            "description": "Jubilee Celebration - refreshments and bouncy castle",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-broadheath_partnership",
+                    "name": "Broadheath Partnership",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG14",
+            "title": "Voluntary Sector Grant to Broomwood Jubilee",
+            "description": "Jubilee Celebration  - refreshments and bouncil castle",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-broomwood_partnership",
+                    "name": "Broomwood Partnership",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG15",
+            "title": "Voluntary Sector Grant to Clyne Court Jubilee",
+            "description": "Jubilee Celebration - refresments",
+            "currency": "GBP",
+            "amountAwarded": 250,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-clyne_court",
+                    "name": "Clyne Court",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG16",
+            "title": "Voluntary Sector Grant to Gorsehill Mthodists Jubilee",
+            "description": "Jubilee Celebration - refreshments and raffle",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-gorse_hill_methodist_church",
+                    "name": "Gorse Hill Methodist Church",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG17",
+            "title": "Voluntary Sector Grant to Hardy Drive Residents Jubilee",
+            "description": "Jubilee Celebration - refreshments and decoration",
+            "currency": "GBP",
+            "amountAwarded": 220,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-hardy_drive_residents_group",
+                    "name": "Hardy Drive Residents Group",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG18",
+            "title": "Voluntary Sector Grant to Lowry Lodge Jubilee",
+            "description": "Jubilee Celebration - refreshments and crafts",
+            "currency": "GBP",
+            "amountAwarded": 300,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-lowry_lodge_residents_group",
+                    "name": "Lowry Lodge Residents Group",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG19",
+            "title": "Voluntary Sector Grant to Oldfield Brown Jubilee",
+            "description": "Jubilee Celebration - refreshments and bouncy castle",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-oldfield_brow_partnership",
+                    "name": "Oldfield Brow Partnership",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG20",
+            "title": "Voluntary Sector Grant to Westmead Drive Jubilee",
+            "description": "Jubilee Celebration  - refreshments and decorations",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-westmead_drive_residents_group",
+                    "name": "Westmead Drive Residents Group",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG21",
+            "title": "Voluntary Sector Grant to Jack Lane Residents Jubilee",
+            "description": "Jubilee Celebration - refreshments and decorations",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-jack_lane_residents",
+                    "name": "Jack Lane Residents",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG22",
+            "title": "Voluntary Sector Grant to Napier and Empress Court Jubilee",
+            "description": "Jubilee Street Party to bring local community together",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-napier_and_empress_court",
+                    "name": "Napier and Empress Court",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG23",
+            "title": "Voluntary Sector Grant to Urmston St Party Jubilee",
+            "description": "Jubilee Street Party - activities and refreshments",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-urmston_amazing_street_party",
+                    "name": "Urmston Amazing Street Party",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG24",
+            "title": "Voluntary Sector Grant to Railway Rd Collective Jubilee",
+            "description": "Jubilee Street Party - activities and refreshments",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-railway_st_collective_jubilee",
+                    "name": "Railway St Collective Jubilee",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG25",
+            "title": "Voluntary Sector Grant to Cornfield Close Jubilee",
+            "description": "Jubilee Street Party - decorations and refreshments",
+            "currency": "GBP",
+            "amountAwarded": 200,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-cornfield_road_jubilee",
+                    "name": "Cornfield Road Jubilee",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG26",
+            "title": "Voluntary Sector Grant to the Big Breakfast",
+            "description": "volunteer-run pay-as-you-feel community café - book launch to fundraise and event to thank volunteers",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-the_big_breakfast",
+                    "name": "The Big Breakfast",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG27",
+            "title": "Voluntary Sector Grant to St Johns Ayres Rd Jubilee",
+            "description": "Jubilee Street Party - activities and refreshments",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-07597525",
+                    "name": "St. John's Centre",
+                    "charityNumber": "1146058",
+                    "companyNumber": "07597525",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG28",
+            "title": "Voluntary Sector Grant to Ravenwood Jubilee",
+            "description": "Jubilee Street Party - activities and refreshments",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-ravenwood_residents",
+                    "name": "Ravenwood Residents",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG29",
+            "title": "Voluntary Sector Grant to Trees Residents Jubilee",
+            "description": "Jubilee Street Party - activities and refreshments",
+            "currency": "GBP",
+            "amountAwarded": 491,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-trees_tra",
+                    "name": "Trees TRA",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG30",
+            "title": "Voluntary Sector Grant to Fae wolf",
+            "description": "Creative classes for new parents",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-fae_wolfe",
+                    "name": "Fae Wolfe",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG31",
+            "title": "Voluntary Sector Grant to John Leigh Park",
+            "description": "Jubilee Street Party - activities and refreshments",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-friends_of_john_leigh_park",
+                    "name": "Friends of John Leigh Park",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG32",
+            "title": "Voluntary Sector Grant to Churchfields Jubilee",
+            "description": "Purchase 2nd hand gazebo for events",
+            "currency": "GBP",
+            "amountAwarded": 413.77,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-churchfields",
+                    "name": "Churchfields",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG33",
+            "title": "Voluntary Sector Grant to Urmston in Bloom",
+            "description": "New watering system, project tied in with local school",
+            "currency": "GBP",
+            "amountAwarded": 850,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-urmston_in_bloom",
+                    "name": "Urmston in Bloom",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG34",
+            "title": "Voluntary Sector Grant to Little Green Sock",
+            "description": "Reducing the effects of child poverty in Trafford by providing preloved children’s clothing bundles to families in need.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-little_green_sock",
+                    "name": "Little Green Sock",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG35",
+            "title": "Voluntary Sector Grant to Sale West Heritage",
+            "description": "Community project to capture the past and present of Sale West Estate with an exhibition and magazine",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-sale_west_heritage",
+                    "name": "Sale West Heritage",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG36",
+            "title": "Voluntary Sector Grant to The Hideaway",
+            "description": "Project to bring Partington people together, celebrating our achievements –",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-10778009",
+                    "name": "The Hideaway",
+                    "companyNumber": "10778009",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG37",
+            "title": "Voluntary Sector Grant to Flixton Garden",
+            "description": "maintain and restore the Garden back to its former glory., and holding community events to promote the Garden further",
+            "currency": "GBP",
+            "amountAwarded": 1900,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-flixton_garden",
+                    "name": "Flixton Garden",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG38",
+            "title": "Voluntary Sector Grant to Goundwork/Lostock High School",
+            "description": "Summer workshops to improve employability for young people.",
+            "currency": "GBP",
+            "amountAwarded": 1950,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-06543150",
+                    "name": "Groundwork Greater Manchester",
+                    "charityNumber": "1124508",
+                    "companyNumber": "06543150",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG39",
+            "title": "Voluntary Sector Grant to The Xinua Chinese Association",
+            "description": "Chinese dance group - funding for tutor fees and room hire",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-04-30",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-the_xinua_chinese_association",
+                    "name": "The Xinua Chinese Association",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG40",
+            "title": "Voluntary Sector Grant to Friends of Moor Nook Park",
+            "description": "Our Apple Festival provides an enjoyable, value-for-money day out, allowing different sectors of the community to come together in a shared community space",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-friends_of_moor_nook_park",
+                    "name": "Friends of Moor Nook Park",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG41",
+            "title": "Voluntary Sector Grant to Alty Table Tennis",
+            "description": "Table Tennis fun day",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-alty_table_tennis",
+                    "name": "Alty Table Tennis",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG42",
+            "title": "Voluntary Sector Grant to Skillz FC",
+            "description": "Skillz FC wish to run a holiday club for young people aged 5-15 during the school holidays",
+            "currency": "GBP",
+            "amountAwarded": 430,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-skillz_fc",
+                    "name": "Skillz FC",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG43",
+            "title": "Voluntary Sector Grant to Flixton Village Fete",
+            "description": "A family fun day with kids activities and games, bouncy castle, music, poetry, storytelling, and refreshments aimed to bring the community together",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-flixton_village_fete",
+                    "name": "Flixton Village Fete",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG44",
+            "title": "Voluntary Sector Grant to Cornerstone APP",
+            "description": "Day trip for Ukranian community members",
+            "currency": "GBP",
+            "amountAwarded": 248,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-cornerstone_app",
+                    "name": "Cornerstone APP",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG45",
+            "title": "Voluntary Sector Grant to Women to Women",
+            "description": "Weekend away to support older members of the West Indian community to support reintegration with their local community post covid",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-women_to_women",
+                    "name": "Women to Women",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG46",
+            "title": "Voluntary Sector Grant to People's Church",
+            "description": "Bright Night – Community event on Halloween",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-peoples_church",
+                    "name": "People's Church",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG47",
+            "title": "Voluntary Sector Grant to TDAS",
+            "description": "To provide tailored children and young people services quicker to people who need them, reducing waiting lists and barriers to getting support quickly",
+            "currency": "GBP",
+            "amountAwarded": 1600,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1120983",
+                    "name": "Trafford Domestic Abuse Services",
+                    "charityNumber": "1120983",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG48",
+            "title": "Voluntary Sector Grant to Stretford Public Hall - Chippy Tea",
+            "description": "Event to reduce social isolation in older members of the community",
+            "currency": "GBP",
+            "amountAwarded": 1980,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-09235545",
+                    "name": "Friends of Stretford Public Hall",
+                    "companyNumber": "09235545",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG49",
+            "title": "Voluntary Sector Grant to Gorgeous Gorse Hill",
+            "description": "Winter Lantern Parade",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-gorgeous_gorse_hill",
+                    "name": "Gorgeous Gorse Hill",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG50",
+            "title": "Voluntary Sector Grant to Friends of Barrington Green",
+            "description": "We want more street trees, additional perennial plants, bulbs and more benches.",
+            "currency": "GBP",
+            "amountAwarded": 1700,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-friends_of_barrington_greens",
+                    "name": "Friends of Barrington Greens",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG51",
+            "title": "Voluntary Sector Grant to North Trafford Collective",
+            "description": "The development of a community-based approach to the prevention and management of diabetes in North Trafford",
+            "currency": "GBP",
+            "amountAwarded": 1800,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-north_trafford_collective",
+                    "name": "North Trafford Collective",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG52",
+            "title": "Voluntary Sector Grant to CFC",
+            "description": "outdoor seating for café",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-07003266",
+                    "name": "The Counselling and Family Centre",
+                    "charityNumber": "1133079",
+                    "companyNumber": "07003266",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG53",
+            "title": "Voluntary Sector Grant to Action Cheshire",
+            "description": "The project will deliver 50 youth sessions of 2 hours on a Friday between 6 & 8pm for young people aged 10-16.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-action_cheshire",
+                    "name": "Action Cheshire",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG54",
+            "title": "Voluntary Sector Grant to Friends of Wood Stock Park",
+            "description": "Bulb planting project",
+            "currency": "GBP",
+            "amountAwarded": 1000,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-friends_of_woodstock_park",
+                    "name": "Friends of Woodstock Park",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG55",
+            "title": "Voluntary Sector Grant to Read Easy",
+            "description": "Read Easy is a national literacy charity with groups in over 60 towns and want to expand to Trafford",
+            "currency": "GBP",
+            "amountAwarded": 1475,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1151288",
+                    "name": "Read Easy UK",
+                    "charityNumber": "1151288",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG56",
+            "title": "Voluntary Sector Grant to Hapton Ave Glass House",
+            "description": "This grant will enable us to engage our equally diverse surrounding streets by collaborating on the design, and working to build and maintain our Community Glasshouse, utilising everybody’s talents.",
+            "currency": "GBP",
+            "amountAwarded": 1614,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-hapton_avenue_residents_and_tenants_hart",
+                    "name": "Hapton Avenue Residents & Tenants (H.A.R.T.)",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG57",
+            "title": "Voluntary Sector Grant to Communities United",
+            "description": "Our project will support the development of a Ukrainian Cultural Club which will bring Ukrainians together to develop friendship, provide peer support and celebrate Ukrainian Culture.",
+            "currency": "GBP",
+            "amountAwarded": 1965.2,
+            "awardDate": "2022-07-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-communities_united_project",
+                    "name": "Communities United Project",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG58",
+            "title": "Voluntary Sector Grant to Gorsehill Studios",
+            "description": "Cooking Club – Fun interactive cooking club teaching healthy eating, cooking skills and promoting friendship for local children and young people",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-09646545",
+                    "name": "Gorse Hill Studios",
+                    "charityNumber": "1172118",
+                    "companyNumber": "09646545",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG59",
+            "title": "Voluntary Sector Grant to Collaboratve Women",
+            "description": "providing meaningful information on self care, mindfulness and wellbeing techniques women will become healthier, happier and more likely to be involved in their community.",
+            "currency": "GBP",
+            "amountAwarded": 1998,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-09085624",
+                    "name": "Collaborative Women UK CIC",
+                    "companyNumber": "09085624",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG60",
+            "title": "Voluntary Sector Grant to Humans MCR",
+            "description": "We are applying for funds to benefit our Grocers project. A grant of £2,000 is estimated to support the delivery of this project for 200 Trafford residents on a weekly basis.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-humans_mcr",
+                    "name": "Humans MCR",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG61",
+            "title": "Voluntary Sector Grant to Lostock and Groundwork",
+            "description": "We request funding to offer a weekly youth club session for young people of Lostock.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-06543150",
+                    "name": "Groundwork Greater Manchester",
+                    "charityNumber": "1124508",
+                    "companyNumber": "06543150",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG62",
+            "title": "Voluntary Sector Grant to Our Independence",
+            "description": "\"drop in sessions to support disabled on social isolated members of the community\"",
+            "currency": "GBP",
+            "amountAwarded": 1100,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-our_independence",
+                    "name": "Our Independence",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG63",
+            "title": "Voluntary Sector Grant to Old Trafford Community Allotment",
+            "description": "Community allotment to support those with mental health issues",
+            "currency": "GBP",
+            "amountAwarded": 1535,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-old_trafford_community_allotment",
+                    "name": "Old Trafford Community Allotment",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG64",
+            "title": "Voluntary Sector Grant to Trafford Afro Caribbean over 50s Club",
+            "description": "A programme of support for African-Caribbean senior residents to reduce social isolation, keep seniors connected to their community; and improve their health and wellbeing, particularly following the Covid-19 pandemic.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-trafford_african_and_caribbean_over_50s_club",
+                    "name": "Trafford African & Caribbean Over 50's club",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG65",
+            "title": "Voluntary Sector Grant to Brink Productions",
+            "description": "Young women’s group",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-08219638",
+                    "name": "Brink Productions",
+                    "companyNumber": "08219638",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG66",
+            "title": "Voluntary Sector Grant to Sale West Urban Trust",
+            "description": "Various projects - request for help with salaries",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1137438",
+                    "name": "Sale West Community Urban Trust",
+                    "charityNumber": "1137438",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG67",
+            "title": "Voluntary Sector Grant to Leaf Language",
+            "description": "A Journey to Wellbeing and ESOL, a programme based on the principles of Wellbeing and ESOL, community cohesion, social inclusion and positive wellbeing supporting participants with their mental health such as anxiety, depression, stress, low mood and supporting the person’s own social wellbeing.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-leaf_language_library",
+                    "name": "Leaf Language Library",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG68",
+            "title": "Voluntary Sector Grant to Trafford Hongkongers",
+            "description": "We will arrange two public events on 17th Dec 2021 for Winter Solstice, and on 21st Jan 2023 for Lunar New Year, both at the Ballroom of Stretford Public Hall.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-13595076",
+                    "name": "Trafford Hongkongers",
+                    "companyNumber": "13595076",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG69",
+            "title": "Voluntary Sector Grant to Calm Connections",
+            "description": "Family Activities; enabling early intervention activities and support to create free, positive, fun experiences for families, encouraging family connection and wellbeing.",
+            "currency": "GBP",
+            "amountAwarded": 1980,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-11151147",
+                    "name": "Calm Connections",
+                    "companyNumber": "11151147",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG70",
+            "title": "Voluntary Sector Grant to Gforce:Oldfield Brow Dementia Cafe",
+            "description": "We want to establish a new Dementia Café In Oldfield Brow that will target local residents and those in the wider Altrincham community. The café will open once every two weeks on a Saturday.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1110767",
+                    "name": "G-Force",
+                    "charityNumber": "1110767",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG71",
+            "title": "Voluntary Sector Grant to Sherenades Dance School",
+            "description": "To provide a safe and affordable trianing room to expand dance troupe",
+            "currency": "GBP",
+            "amountAwarded": 1529,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-sherenades_dance_school",
+                    "name": "Sherenades Dance School",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG72",
+            "title": "Voluntary Sector Grant to Beat Bazaar",
+            "description": "We will deliver another 20 x weekly workshops for children and families which will be 3 hours longs instead of 2 hours.  The three hour long workshops will be split into 3 activities: Folk Dancing,  Singing and Instrument Tuition and scout activities.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-beat_bazaar",
+                    "name": "Beat Bazaar",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG73",
+            "title": "Voluntary Sector Grant to Dads Connect",
+            "description": "Dads Connect aims to build connections and stronger relationships among Dads in the Stretford community minimising the impact on their mental wellbeing. We want to connect with dads, grandads and maler carers with children 0-5 years.",
+            "currency": "GBP",
+            "amountAwarded": 1940,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-dads_connect",
+                    "name": "Dads Connect",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG74",
+            "title": "Voluntary Sector Grant to Urmston GirlGuides",
+            "description": "Christmas Activity for 200 members of the girlguide group to Trafford Ninja",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-urmston_girlguides",
+                    "name": "Urmston GirlGuides",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG75",
+            "title": "Voluntary Sector Grant to Sale and District Lions",
+            "description": "Christmas lunch for 150 senior citizens and their carers.",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-sale_and_district_lions_club",
+                    "name": "Sale & District Lions Club",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2022VSG76",
+            "title": "Voluntary Sector Grant to Yellow Jigsaw",
+            "description": "The Stretford Storytellers: intergenerational project to capture and celebrate the past, present and future of Stretford",
+            "currency": "GBP",
+            "amountAwarded": 1930,
+            "awardDate": "2022-10-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-09197741",
+                    "name": "Yellow Jigsaw CIC",
+                    "companyNumber": "09197741",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG1",
+            "title": "Voluntary Sector Grant to Ennerdale Drive Coronation Party",
+            "description": "Coronation themed street party on 6th May 2023",
+            "currency": "GBP",
+            "amountAwarded": 110,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-ennerdale_drive_coronation_party",
+                    "name": "Ennerdale Drive Coronation Party",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG2",
+            "title": "Voluntary Sector Grant to Medway Crescent",
+            "description": "Cornation Street Party",
+            "currency": "GBP",
+            "amountAwarded": 333,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-medway_crescent",
+                    "name": "Medway Crescent",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG3",
+            "title": "Voluntary Sector Grant to Friends of Trafford's Park and Greenspace Forum",
+            "description": "Day to bring together the 39 Friends of Parks groups who are members of the collective",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-friends_of_traffords_parks_and_green_spaces",
+                    "name": "Friends of Trafford's Parks and Green Spaces",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG4",
+            "title": "Voluntary Sector Grant to Sacred Change",
+            "description": "SACRED CHANGE is a  peri/menopause festival event being held at Stretford Hall to bring all women together under one roof on the 13th & 14th MAY 2023",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-sacred_change",
+                    "name": "Sacred Change",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG5",
+            "title": "Voluntary Sector Grant to The Therapy Shack CIC",
+            "description": "Easter Event: Mad Hatter’s Tea Party",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-13660048",
+                    "name": "The Therapy Shack CIC",
+                    "companyNumber": "13660048",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG6",
+            "title": "Voluntary Sector Grant to Worthington Park",
+            "description": "The Friends of Worthing Park Tree Trail Relaunch",
+            "currency": "GBP",
+            "amountAwarded": 500,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-friends_of_worthington_park",
+                    "name": "Friends of Worthington Park",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG7",
+            "title": "Voluntary Sector Grant to Stockdales of Sale",
+            "description": "We would like to apply for £2000 funding to pay for some of our planned activity sessions for our Lifeskills Community Services group in 2023.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-01392344",
+                    "name": "Stockdales of Sale, Altrincham and District Ltd",
+                    "companyNumber": "01392344",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG8",
+            "title": "Voluntary Sector Grant to The Hideaway",
+            "description": "Hideaway Community Gymnastics",
+            "currency": "GBP",
+            "amountAwarded": 1985,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-10778009",
+                    "name": "The Hideaway",
+                    "companyNumber": "10778009",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG9",
+            "title": "Voluntary Sector Grant to St Mary's Volunteer Gardening Group",
+            "description": "Rejuvenating and sustaining the community gardens at St. Mary’s Church through community engagement; enabling exercise, friendship and mutual support.",
+            "currency": "GBP",
+            "amountAwarded": 1480,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-st_marys_volunteer_gardening_group",
+                    "name": "St Mary's Volunteer Gardening Group",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG10",
+            "title": "Voluntary Sector Grant to Billy and Andy's Music School",
+            "description": "Billy & Andy’s Holiday Music Club - A place for young adults and adults to make music, regardless of their ability.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-11386705",
+                    "name": "Billy and Andy's Music School CIC",
+                    "companyNumber": "11386705",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG11",
+            "title": "Voluntary Sector Grant to Sale Brownies",
+            "description": "Grant to Sale Brownies.",
+            "currency": "GBP",
+            "amountAwarded": 1997,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-sale_brownies",
+                    "name": "Sale Brownies",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG12",
+            "title": "Voluntary Sector Grant to Coffee, Chill and Spill",
+            "description": "Coffee, Chill and Spill - Supporting Maternal Wellbeing",
+            "currency": "GBP",
+            "amountAwarded": 1976,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-coffee_chill_and_spill",
+                    "name": "Coffee, Chill and Spill",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG13",
+            "title": "Voluntary Sector Grant to Salvation Army Sale",
+            "description": "Pop Up Café/ Drop In Community Café – a place where people can come together and meet friends in a welcoming and safe environment over a drink and snack",
+            "currency": "GBP",
+            "amountAwarded": 1250,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-214779",
+                    "name": "Salvation Army Sale",
+                    "charityNumber": "214779",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG14",
+            "title": "Voluntary Sector Grant to Pulling Together",
+            "description": "8 week project Relationship Realities working with 15 women will raise taboo subjects such as same-sex marriage, abuses by in-laws, forced marriages, domestic violence, prevent, radicalisation and grooming.",
+            "currency": "GBP",
+            "amountAwarded": 1700,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-pulling_together_asian_womens_group",
+                    "name": "Pulling Together Asian Women's Group",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG15",
+            "title": "Voluntary Sector Grant to OT Creative Space",
+            "description": "he focus of these artist-led workshops will range from embroidery, printing and woodcutting, to glass painting and jewellery making",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-11907352",
+                    "name": "OT Creative Space CIC",
+                    "companyNumber": "11907352",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG16",
+            "title": "Voluntary Sector Grant to Making Futures",
+            "description": "Crafting Together – Meet, Make, Chat!",
+            "currency": "GBP",
+            "amountAwarded": 1550,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-making_futures",
+                    "name": "Making Futures",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG17",
+            "title": "Voluntary Sector Grant to Woodheys primary PTA",
+            "description": "Friends of Woodheys – Green Team",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-woodheys_primary_pta",
+                    "name": "Woodheys primary PTA",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG18",
+            "title": "Voluntary Sector Grant to Stretford Community Theatre",
+            "description": "Stretford Community Theatre; a theatre group for those over the age of 25.",
+            "currency": "GBP",
+            "amountAwarded": 1999,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-stretford_community_theatre",
+                    "name": "Stretford Community Theatre",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG19",
+            "title": "Voluntary Sector Grant to Rehoboth",
+            "description": "‘Love where you live’ – transforming fly-tipped alleys into bright and beautiful community spaces.",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1190359",
+                    "name": "Rehoboth for Families, Children and Young People",
+                    "charityNumber": "1190359",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG20",
+            "title": "Voluntary Sector Grant to Breathchamps",
+            "description": "BreathChamps youth activism project",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-12429695",
+                    "name": "Breathchamps CIC",
+                    "companyNumber": "12429695",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG21",
+            "title": "Voluntary Sector Grant to Cycling Without Age Trafford",
+            "description": "We are Cycling Without Age Trafford and our mission is to help less mobile people feel the wind in their hair again and to tackle social isolation through our community trishaw rides.",
+            "currency": "GBP",
+            "amountAwarded": 1800,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1182812",
+                    "name": "Cycling Without Age Trafford",
+                    "charityNumber": "1182812",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG22",
+            "title": "Voluntary Sector Grant to Church on the Brow",
+            "description": "Together again in Oldfield Brow  - community wellbeing sessions",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-church_on_the_brow",
+                    "name": "Church on the Brow",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG23",
+            "title": "Voluntary Sector Grant to The Hub Altrincham",
+            "description": "A Community Meal open to all residents",
+            "currency": "GBP",
+            "amountAwarded": 1980,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1130343",
+                    "name": "The Hub Community Centre",
+                    "charityNumber": "1130343",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG24",
+            "title": "Voluntary Sector Grant to THE PEOPLES MOVEMENT NETWORK CIC",
+            "description": "The session will include active one-2-one time for parents to play and connect with their children, offering a safe and welcoming space for families to be together in community.  Session would run for 2.5 hours on 1 Sunday per month",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-14558206",
+                    "name": "THE PEOPLES MOVEMENT NETWORK CIC",
+                    "companyNumber": "14558206",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG25",
+            "title": "Voluntary Sector Grant to The Beginning",
+            "description": "Easter Half Term Family Wellbeing Programme",
+            "currency": "GBP",
+            "amountAwarded": 1750,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-the_beginning_group",
+                    "name": "The Beginning Group",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG26",
+            "title": "Voluntary Sector Grant to The Fed",
+            "description": "The Fed’s Volunteer Services Project",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-05858766",
+                    "name": "The Federation of Jewish Services (The Fed)",
+                    "charityNumber": "1117126",
+                    "companyNumber": "05858766",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG27",
+            "title": "Voluntary Sector Grant to Altrincham in Bloom",
+            "description": "Grant to Altrincham in Bloom",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-10974491",
+                    "name": "Altrincham in Bloom CIC",
+                    "companyNumber": "10974491",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG28",
+            "title": "Voluntary Sector Grant to Chinese Association",
+            "description": "Contribute the Chinese Culture to the multiculturalism inclusive and diversified Trafford community",
+            "currency": "GBP",
+            "amountAwarded": 2000,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-chinese_association",
+                    "name": "Chinese Association",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG29",
+            "title": "Voluntary Sector Grant to  Sale and District Scout Council",
+            "description": "St George’s Day 2023 will provide an opportunity to explore the opportunities scouting and guiding offer young people in Sale, with the chance to try some activities and explore volunteering options.",
+            "currency": "GBP",
+            "amountAwarded": 1500,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-sale_and_district_scout_council",
+                    "name": "Sale and District Scout Council",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG30",
+            "title": "Voluntary Sector Grant to FoSP Serpentine Gardens",
+            "description": "Restoration of the former Serpentine Garden.",
+            "currency": "GBP",
+            "amountAwarded": 1753.04,
+            "awardDate": "2023-01-31",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "360G-trafford-fosp_serpentine_gardens",
+                    "name": "FoSP Serpentine Gardens",
+                    "addressCountry": "England"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "VSG",
+                    "title": "Voluntary Sector Grants"
+                }
+            ],
+            "fromOpenCall": "Yes",
+            "dateModified": "2023-11-27T18:03:03Z",
             "dataSource": "https://www.trafford.gov.uk/"
         }
     ]

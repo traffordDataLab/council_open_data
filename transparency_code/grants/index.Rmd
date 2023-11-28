@@ -42,11 +42,11 @@ df <- read_csv("trafford_council_voluntary_sector_grants.csv") %>%
   <tr>
     <td>Trafford Council</td>
     <td><a href="https://www.trafford.gov.uk/about-your-council/open-data/open-data.aspx" target="_blank">Trafford Council</a></td>
-    <td>2013-2022</td>
+    <td>2013-2023</td>
     <td>NA</td>
     <td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a></td>
     <td>Contains public sector information licensed under the Open Government Licence v3.0</td>
-    <td><time datetime="2023-09-04">2023-09-04</time></td>
+    <td><time datetime="2023-11-28">2023-11-28</time></td>
   </tr>
 </table>
 
@@ -78,12 +78,13 @@ datatable(df,
 <div id="tableFooterTitle">Trafford Council Voluntary Sector Grants</div>
 
 <h2>Data</h2>
-<span id ="downloads">Download the complete dataset using the following links:</span>
+<span id ="downloads">Download the complete dataset and the accompanying metadata using the following links:</span>
 
 |File name |Format |
 |---|---|
 |[trafford_council_voluntary_sector_grants.csv](trafford_council_voluntary_sector_grants.csv) |CSV |
 |[trafford_council_voluntary_sector_grants.json](trafford_council_voluntary_sector_grants.json) |JSON |
+|[trafford_council_voluntary_sector_grants.csv-metadata.json](trafford_council_voluntary_sector_grants.csv-metadata.json) |JSON |
 
 </main>
 
