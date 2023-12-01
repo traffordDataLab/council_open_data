@@ -6,16 +6,16 @@
       "titles": "period",
       "dc:description": "Financial year"
     },{
-      "titles": "paid_on_time",
-      "dc:description": "Proportion of valid & undisputed invoices paid within 30 days in accordance with regulation 113."
+      "titles": "proportion_paid_on_time",
+      "dc:description": "Proportion of valid & undisputed invoices paid within 30 days in accordance with regulation 113, expressed as a percentage."
     },{
       "titles": "interest_paid",
-      "dc:description": "The amount of interest paid to suppliers due to a breach of the requirement in regulation 113."
+      "dc:description": "The amount of interest paid to suppliers due to a breach of the requirement in regulation 113, expressed in GBP."
     },{
       "titles": "liable_interest",
-      "dc:description": "The total amount of interest that the contracting authority was liable to (whether or not paid and whether under any statutory or other requirement), due to a breach of Regulation 113."
+      "dc:description": "The total amount of interest that the contracting authority was liable to (whether or not paid and whether under any statutory or other requirement), due to a breach of Regulation 113, expressed in GBP."
     },{
-      "titles": "not_paid_on_time",
+      "titles": "number_not_paid_on_time",
       "dc:description": "Number of invoices not paid within 30 days (Not mandatory requirement to publish requested as part of the FOIR)."
     }]
   }
