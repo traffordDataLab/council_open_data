@@ -42,11 +42,11 @@ library(tidyverse) ; library(htmltools) ; library(DT)
   <tr>
     <td>ONS Open Geography Portal</td>
     <td><a href="http://geoportal.statistics.gov.uk/" target="_blank">Office for National Statistics (ONS)</a></td>
-    <td>2021</td>
+    <td>2021-2023</td>
     <td>Local authority district, Electoral wards, Westminster Parliamentary Constituencies, Parishes, Middle layer Super Output Areas, Lower layer Super Output Areas, Output Areas, Localities</td>
     <td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a></td>
     <td>ONS Geography Open Data. Shared by: ONSGeography_data. Data Source: ons-inspire.esriuk.com</td>
-    <td><time datetime="2023-07-28">2023-07-28</time></td>
+    <td><time datetime="2023-12-21">2023-12-21</time></td>
   </tr>
 </table>
 
