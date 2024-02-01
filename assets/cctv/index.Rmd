@@ -41,11 +41,11 @@ df <- read_csv("trafford_cctv_cameras.csv") %>%
   <tr>
     <td><a href="https://www.trafford.gov.uk" target="_blank">Trafford Council</a></td>
     <td><a href="https://www.trafforddatalab.io/council_open_data/assets/cctv" target="_blank">Trafford Council</a></td>
-    <td><time datetime="2023-10">2023-10</time></td>
+    <td><time datetime="2024-01">2024-01</time></td>
     <td>Point data</td>
     <td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a></td>
     <td>Contains public sector information licensed under the Open Government Licence v3.0</td>
-    <td><time datetime="2023-10-30">2023-10-30</time></td>
+    <td><time datetime="2024-02-01">2024-02-01</time></td>
   </tr>
 </table>
 

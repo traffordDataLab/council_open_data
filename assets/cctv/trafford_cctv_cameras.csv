@@ -89,12 +89,15 @@ camera_id,location,area_name,area_code,lon,lat
 297,Altrincham Taxi Rank,Altrincham,E05015239,-2.348568,53.387282
 299,Craven Road,Broadheath,E05015242,-2.359343,53.401198
 1276,Washway Road,Sale Central,E05015254,-2.326824,53.424168
-1150,Barton Dock Road ,Lostock & Barton,E05015251,-2.347539,53.467971
-1003,Wharfside Way/Sir Matt Busby Way ,Gorse Hill & Cornbrook,E05015247,-2.289589,53.464723
-1005,Chester Road ,Gorse Hill & Cornbrook,E05015247,-2.285219,53.46222
+1150,Barton Dock Road,Lostock & Barton,E05015251,-2.347539,53.467971
+1003,Wharside Way/Sir Matt Busby Way,Gorse Hill & Cornbrook,E05015247,-2.289589,53.464723
+1005,"Chester Road, Old Trafford",Gorse Hill & Cornbrook,E05015247,-2.285219,53.46222
 1301,"Ashley Road/Hale View, Hale",Hale,E05015248,-2.348709,53.378689
-1302,"Ashley Road/Victoria Road, Hale",Hale,E05015248,-2.347088,53.377985
+1302,Ashley Road/Victoria Road,Hale,E05015248,-2.347088,53.377985
 1303,"Ashley Road, Hale",Hale,E05015248,-2.345115,53.376644
-1151,Europa Circle ,Gorse Hill & Cornbrook,E05015247,-2.306039,53.462625
+1151,Europa Circle,Gorse Hill & Cornbrook,E05015247,-2.306039,53.462625
 1077,Firs Way/Epsom Avenue,Manor,E05015252,-2.36172,53.414343
 1034,Wright Street,Gorse Hill & Cornbrook,E05015247,-2.268574,53.465787
+1283,Moss Road,Gorse Hill & Cornbrook,E05015247,-2.310402,53.453613
+1282,Moss Road/Station Road,Gorse Hill & Cornbrook,E05015247,-2.310525,53.454809
+1290,Old Hall Road,Lostock & Barton,E05015251,-2.332272,53.457697

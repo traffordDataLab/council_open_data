@@ -24,6 +24,8 @@ sf_cctv <- sf_cctv %>%
     # Normalise the camera ids so that each record starts with the camera id followed by a space
     dplyr::mutate(location = str_to_title(location),
                   location = str_replace(location, " - ", " "),
+                  location = str_replace(location, "- ", " "),
+                  location = str_replace(location, "Cam -", ""),
                   location = str_replace(location, "Cam ", ""),
                   camera_id = str_extract(location, "[0-9]+")) %>%
     dplyr::select(camera_id, everything())
@@ -31,7 +33,8 @@ sf_cctv <- sf_cctv %>%
 
 # Tidy up general aspects of the location names e.g. "rd" -> "road", "st" -> "street" etc. (multiple instances)
 sf_cctv <- sf_cctv %>%
-    dplyr::mutate(location = str_replace_all(location, " Rd", " Road"),
+    dplyr::mutate(location = str_squish(location), # start by removing any whitespace at the beginning, end and replace multiple whitespaces internally with a single space
+                  location = str_replace_all(location, " Rd", " Road"),
                   location = str_replace_all(location, " St/", " Street/"),
                   location = str_replace_all(location, " St$", " Street"),
                   location = str_replace_all(location, " Ave$", " Avenue"),
