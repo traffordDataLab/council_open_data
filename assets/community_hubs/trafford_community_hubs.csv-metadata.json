@@ -1,0 +1,34 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "trafford_community_hubs.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "community_hub",
+      "dc:description": "Name/area of the community hub."
+    },{
+      "titles": "address",
+      "dc:description": "Full address of the community hub."
+    },{
+      "titles": "postcode",
+      "dc:description": "Postcode of the community hub."
+    },{
+      "titles": "website",
+      "dc:description": "Website of the community hub."
+    },{
+      "titles": "email",
+      "dc:description": "Email address of the community hub."
+    },{
+      "titles": "telephone",
+      "dc:description": "Telephone number of the community hub."
+    },{
+      "titles": "opening_hours",
+      "dc:description": "Opening hours of the community hub."
+    },{
+      "titles": "lon",
+      "dc:description": "Longitude coordinate of the community hub's location."
+    },{
+      "titles": "lat",
+      "dc:description": "Latitude coordinate of the community hub's location."
+    }]
+  }
+}
