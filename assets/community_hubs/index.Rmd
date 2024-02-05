@@ -40,7 +40,7 @@ df <- read_csv("trafford_community_hubs.csv") %>%
   </thead>
   <tr>
     <td><a href="https://www.trafford.gov.uk/residents/community/Community-Response-Hubs.aspx" target="_blank">Trafford Council</a></td>
-    <td><a href="https://www.trafforddatalab.io/council_open_data/assets/community_hubs" target="_blank">Trafford Council</a></td>
+    <td><a href="https://www.trafford.gov.uk" target="_blank">Trafford Council</a></td>
     <td>N/A</td>
     <td>Point data</td>
     <td><a href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank">OGL v3.0</a></td>
