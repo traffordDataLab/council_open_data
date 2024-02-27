@@ -104,6 +104,7 @@
 { "type": "Feature", "properties": { "camera_id": "1034", "location": "Wright Street", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.268574, 53.465787 ] } },
 { "type": "Feature", "properties": { "camera_id": "1283", "location": "Moss Road", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.310402, 53.453613 ] } },
 { "type": "Feature", "properties": { "camera_id": "1282", "location": "Moss Road/Station Road", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.310525, 53.454809 ] } },
-{ "type": "Feature", "properties": { "camera_id": "1290", "location": "Old Hall Road", "area_name": "Lostock & Barton", "area_code": "E05015251" }, "geometry": { "type": "Point", "coordinates": [ -2.332272, 53.457697 ] } }
+{ "type": "Feature", "properties": { "camera_id": "1290", "location": "Old Hall Road", "area_name": "Lostock & Barton", "area_code": "E05015251" }, "geometry": { "type": "Point", "coordinates": [ -2.332272, 53.457697 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1007", "location": "Warwick Road", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.287323, 53.459559 ] } }
 ]
 }

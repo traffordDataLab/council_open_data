@@ -29,11 +29,11 @@
 </tr>
 <tr>
 	<td>Temporal coverage</td>
-	<td>2024-01</td>
+	<td>2024-02</td>
 </tr>
 <tr>
 	<td>Frequency</td>
-	<td>NA</td>
+	<td>Following changes.</td>
 </tr>
 <tr>
 	<td>Licence</td>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2024-02-01</td>
+	<td>2024-02-27</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>

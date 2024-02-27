@@ -27,6 +27,7 @@ sf_cctv <- sf_cctv %>%
                   location = str_replace(location, "- ", " "),
                   location = str_replace(location, "Cam -", ""),
                   location = str_replace(location, "Cam ", ""),
+                  location = str_replace(location, "Camera ", ""),
                   camera_id = str_extract(location, "[0-9]+")) %>%
     dplyr::select(camera_id, everything())
     
