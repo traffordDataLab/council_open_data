@@ -97,7 +97,7 @@
 { "type": "Feature", "properties": { "camera_id": "1003", "location": "Wharside Way/Sir Matt Busby Way", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.289589, 53.464723 ] } },
 { "type": "Feature", "properties": { "camera_id": "1005", "location": "Chester Road, Old Trafford", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.285219, 53.46222 ] } },
 { "type": "Feature", "properties": { "camera_id": "1301", "location": "Ashley Road/Hale View, Hale", "area_name": "Hale", "area_code": "E05015248" }, "geometry": { "type": "Point", "coordinates": [ -2.348709, 53.378689 ] } },
-{ "type": "Feature", "properties": { "camera_id": "1302", "location": "Ashley Road/Victoria Road", "area_name": "Hale", "area_code": "E05015248" }, "geometry": { "type": "Point", "coordinates": [ -2.347088, 53.377985 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1302", "location": "Ashley Road/Victoria Road, Hale", "area_name": "Hale", "area_code": "E05015248" }, "geometry": { "type": "Point", "coordinates": [ -2.347088, 53.377985 ] } },
 { "type": "Feature", "properties": { "camera_id": "1303", "location": "Ashley Road, Hale", "area_name": "Hale", "area_code": "E05015248" }, "geometry": { "type": "Point", "coordinates": [ -2.345115, 53.376644 ] } },
 { "type": "Feature", "properties": { "camera_id": "1151", "location": "Europa Circle", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.306039, 53.462625 ] } },
 { "type": "Feature", "properties": { "camera_id": "1077", "location": "Firs Way/Epsom Avenue", "area_name": "Manor", "area_code": "E05015252" }, "geometry": { "type": "Point", "coordinates": [ -2.36172, 53.414343 ] } },
@@ -105,6 +105,8 @@
 { "type": "Feature", "properties": { "camera_id": "1283", "location": "Moss Road", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.310402, 53.453613 ] } },
 { "type": "Feature", "properties": { "camera_id": "1282", "location": "Moss Road/Station Road", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.310525, 53.454809 ] } },
 { "type": "Feature", "properties": { "camera_id": "1290", "location": "Old Hall Road", "area_name": "Lostock & Barton", "area_code": "E05015251" }, "geometry": { "type": "Point", "coordinates": [ -2.332272, 53.457697 ] } },
-{ "type": "Feature", "properties": { "camera_id": "1007", "location": "Warwick Road", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.287323, 53.459559 ] } }
+{ "type": "Feature", "properties": { "camera_id": "1007", "location": "Warwick Road", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.287323, 53.459559 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1172", "location": "Cross Lane West/Chapel Lane", "area_name": "Bucklow-St Martins", "area_code": "E05015244" }, "geometry": { "type": "Point", "coordinates": [ -2.426352, 53.41443 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1174", "location": "Wood Lane/Rose Walk", "area_name": "Bucklow-St Martins", "area_code": "E05015244" }, "geometry": { "type": "Point", "coordinates": [ -2.432232, 53.41522 ] } }
 ]
 }

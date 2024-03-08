@@ -46,6 +46,7 @@ sf_cctv <- sf_cctv %>%
                   location = str_replace(location, "Subway ([0-9])", "Chester Road, Stretford - Subway \\1"),
                   location = str_replace(location, "Road-", "Road - "),
                   location = str_replace(location, " Shops", " - Shops"),
+                  location = str_replace(location, " Junction Of ", "/"),
                   location = str_replace(location, " Junction ", "/"))
 
 
@@ -67,7 +68,7 @@ sf_cctv <- sf_cctv %>%
                                        location == "1003 Wharside Way/Sir Matt Busby Way " ~ "1003 Wharfside Way/Sir Matt Busby Way ",
                                        location == "1005 Chester Road" ~ "1005 Chester Road, Old Trafford",
                                        location == "1301 Ashley Road Hale" ~ "1301 Ashley Road/Hale View, Hale",
-                                       location == "1302 Ashley Road /Victoria Road" ~ "1302 Ashley Road/Victoria Road, Hale",
+                                       location == "1302 Ashley Road/Victoria Road" ~ "1302 Ashley Road/Victoria Road, Hale",
                                        location == "1303 Ashley Road Hale" ~ "1303 Ashley Road, Hale",
                                        TRUE ~ location))
 
