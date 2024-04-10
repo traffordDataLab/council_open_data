@@ -11,7 +11,7 @@
 </tr>
 <tr>
 	<td>Temporal coverage</td>
-	<td>2014/15 - 2022/23</td>
+	<td>2014/15 - 2023/24</td>
 </tr>
 <tr>
 	<td>Frequency</td>
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2023-04-11</td>
+	<td>2024-04-10</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
