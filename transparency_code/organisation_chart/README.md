@@ -3,7 +3,7 @@
 <table>
 <tr>
 	<td>Dataset</td>
-	<td>Organisation chart</td>
+	<td>Organisation chart/dataset</td>
 </tr>
 <tr>
 	<td>Description</td>
@@ -19,15 +19,15 @@
 </tr>
 <tr>
 	<td>Format</td>
-	<td>PDF</td>
+	<td>PDF, CSV</td>
 </tr>
 <tr>
 	<td>Openness rating</td>
-	<td>&#9733;&#9734;&#9734;&#9734;&#9734;&nbsp; available on the Web under an open licence</td>
+	<td>&#9733;&#9734;&#9734;&#9734;&#9734;&nbsp; available on the Web under an open licence (PDF), &#9733;&#9733;&#9733;&#9734;&#9734;&nbsp; Structured data in a non-proprietary format (CSV)</td>
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2023-10-25</td>
+	<td>2024-07-01</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>

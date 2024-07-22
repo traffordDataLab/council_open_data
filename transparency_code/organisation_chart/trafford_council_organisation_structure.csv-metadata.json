@@ -1,0 +1,55 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "https://www.trafforddatalab.io/council_open_data/transparency_code/organisation_chart/trafford_council_organisation_structure.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "OrganisationLabel",
+      "dc:description": "The name of the organisation to which the data relates."
+    },{
+      "titles": "OrganisationURI",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+    },{
+      "titles": "EffectiveDate",
+      "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "Level",
+      "dc:description": "Level within the organisation that the post relates to. 1 for top level (i.e. Chief Executive), 2 for second level (i.e. Corporate Director), 3 for third level (e.g. Directors/Strategic Leads) etc."
+    },{
+      "titles": "JobTitle",
+      "dc:description": "Job title of the post the individual holds."
+    },{
+      "titles": "Name",
+      "dc:description": "Name of the individual for those senior officers whose salary is 150,000 GBP and over, otherwise NA (Not Applicable)."
+    },{
+      "titles": "Grade",
+      "dc:description": "The individual's pay grade. 'Spot salary' means there is no grading structure for this role."
+    },{
+      "titles": "Directorate",
+      "dc:description": "The name of the directorate to which the individual belongs. The Chief Executive post is above the directorate level and so is listed as 'Chief Executive'."
+    },{
+      "titles": "Service",
+      "dc:description": "The name of the service to which the individual belongs. NA (Not Applicable) for the Chief Executive and individuals at level 2 as they do not belong to a service."
+    },{
+      "titles": "ContractType",
+      "dc:description": "Whether the contract is permanent or temporary."
+    },{
+      "titles": "SharedPost",
+      "dc:description": "Whether the post is 'Shared' with another organisation or NA (Not Applicable) if not."
+    },{
+      "titles": "ContactDetails",
+      "dc:description": "Email address to contact the individual - generic address if the individual is not named."
+    },{
+      "titles": "SalaryBand",
+      "dc:description": "Salary in brackets of 5,000 GBP."
+    },{
+      "titles": "MaximumSalary",
+      "dc:description": "The maximum salary for the grade in GBP."
+    },{
+      "titles": "Vacancy",
+      "dc:description": "Whether the post is currently 'Vacant' or NA (Not Applicable) if not."
+    },{
+      "titles": "Comments",
+      "dc:description": "Additional information providing extra clarity about an individual's post or NA (Not Applicable)."
+    }]
+  }
+}

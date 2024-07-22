@@ -7,7 +7,7 @@
 </tr>
 <tr>
 	<td>Description</td>
-	<td>Details of renumeration, job title and responsibilities of senior employees whose salary is at least &pound;50,000 and the number of employees whose renumeration is at least £50,000 in brackets of £5,000.</td>
+	<td>Details of remuneration, job title and responsibilities of senior employees whose salary is at least &pound;50,000 and the number of employees whose remuneration is at least £50,000 in brackets of £5,000.</td>
 </tr>
 <tr>
 	<td>Frequency</td>
@@ -27,7 +27,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2023-09-12</td>
+	<td>2024-04-01</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
