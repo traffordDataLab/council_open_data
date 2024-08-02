@@ -24262,6 +24262,528 @@
             "fromOpenCall": "Yes",
             "dateModified": "2023-11-27T18:03:03Z",
             "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG31",
+            "title": "Trafford Community Hubs: Earmarked Funding for Altrincham Community Hub",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2023-05-11",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1130343",
+                    "name": "Altrincham Baptist Church (The Hub Altrincham)",
+                    "charityNumber": "1130343",
+                    "addressCountry": "England",
+                    "postalCode": "WA14 2SZ",
+                    "url": "https://thehub.churchinsight.com/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG32",
+            "title": "Trafford Community Hubs: Earmarked Funding for ST Johns Community Engagement Hub",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2023-05-12",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-07597525",
+                    "name": "St. John's Centre (Old Trafford Hub)",
+                    "charityNumber": "1146058",
+                    "companyNumber": "07597525",
+                    "addressCountry": "England",
+                    "postalCode": "M16 7GX",
+                    "url": "https://www.stjohnscentre.org/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG33",
+            "title": "Trafford Community Hubs: Earmarked Funding for Volunteer Hub",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2023-05-12",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-05384301",
+                    "name": "Age UK Trafford (Urmston Community Hub)",
+                    "charityNumber": "1109047",
+                    "companyNumber": "05384301",
+                    "addressCountry": "England",
+                    "postalCode": "M41 9EH",
+                    "url": "https://www.ageuk.org.uk/trafford/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG34",
+            "title": "Trafford Community Hubs: Earmarked Funding for The Hideaway Partington HUB",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2023-05-15",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1200251",
+                    "name": "Hidden Treasure Trust CIO (Hope Centre - The Hideaway - Partington Hub)",
+                    "charityNumber": "1200251",
+                    "addressCountry": "England",
+                    "postalCode": "M31 4LT",
+                    "url": "https://www.hopecentrepartington.com/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG35",
+            "title": "Trafford Community Hubs: Earmarked Funding for Stretford Public Hall - Community Hub",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2023-06-01",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-RS007220",
+                    "name": "Friends of Stretford Public Hall Limited (Stretford Hub)",
+                    "companyNumber": "RS007220",
+                    "addressCountry": "England",
+                    "postalCode": "M32 0LG",
+                    "url": "https://stretfordpublichall.org.uk/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2023VSG36",
+            "title": "Trafford Community Hubs: Earmarked Funding for Our Sale West",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2023-06-07",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-CE008889",
+                    "name": "Our Sale West (Sale Community Support Hub)",
+                    "charityNumber": "1171262",
+                    "companyNumber": "CE008889",
+                    "addressCountry": "England",
+                    "postalCode": "M33 4QJ",
+                    "url": "https://www.oursalewest.co.uk/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2024VSG1",
+            "title": "Trafford Community Hubs: Earmarked Funding for Partington The Hideaway Community Hub",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2024-05-10",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1200251",
+                    "name": "Hidden Treasure Trust CIO (Hope Centre - The Hideaway - Partington Hub)",
+                    "charityNumber": "1200251",
+                    "addressCountry": "England",
+                    "postalCode": "M31 4LT",
+                    "url": "https://www.hopecentrepartington.com/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2024VSG2",
+            "title": "Trafford Community Hubs: Earmarked Funding for Stretford Public Hall Community Hub24/25",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2024-05-21",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-RS007220",
+                    "name": "Friends of Stretford Public Hall Limited (Stretford Hub)",
+                    "companyNumber": "RS007220",
+                    "addressCountry": "England",
+                    "postalCode": "M32 0LG",
+                    "url": "https://stretfordpublichall.org.uk/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2024VSG3",
+            "title": "Trafford Community Hubs: Earmarked Funding for St Johns Community Engagement Hub 24/25",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2024-05-21",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-07597525",
+                    "name": "St. John's Centre (Old Trafford Hub)",
+                    "charityNumber": "1146058",
+                    "companyNumber": "07597525",
+                    "addressCountry": "England",
+                    "postalCode": "M16 7GX",
+                    "url": "https://www.stjohnscentre.org/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2024VSG4",
+            "title": "Trafford Community Hubs: Earmarked Funding for Altrincham Bapt Church Community Hub 24",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2024-05-23",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-CHC-1130343",
+                    "name": "Altrincham Baptist Church (The Hub Altrincham)",
+                    "charityNumber": "1130343",
+                    "addressCountry": "England",
+                    "postalCode": "WA14 2SZ",
+                    "url": "https://thehub.churchinsight.com/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
+        },
+        {
+            "id": "360G-traffordmbc-2024VSG5",
+            "title": "Trafford Community Hubs: Earmarked Funding for Trafford Age UK - Community Hub 24/25",
+            "description": "Community Hubs: Funding has been agreed for two years to allow the hubs to develop plans to become self-sufficient financially. For 2023/24 and 2024/25, £100,000 per annum has been agreed with the Executive to support the Community Hubs. This funding is from the Inclusive Neighbourhood Grants.",
+            "currency": "GBP",
+            "amountAwarded": 16666,
+            "awardDate": "2024-06-19",
+            "plannedDates": [
+                {
+                    "duration": 12
+                }
+            ],
+            "recipientOrganization": [
+                {
+                    "id": "GB-COH-05384301",
+                    "name": "Age UK Trafford (Urmston Community Hub)",
+                    "charityNumber": "1109047",
+                    "companyNumber": "05384301",
+                    "addressCountry": "England",
+                    "postalCode": "M41 9EH",
+                    "url": "https://www.ageuk.org.uk/trafford/"
+                }
+            ],
+            "beneficiaryLocation": [
+                {
+                    "name": "Trafford",
+                    "countryCode": "GB",
+                    "geoCode": "E08000009",
+                    "geoCodeType": "MD"
+                }
+            ],
+            "fundingOrganization": [
+                {
+                    "id": "GB-LAE-TRF",
+                    "name": "Trafford Metropolitan Borough Council",
+                    "department": "Inclusive Economy & Communities"
+                }
+            ],
+            "grantProgramme": [
+                {
+                    "code": "ING",
+                    "title": "Inclusive Neighbourhood Grants"
+                }
+            ],
+            "fromOpenCall": "No",
+            "dateModified": "2024-08-02T12:29:00Z",
+            "dataSource": "https://www.trafford.gov.uk/"
         }
     ]
 }
