@@ -1,22 +1,22 @@
-OrganisationLabel,OrganisationURI,EffectiveDate,Location,Postcode,ParkingSpaces,DisabledParkingSpaces,ParkingRestrictions,FreeParking,ChargeableParking,HeightRestriction,HeightRestrictionMetres,HeightRestrictionFeet,ElectricVehiclePoint,ParkMarkAward,Toilets
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Regent Road, Altrincham",WA14 1RY,147,NA,Pay & Display,FALSE,TRUE,FALSE,0,0,TRUE,TRUE,TRUE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Oakfield Road, Altrincham",WA15 8EW,300,12,Pay & Display,FALSE,TRUE,TRUE,1.98,6.5,FALSE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Balmoral Road (No. 2), Altrincham",WA15 8HJ,25,1,Pay & Display,FALSE,TRUE,FALSE,0,0,FALSE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Borough Road, Altrincham",WA15 9RA,7,0,Free,TRUE,FALSE,FALSE,0,0,FALSE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,Ashley Walk,WA15 9SF,26,5,Pay & Display,FALSE,TRUE,FALSE,0,0,FALSE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,Crown Passages,WA14 9SP,69,4,Pay & Display,FALSE,TRUE,FALSE,0,0,FALSE,TRUE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Victoria Road, Hale",WA14 9AF,47,2,Pay & Display,FALSE,TRUE,FALSE,0,0,FALSE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Brown Street, Hale",WA14 2ET,67,4,Pay & Display,FALSE,TRUE,FALSE,0,0,FALSE,TRUE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Thorley Lane, Timperley",WA15 7BJ,63,3,Free - limited to 3 hours,TRUE,FALSE,TRUE,1.98,6.5,FALSE,TRUE,TRUE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Warrener Street, Sale Moor",M33 3GE,95,5,Pay & Display,FALSE,TRUE,FALSE,0,0,FALSE,TRUE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Oaklands Drive, Sale",M33 7NS,76,3,Pay & Display,FALSE,TRUE,TRUE,1.98,6.5,FALSE,TRUE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Hampson Street, Sale Moor",M33 3JF,30,0,Pay & Display,FALSE,TRUE,TRUE,1.98,6.5,FALSE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"James Street, Sale Moor",M33 3HN,21,1,Pay & Display,FALSE,TRUE,TRUE,1.98,6.5,FALSE,TRUE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Greenbank Road, Sale",M33 5YL,20,1,Pay & Display,FALSE,TRUE,FALSE,0,0,FALSE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Newton Street/Lacy Street, Stretford",M32 8AA,145,4,Pay & Display,FALSE,TRUE,FALSE,0,0,TRUE,TRUE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Eleventh Street, Trafford Park",M17 1JF,43,0,Free,TRUE,FALSE,TRUE,1.98,6.5,FALSE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Manor Avenue, Urmston",M41 9JE,74,3,Pay & Display,FALSE,TRUE,TRUE,1.98,6.5,FALSE,TRUE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Atkinson Road (East), Urmston",M41 9QN,25,1,Pay & Display,FALSE,TRUE,FALSE,0,0,FALSE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Golden Hill Park, Urmston",M41 5AT,100,5,Pay & Display,FALSE,TRUE,TRUE,1.98,6.5,FALSE,TRUE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Flixton Road, Urmston",M41 6JF,36,2,Pay & Display,FALSE,TRUE,FALSE,0,0,TRUE,FALSE,FALSE
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2022-06-14,"Central Road (rear of Co-op), Partington",M31 4FY,85,3,Free,TRUE,FALSE,FALSE,0,0,FALSE,FALSE,FALSE
+OrganisationLabel,OrganisationURI,EffectiveDate,Location,Postcode,ParkingSpaces,DisabledParkingSpaces,ParkingRestrictions,FreeParking,ChargeableParking,ElectricVehiclePoint
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Regent Road, Altrincham",WA14 2YQ,177,11,Pay & Display,FALSE,TRUE,10
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Oakfield Road (managed by Trafford), Altrincham",WA15 8EW,300,12,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Balmoral Road (No. 2), Altrincham",WA15 8HJ,19,1,Pay & Display,FALSE,TRUE,5
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Borough Road, Altrincham",WA15 9RA,8,0,Free,TRUE,FALSE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Cecil Road (East), Hale",WA14 9NT,135,12,Pay & Display,FALSE,TRUE,8
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Victoria Road, Hale",WA14 9AF,45,3,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Brown Street, Hale",WA14 2ET,80,4,Pay & Display,FALSE,TRUE,4
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Thorley Lane, Timperley",WA15 7BJ,69,4,Free (maximum 3 hours),TRUE,FALSE,7
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Baker Street, Timperley",WA15 7XH,71,3,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Warrener Street, Sale Moor",M33 3GE,88,2,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Oaklands Drive, Sale",M33 7NS,74,3,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Hampson Street, Sale Moor",M33 3JF,29,0,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"James Street, Sale Moor",M33 3HN,19,1,Pay & Display,FALSE,TRUE,4
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Greenbank Road, Sale",M33 5PH,20,1,Pay & Display,FALSE,TRUE,4
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Newton Street/Lacy Street, Stretford",M32 8AA,93,4,Pay & Display,FALSE,TRUE,2
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Eleventh Street, Trafford Park",M17 1JF,43,0,Free,TRUE,FALSE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Manor Avenue, Urmston",M41 9JE,75,4,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Atkinson Road (East), Urmston",M41 9QN,23,1,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Golden Hill Park, Urmston",M41 5AT,103,3,Pay & Display,FALSE,TRUE,12
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Flixton Road, Urmston",M41 6JF,36,2,Pay & Display,FALSE,TRUE,6
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Central Road (rear of Co-op), Partington",M31 4EL,85,3,Free,TRUE,FALSE,0
