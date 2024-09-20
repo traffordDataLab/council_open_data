@@ -10,8 +10,8 @@
                 "postcode": "WA15 8EW",
                 "telephone": "01617492570",
                 "website": "https://traffordleisure.co.uk/altrincham-refurbishment-updates-and-help/",
-                "opening_hours": "Temporarily closed for refurbishment, re-opening in 2024",
-                "facilities": "25m swimming pool, 20m leisure pool, pool pod to improve accessibility, welcoming lobby area combining pool viewing and café, village wet change (unisex), inclusive changing places toilet (a first for Altrincham town centre), health and wellbeing spa facility, wellness assessment room, state-of-the-art fitness space incorporating Technogym equipment with my wellness technology, fitness changing and dry change areas, two group exercise studio spaces, immersive indoor cycle studio, four-court sports hall, modern gymnastics hub",
+                "opening_hours": "Temporarily closed for refurbishment, re-opening in 2025",
+                "facilities": "The new look centre, branded move Altrincham, is due to open early 2025 will benefit from a 25m swimming pool, a 20m learner pool, a pool pod to improve accessibility, a combined lobby area with pool viewing and café, a wet village change, an inclusive changing places toilet and a stunning health and wellbeing spa facility. There will also be a wellness assessment room, an enlarged fitness suite, fitness changing and dry change areas, two flexible studio spaces, an immersive indoor cycle studio, a four-court sports hall and storage, a gymnastics hub and staff rooms, and offices.",
                 "managed_by": "Trafford Leisure CIC."
             },
             "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.345804, 53.388726 ], [ -2.345332, 53.388598 ], [ -2.345375, 53.388554 ], [ -2.345339, 53.388535 ], [ -2.345303, 53.388586 ], [ -2.345243, 53.388564 ], [ -2.345271, 53.388537 ], [ -2.345067, 53.38849 ], [ -2.345543, 53.387869 ], [ -2.345893, 53.387961 ], [ -2.345868, 53.387987 ], [ -2.346237, 53.388083 ], [ -2.346215, 53.388104 ], [ -2.34634, 53.388136 ], [ -2.346247, 53.388268 ], [ -2.346176, 53.388242 ], [ -2.346158, 53.388277 ], [ -2.346097, 53.388257 ], [ -2.346072, 53.388302 ], [ -2.346187, 53.388345 ], [ -2.346069, 53.388507 ], [ -2.346008, 53.388488 ], [ -2.345818, 53.388729 ], [ -2.345804, 53.388726 ] ] ] ] }
@@ -120,8 +120,8 @@
                 "postcode": "M31 4ES",
                 "telephone": "01617492570",
                 "website": "https://traffordleisure.co.uk/centres/partington/",
-                "opening_hours": "Mon-Tue: 9:00am-10:00pm, Wed-Fri: 3:00pm-10:00pm, Sat-Sun: 9:00am-5:00pm",
-                "facilities": "Partington has a multifunctional gym and studio, 20 metre swimming pool, double sports hall for football/5 aside, badminton, basketball and more.",
+                "opening_hours": "Pitch bookings only: Mon-Fri: 5:00pm-10:00pm, Sat-Sun: 9:00am-5:00pm",
+                "facilities": "Due to ongoing refurbishment work at Partington Sports Centre, please be aware that our facilities are currently limited. At this time, only the outdoor football pitches are available for use. For access to swimming, gym facilities, and other activities, we encourage you to visit Sale Leisure Centre or Stretford Leisure Centre.",
                 "managed_by": "Trafford Leisure CIC."
             },
             "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.428774, 53.413226 ], [ -2.428134, 53.413214 ], [ -2.427955, 53.413239 ], [ -2.427619, 53.413231 ], [ -2.427604, 53.413431 ], [ -2.427941, 53.413439 ], [ -2.428212, 53.413444 ], [ -2.428205, 53.413672 ], [ -2.428588, 53.413689 ], [ -2.428591, 53.413567 ], [ -2.428681, 53.413572 ], [ -2.428688, 53.413446 ], [ -2.428759, 53.413448 ], [ -2.428774, 53.413226 ] ] ] ] }

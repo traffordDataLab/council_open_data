@@ -32,7 +32,7 @@
 </tr>
 <tr>
 	<td>Temporal coverage</td>
-	<td>Correct as of June 2023</td>
+	<td>Correct as of September 2024</td>
 </tr>
 <tr>
 	<td>Update frequency</td>
@@ -56,7 +56,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2023-06-22</td>
+	<td>2024-09-20</td>
 </tr>
 <tr>
 	<td>Notes</td>
