@@ -19,7 +19,7 @@ df_data <- webpage %>%
 df_data_tidy <- df_data %>%
     # renaming of variables to shorter names as per associated metadata schema
     rename(period = `Financial Year`,
-           proportion_paid_on_time = `Proportion of valid & undisputed invoices paid within 30 days in accordance with regulation 113`,
+           proportion_paid_on_time = `Proportion of valid and undisputed invoices paid within 30 days in accordance with regulation 113`,
            interest_paid = `The amount of interest paid to suppliers due to a breach of the requirement in regulation 113`,
            liable_interest = `The total amount of interest that the contracting authority was liable to (whether or not paid and whether under any statutory or other requirement), due to a breach of Regulation 113`,
            number_not_paid_on_time = `*Number of invoices not paid within 30 days (Not mandatory requirement to publish requested as part of the FOIR)`) %>%
