@@ -26,6 +26,7 @@ sf_cctv <- sf_cctv %>%
                   location = str_replace(location, " - ", " "),
                   location = str_replace(location, "- ", " "),
                   location = str_replace(location, "Cam -", ""),
+                  location = str_replace(location, "Cam-", ""),
                   location = str_replace(location, "Cam ", ""),
                   location = str_replace(location, "Camera ", ""),
                   camera_id = str_extract(location, "[0-9]+")) %>%
@@ -47,7 +48,8 @@ sf_cctv <- sf_cctv %>%
                   location = str_replace(location, "Road-", "Road - "),
                   location = str_replace(location, " Shops", " - Shops"),
                   location = str_replace(location, " Junction Of ", "/"),
-                  location = str_replace(location, " Junction ", "/"))
+                  location = str_replace(location, " Junction ", "/"),
+                  location = str_replace(location, "Round About", "Roundabout"))
 
 
 # Tidy up specific aspects of individual locations (requires the camera id otherwise there is a risk to accidentally alter other location names)

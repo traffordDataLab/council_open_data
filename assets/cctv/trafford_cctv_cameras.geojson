@@ -107,6 +107,17 @@
 { "type": "Feature", "properties": { "camera_id": "1290", "location": "Old Hall Road", "area_name": "Lostock & Barton", "area_code": "E05015251" }, "geometry": { "type": "Point", "coordinates": [ -2.332272, 53.457697 ] } },
 { "type": "Feature", "properties": { "camera_id": "1007", "location": "Warwick Road", "area_name": "Gorse Hill & Cornbrook", "area_code": "E05015247" }, "geometry": { "type": "Point", "coordinates": [ -2.287323, 53.459559 ] } },
 { "type": "Feature", "properties": { "camera_id": "1172", "location": "Cross Lane West/Chapel Lane", "area_name": "Bucklow-St Martins", "area_code": "E05015244" }, "geometry": { "type": "Point", "coordinates": [ -2.426352, 53.41443 ] } },
-{ "type": "Feature", "properties": { "camera_id": "1174", "location": "Wood Lane/Rose Walk", "area_name": "Bucklow-St Martins", "area_code": "E05015244" }, "geometry": { "type": "Point", "coordinates": [ -2.432232, 53.41522 ] } }
+{ "type": "Feature", "properties": { "camera_id": "1174", "location": "Wood Lane/Rose Walk", "area_name": "Bucklow-St Martins", "area_code": "E05015244" }, "geometry": { "type": "Point", "coordinates": [ -2.432232, 53.41522 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1272", "location": "Moss Road Stretford", "area_name": "Stretford & Humphrey Park", "area_code": "E05015256" }, "geometry": { "type": "Point", "coordinates": [ -2.310343, 53.450276 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1018", "location": "Seven Ways Roundabout", "area_name": "Stretford & Humphrey Park", "area_code": "E05015256" }, "geometry": { "type": "Point", "coordinates": [ -2.31832, 53.450619 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1019", "location": "Seven Ways Roundabout", "area_name": "Lostock & Barton", "area_code": "E05015251" }, "geometry": { "type": "Point", "coordinates": [ -2.319015, 53.450699 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1014", "location": "Park Road/Davyhulme Road", "area_name": "Lostock & Barton", "area_code": "E05015251" }, "geometry": { "type": "Point", "coordinates": [ -2.316642, 53.452986 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1020", "location": "Barton Road", "area_name": "Lostock & Barton", "area_code": "E05015251" }, "geometry": { "type": "Point", "coordinates": [ -2.325232, 53.454289 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1152", "location": "Nags Head Roundabout", "area_name": "Lostock & Barton", "area_code": "E05015251" }, "geometry": { "type": "Point", "coordinates": [ -2.357339, 53.458044 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1156", "location": "Trafford Retail Park", "area_name": "Davyhulme", "area_code": "E05015245" }, "geometry": { "type": "Point", "coordinates": [ -2.358109, 53.462237 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1298", "location": "Altrincham Retail Park", "area_name": "Broadheath", "area_code": "E05015242" }, "geometry": { "type": "Point", "coordinates": [ -2.356999, 53.399425 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1078", "location": "Shaftesbury Avenue", "area_name": "Timperley Central", "area_code": "E05015257" }, "geometry": { "type": "Point", "coordinates": [ -2.322976, 53.39228 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1294", "location": "Broomwood Park", "area_name": "Timperley Central", "area_code": "E05015257" }, "geometry": { "type": "Point", "coordinates": [ -2.306396, 53.391847 ] } },
+{ "type": "Feature", "properties": { "camera_id": "1291", "location": "Mainwood Road/Greystoke Avenue", "area_name": "Timperley Central", "area_code": "E05015257" }, "geometry": { "type": "Point", "coordinates": [ -2.305495, 53.391498 ] } }
 ]
 }
