@@ -17,6 +17,8 @@ camera_id,location,area_name,area_code,lon,lat
 1018,Sevenways Roundabout (Church Side),Stretford & Humphrey Park,E05015256,-2.31832,53.450619
 1019,Sevenways Roundabout (Petrol Station Side),Lostock & Barton,E05015251,-2.319015,53.450699
 1020,Barton Road,Lostock & Barton,E05015251,-2.325232,53.454289
+1022,Trafford House Roof (MUFC Side),Gorse Hill & Cornbrook,E05015247,-2.29014,53.460722
+1023,Trafford House Roof (TTH Side),Gorse Hill & Cornbrook,E05015247,-2.29043,53.460362
 1024,Edge Lane,Longford,E05015250,-2.304892,53.445577
 1025,Chester Road/Kingsway (Subway),Stretford & Humphrey Park,E05015256,-2.307037,53.446325
 1026,Chester Road/Edge Lane (Subway),Longford,E05015250,-2.306366,53.446066
@@ -100,6 +102,7 @@ camera_id,location,area_name,area_code,lon,lat
 1206,Sale Water Park (Static 2),Sale Central,E05015254,-2.300072,53.431336
 1207,Sale Water Park (Static 3),Sale Central,E05015254,-2.300123,53.431355
 1208,Sale Water Park (Static 4),Sale Central,E05015254,-2.300268,53.431402
+1270,Thirlmere Avenue,Gorse Hill & Cornbrook,E05015247,-2.314001,53.453685
 1271,Chester Road/Great Stone Road,Gorse Hill & Cornbrook,E05015247,-2.29456,53.458112
 1272,Moss Road/Derbyshire Lane,Stretford & Humphrey Park,E05015256,-2.310343,53.450276
 1273,Sale Waterside (Rooftop),Sale Central,E05015254,-2.319574,53.425632

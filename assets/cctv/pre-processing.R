@@ -76,6 +76,8 @@ sf_cctv <- sf_cctv %>%
                                               location == "1009 The Quadrant" ~ "1009 The Quadrant, Old Trafford",
                                               location == "1018 Seven Ways Roundabout" ~ "1018 Sevenways Roundabout (Church Side)",
                                               location == "1019 Seven Ways Roundabout" ~ "1019 Sevenways Roundabout (Petrol Station Side)",
+                                              location == "1022 Trafford House Roof Mufc Side" ~ "1022 Trafford House Roof (MUFC Side)",
+                                              location == "1023 Trafford House Roof Tth Side" ~ "1023 Trafford House Roof (TTH Side)",
                                               location == "1025 Subway 1" ~ "1025 Chester Road/Kingsway (Subway)",
                                               location == "1026 Subway 2" ~ "1026 Chester Road/Edge Lane (Subway)",
                                               location == "1027 Kingsway Stretford" ~ "1027 Kingsway, Stretford",
