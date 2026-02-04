@@ -64,12 +64,22 @@ sf_cctv <- sf_cctv %>%
                   location = stringr::str_replace(location, "Road-([A-Za-z0-9\\s]+)", "Road (\\1)"),
                   location = stringr::str_replace(location, " Shops", " (Shops)"),
                   location = stringr::str_replace(location, " Junction Of | Junction ", "/"),
-                  location = stringr::str_replace(location, "Round About", "Roundabout"))
+                  location = stringr::str_replace(location, "Round About", "Roundabout"),
+                  location = stringr::str_replace(location, "Metrolink", "tram stop"),
+                  location = stringr::str_replace(location, "Metro Station", "tram stop"),
+                  location = stringr::str_replace(location, "Metro", "tram stop"))
 
+
+# Check for duplicate camera ids - this will be due to the old camera position being left in the file, rather than being moved/deleted.
+# In cases of duplicates, the last entered camera in the file is the one to use, as this will have been added to the file more recently.
+# Below is an example of how to deal with it:
+#sf_cctv <- sf_cctv %>%
+#    filter(!location %in% c("1033 Cornbrook Street", "1152 Croftsbank Road"))
 
 # Tidy up specific aspects of individual locations (requires the camera id otherwise there is a risk to accidentally alter other location names)
 sf_cctv <- sf_cctv %>%
-    dplyr::mutate(location = dplyr::case_when(location == "1003 Wharside Way/Sir Matt Busby Way" ~ "1003 Wharfside Way/Sir Matt Busby Way",
+    dplyr::mutate(location = dplyr::case_when(location == "1002 Trafford Whaf Road tram stop" ~ "1002 Trafford Wharf Road/Wharfside tram stop",
+                                              location == "1003 Wharside Way/Sir Matt Busby Way" ~ "1003 Wharfside Way/Sir Matt Busby Way",
                                               location == "1005 Chester Road" ~ "1005 Chester Road (White City)",
                                               location == "1007 Warwick Road" ~ "1007 Warwick Road (Town Hall)",
                                               location == "1008 Chester Road" ~ "1008 Chester Road (Tesco)",
@@ -97,7 +107,7 @@ sf_cctv <- sf_cctv %>%
                                               location == "1082 The Causeway Altrincham" ~ "1082 The Causeway, Altrincham",
                                               location == "1083 Travel Lodge Roof Altrincham" ~ "1083 Travelodge (Rooftop), Altrincham",
                                               location == "1085 Cresta Court./Woodlands Road/Church Street" ~ "1085 Woodlands Road/Church Street (Cresta Court)",
-                                              location == "1150 Barton Dock Road" ~ "1150 Trafford Centre Metrolink Terminus, Barton Dock Road",
+                                              location == "1150 Barton Dock Road" ~ "1150 Barton Dock Road/Trafford Centre tram stop",
                                               location == "1152 Nags Head Roundabout" ~ "1152 Barton Road/Davyhulme Circle (The Nags Head)",
                                               location == "1154 Flixton Road(Railway Station)" ~ "1154 Flixton Road (Railway Station)",
                                               location == "1171 Moss Lane" ~ "1171 Moss Lane, Partington",

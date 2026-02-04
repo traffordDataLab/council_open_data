@@ -1,5 +1,6 @@
 camera_id,location,area_name,area_code,lon,lat
 1001,Trafford Wharf Road,Gorse Hill & Cornbrook,E05015247,-2.284777,53.464515
+1002,Trafford Wharf Road/Wharfside tram stop,Gorse Hill & Cornbrook,E05015247,-2.289056,53.466406
 1003,Wharfside Way/Sir Matt Busby Way,Gorse Hill & Cornbrook,E05015247,-2.289589,53.464723
 1005,Chester Road (White City),Gorse Hill & Cornbrook,E05015247,-2.285219,53.46222
 1006,Chester Road/Sir Matt Busby Way,Gorse Hill & Cornbrook,E05015247,-2.2880219999999998,53.461151
@@ -11,7 +12,7 @@ camera_id,location,area_name,area_code,lon,lat
 1012,Chester Road/Davyhulme Road East,Longford,E05015250,-2.301563,53.450755
 1013,Norris Road,Sale Moor,E05015255,-2.299929,53.414801
 1014,Park Road/Davyhulme Road,Lostock & Barton,E05015251,-2.316642,53.452986
-1015,Brooklands Metro Station,Brooklands,E05015243,-2.325582,53.417326
+1015,Brooklands tram stop,Brooklands,E05015243,-2.325582,53.417326
 1016,Goose Green,Altrincham,E05015239,-2.350552,53.385287
 1017,Goose Green Static,Altrincham,E05015239,-2.35057,53.385267
 1018,Sevenways Roundabout (Church Side),Stretford & Humphrey Park,E05015256,-2.31832,53.450619
@@ -27,7 +28,7 @@ camera_id,location,area_name,area_code,lon,lat
 1030,Seymour Grove,Old Trafford,E05015253,-2.276369,53.461582
 1031,Northumberland Road,Old Trafford,E05015253,-2.268775,53.462879
 1032,Henrietta Street,Old Trafford,E05015253,-2.266267,53.463376
-1033,Bridgewater Way/Cornbrook Metro,Gorse Hill & Cornbrook,E05015247,-2.266345,53.469516
+1033,Bridgewater Way/Cornbrook tram stop,Gorse Hill & Cornbrook,E05015247,-2.266345,53.469516
 1034,Wright Street,Gorse Hill & Cornbrook,E05015247,-2.268574,53.465787
 1035,Clifton Street,Old Trafford,E05015253,-2.262504,53.462363
 1036,Shrewsbury Street/Ayres Road,Old Trafford,E05015253,-2.260186,53.459859
@@ -37,6 +38,7 @@ camera_id,location,area_name,area_code,lon,lat
 1040,Ayres Road/Northumberland Road,Old Trafford,E05015253,-2.272214,53.457764
 1042,Stretford Road/East Union Street,Gorse Hill & Cornbrook,E05015247,-2.265533,53.464292
 1044,Stretford House (Rooftop),Stretford & Humphrey Park,E05015256,-2.312111,53.442722
+1046,Rye Bank Road,Longford,E05015250,-2.277925,53.451688
 1050,"Radnor Street, Stretford",Longford,E05015250,-2.304919,53.446829
 1060,Plymouth Road/Bodmin Road (Health Centre),Bucklow-St Martins,E05015244,-2.352147,53.427291
 1061,Magnolia Court (Rooftop North),Bucklow-St Martins,E05015244,-2.356303,53.428986
@@ -67,7 +69,7 @@ camera_id,location,area_name,area_code,lon,lat
 1094,School Road/Hereford Street,Sale Central,E05015254,-2.322866,53.425237
 1095,School Road/Hayfield Street,Sale Central,E05015254,-2.324203,53.425492
 1149,Peel Circle/Trafford Centre,Lostock & Barton,E05015251,-2.341002,53.465097
-1150,"Trafford Centre Metrolink Terminus, Barton Dock Road",Lostock & Barton,E05015251,-2.347539,53.467971
+1150,Barton Dock Road/Trafford Centre tram stop,Lostock & Barton,E05015251,-2.347539,53.467971
 1151,Europa Circle,Gorse Hill & Cornbrook,E05015247,-2.306039,53.462625
 1152,Barton Road/Davyhulme Circle (The Nags Head),Lostock & Barton,E05015251,-2.357339,53.458044
 1153,Flixton Road/Roseneath Road,Urmston,E05015259,-2.357465,53.448352
@@ -102,6 +104,7 @@ camera_id,location,area_name,area_code,lon,lat
 1206,Sale Water Park (Static 2),Sale Central,E05015254,-2.300072,53.431336
 1207,Sale Water Park (Static 3),Sale Central,E05015254,-2.300123,53.431355
 1208,Sale Water Park (Static 4),Sale Central,E05015254,-2.300268,53.431402
+1269,Moss Road/Fleming Drive,Gorse Hill & Cornbrook,E05015247,-2.310439,53.456413
 1270,Thirlmere Avenue,Gorse Hill & Cornbrook,E05015247,-2.314001,53.453685
 1271,Chester Road/Great Stone Road,Gorse Hill & Cornbrook,E05015247,-2.29456,53.458112
 1272,Moss Road/Derbyshire Lane,Stretford & Humphrey Park,E05015256,-2.310343,53.450276
