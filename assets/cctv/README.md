@@ -29,7 +29,7 @@
 </tr>
 <tr>
 	<td>Temporal coverage</td>
-	<td>2025-09</td>
+	<td>2026-02</td>
 </tr>
 <tr>
 	<td>Frequency</td>
@@ -49,7 +49,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2025-10-06</td>
+	<td>2026-02-17</td>
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>

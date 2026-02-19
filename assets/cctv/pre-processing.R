@@ -2,7 +2,7 @@
 ## The "RAW" file is now updated by the Trafford CCTV control room as and when there are changes, also using Plotter.
 ## The "RAW" file is **NOT** included in the repo due to it containing both the camera positions and their field of view.
 ## This purpose of this script is separate the camera positions from the views and clean up the output for publication as open data, in both GeoJSON and CSV format.
-## Last code update: 2025-03-04
+## Last code update: 2026-02-17
 
 
 # Required libraries
@@ -86,8 +86,8 @@ sf_cctv <- sf_cctv %>%
                                               location == "1009 The Quadrant" ~ "1009 The Quadrant, Old Trafford",
                                               location == "1018 Seven Ways Roundabout" ~ "1018 Sevenways Roundabout (Church Side)",
                                               location == "1019 Seven Ways Roundabout" ~ "1019 Sevenways Roundabout (Petrol Station Side)",
-                                              location == "1022 Trafford House Roof Mufc Side" ~ "1022 Trafford House Roof (MUFC Side)",
-                                              location == "1023 Trafford House Roof Tth Side" ~ "1023 Trafford House Roof (TTH Side)",
+                                              location == "1022 Trafford House Roof Mufc Side" ~ "1022 Trafford House (Rooftop MUFC Side)",
+                                              location == "1023 Trafford House Roof Tth Side" ~ "1023 Trafford House (Rooftop TTH Side)",
                                               location == "1025 Subway 1" ~ "1025 Chester Road/Kingsway (Subway)",
                                               location == "1026 Subway 2" ~ "1026 Chester Road/Edge Lane (Subway)",
                                               location == "1027 Kingsway Stretford" ~ "1027 Kingsway, Stretford",
@@ -97,8 +97,7 @@ sf_cctv <- sf_cctv %>%
                                               location == "1039 St Johns Road" ~ "1039 St John's Road/Ayres Road",
                                               location == "1040 Ayres Road" ~ "1040 Ayres Road/Northumberland Road",
                                               location == "1042 Stretford Road" ~ "1042 Stretford Road/East Union Street",
-                                              location == "1044 Stretford House Roof" ~ "1044 Stretford House (Rooftop)",
-                                              location == "1050 Radnor Street Stretford" ~ "1050 Radnor Street, Stretford",
+                                              location == "1044 Stretford House Roof" ~ "1044 Stretford House (Rooftop South)",
                                               location == "1060 Health Centre" ~ "1060 Plymouth Road/Bodmin Road (Health Centre)",
                                               location == "1064 Firsway/Goodwood Avenue" ~ "1064 Firs Way/Goodwood Avenue",
                                               location == "1069 Chepstow/Epsom Avenue" ~ "1069 Chepstow Avenue/Epsom Avenue",
@@ -107,13 +106,12 @@ sf_cctv <- sf_cctv %>%
                                               location == "1082 The Causeway Altrincham" ~ "1082 The Causeway, Altrincham",
                                               location == "1083 Travel Lodge Roof Altrincham" ~ "1083 Travelodge (Rooftop), Altrincham",
                                               location == "1085 Cresta Court./Woodlands Road/Church Street" ~ "1085 Woodlands Road/Church Street (Cresta Court)",
+                                              location == "1095 School Road/Hayfield St (Costa)" ~ "1095 School Road/Hayfield Street (Costa)",
                                               location == "1150 Barton Dock Road" ~ "1150 Barton Dock Road/Trafford Centre tram stop",
                                               location == "1152 Nags Head Roundabout" ~ "1152 Barton Road/Davyhulme Circle (The Nags Head)",
-                                              location == "1154 Flixton Road(Railway Station)" ~ "1154 Flixton Road (Railway Station)",
                                               location == "1171 Moss Lane" ~ "1171 Moss Lane, Partington",
                                               location == "1181 Millbank House" ~ "1181 Millbank House, Wood Lane",
                                               location == "1184 Lock Lane/Conniston" ~ "1184 Lock Lane/Conniston Road",
-                                              location == "1185 Millenium Clock" ~ "1185 Manchester New Road/Manchester Road (Millenium Clock)",
                                               location == "1188 Car Park Rear Of Co-Op" ~ "1188 Central Road (Car Park rear of Co-Op)",
                                               location == "1271chester Road/Greatstone Road" ~ "1271 Chester Road/Great Stone Road",
                                               location == "1272 Moss Road Stretford" ~ "1272 Moss Road/Derbyshire Lane",

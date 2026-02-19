@@ -18,28 +18,31 @@ camera_id,location,area_name,area_code,lon,lat
 1018,Sevenways Roundabout (Church Side),Stretford & Humphrey Park,E05015256,-2.31832,53.450619
 1019,Sevenways Roundabout (Petrol Station Side),Lostock & Barton,E05015251,-2.319015,53.450699
 1020,Barton Road,Lostock & Barton,E05015251,-2.325232,53.454289
-1022,Trafford House Roof (MUFC Side),Gorse Hill & Cornbrook,E05015247,-2.29014,53.460722
-1023,Trafford House Roof (TTH Side),Gorse Hill & Cornbrook,E05015247,-2.29043,53.460362
+1022,Trafford House (Rooftop MUFC Side),Gorse Hill & Cornbrook,E05015247,-2.289829,53.460686
+1023,Trafford House (Rooftop TTH Side),Gorse Hill & Cornbrook,E05015247,-2.290462,53.460361
 1024,Edge Lane,Longford,E05015250,-2.304892,53.445577
 1025,Chester Road/Kingsway (Subway),Stretford & Humphrey Park,E05015256,-2.307037,53.446325
 1026,Chester Road/Edge Lane (Subway),Longford,E05015250,-2.306366,53.446066
 1027,"Kingsway, Stretford",Stretford & Humphrey Park,E05015256,-2.310026,53.446328
 1028,"Kingsway/Barton Road, Stretford",Stretford & Humphrey Park,E05015256,-2.31274,53.44582
+1029,Seymour Grove/Elsinore Road,Old Trafford,E05015253,-2.276514,53.461827
 1030,Seymour Grove,Old Trafford,E05015253,-2.276369,53.461582
 1031,Northumberland Road,Old Trafford,E05015253,-2.268775,53.462879
 1032,Henrietta Street,Old Trafford,E05015253,-2.266267,53.463376
 1033,Bridgewater Way/Cornbrook tram stop,Gorse Hill & Cornbrook,E05015247,-2.266345,53.469516
-1034,Wright Street,Gorse Hill & Cornbrook,E05015247,-2.268574,53.465787
+1034,City Road Old Trafford,Gorse Hill & Cornbrook,E05015247,-2.266644,53.465835
 1035,Clifton Street,Old Trafford,E05015253,-2.262504,53.462363
 1036,Shrewsbury Street/Ayres Road,Old Trafford,E05015253,-2.260186,53.459859
 1037,Albion Street/Prestege Street,Old Trafford,E05015253,-2.26277,53.459408
 1038,Powell Street/Ayres Road,Old Trafford,E05015253,-2.265667,53.458895
 1039,St John's Road/Ayres Road,Old Trafford,E05015253,-2.268526,53.458392
 1040,Ayres Road/Northumberland Road,Old Trafford,E05015253,-2.272214,53.457764
+1041,Ayres Road tram stop Depot,Longford,E05015250,-2.280892,53.456477
 1042,Stretford Road/East Union Street,Gorse Hill & Cornbrook,E05015247,-2.265533,53.464292
-1044,Stretford House (Rooftop),Stretford & Humphrey Park,E05015256,-2.312111,53.442722
+1044,Stretford House (Rooftop South),Stretford & Humphrey Park,E05015256,-2.312111,53.442722
+1045,Stretford House (Rooftop North),Stretford & Humphrey Park,E05015256,-2.312395,53.443001
 1046,Rye Bank Road,Longford,E05015250,-2.277925,53.451688
-1050,"Radnor Street, Stretford",Longford,E05015250,-2.304919,53.446829
+1050,Ayres Road/Darnley Street,Old Trafford,E05015253,-2.264306,53.459222
 1060,Plymouth Road/Bodmin Road (Health Centre),Bucklow-St Martins,E05015244,-2.352147,53.427291
 1061,Magnolia Court (Rooftop North),Bucklow-St Martins,E05015244,-2.356303,53.428986
 1062,Magnolia Court (Rooftop South),Bucklow-St Martins,E05015244,-2.355984,53.428826
@@ -51,6 +54,8 @@ camera_id,location,area_name,area_code,lon,lat
 1070,Hurst Avenue,Manor,E05015252,-2.356562,53.414996
 1071,Ascot Avenue,Manor,E05015252,-2.354571,53.417121
 1072,Manor Avenue/Coppice Avenue,Manor,E05015252,-2.352037,53.414247
+1074,Stockport Road Timperley Village,Timperley Central,E05015257,-2.318367,53.397353
+1075,Manchester Road/Sinderland Road,Broadheath,E05015242,-2.352408,53.400977
 1077,Firs Way/Epsom Avenue,Manor,E05015252,-2.36172,53.414343
 1078,Shaftesbury Avenue,Timperley Central,E05015257,-2.322976,53.39228
 1079,Briarfield Road,Timperley Central,E05015257,-2.31191,53.392836
@@ -58,24 +63,32 @@ camera_id,location,area_name,area_code,lon,lat
 1081,Regent Road/George Street,Altrincham,E05015239,-2.35191,53.38566
 1082,"The Causeway, Altrincham",Altrincham,E05015239,-2.349835,53.386835
 1083,"Travelodge (Rooftop), Altrincham",Altrincham,E05015239,-2.35094,53.385818
-1084,Regend Road/Stamford New Road,Altrincham,E05015239,-2.351305,53.385521
+1084,Regent Road/Stamford New Road,Altrincham,E05015239,-2.351305,53.385521
 1085,Woodlands Road/Church Street (Cresta Court),Altrincham,E05015239,-2.35002,53.390565
+1086,Stamford New Road,Altrincham,E05015239,-2.349004,53.386822
 1087,Green Lane,Ashton upon Mersey,E05015240,-2.341979,53.429465
+1088,Stamford New Road Taxi Rank,Altrincham,E05015239,-2.348531,53.387347
 1089,Northenden Road,Sale Moor,E05015255,-2.303596,53.419821
 1090,Manchester Road,Altrincham,E05015239,-2.352036,53.397246
 1091,Sale Station/Taxi Rank,Sale Central,E05015254,-2.318057,53.424316
 1092,Sale Town Hall,Sale Central,E05015254,-2.320279,53.424828
 1093,School Road/Claremont Road,Sale Central,E05015254,-2.321467,53.424992
 1094,School Road/Hereford Street,Sale Central,E05015254,-2.322866,53.425237
-1095,School Road/Hayfield Street,Sale Central,E05015254,-2.324203,53.425492
+1095,School Road/Hayfield Street (Costa),Sale Central,E05015254,-2.324203,53.425492
+1096,Hereford Street,Sale Central,E05015254,-2.32311,53.425014
+1097,School Road/Hayfield Street,Sale Central,E05015254,-2.324461,53.425556
+1103,Wharfside Way/Sir Matt Busby Way/Hotel Football,Gorse Hill & Cornbrook,E05015247,-2.289544,53.46473
 1149,Peel Circle/Trafford Centre,Lostock & Barton,E05015251,-2.341002,53.465097
 1150,Barton Dock Road/Trafford Centre tram stop,Lostock & Barton,E05015251,-2.347539,53.467971
 1151,Europa Circle,Gorse Hill & Cornbrook,E05015247,-2.306039,53.462625
 1152,Barton Road/Davyhulme Circle (The Nags Head),Lostock & Barton,E05015251,-2.357339,53.458044
 1153,Flixton Road/Roseneath Road,Urmston,E05015259,-2.357465,53.448352
 1154,Flixton Road (Railway Station),Urmston,E05015259,-2.353634,53.448477
+1155,Golden Hill Carpark,Urmston,E05015259,-2.356857,53.450963
 1156,Trafford Retail Park,Davyhulme,E05015245,-2.358109,53.462237
 1157,Aaron Gardens,Lostock & Barton,E05015251,-2.354921,53.461523
+1158,Shaw View,Flixton,E05015246,-2.37221,53.447685
+1159,Pennybridge Lane,Flixton,E05015246,-2.372848,53.44766
 1161,Station Road/Higher Road,Urmston,E05015259,-2.352996,53.448046
 1165,Woodsend Circle,Davyhulme,E05015245,-2.392811,53.452665
 1170,Bucklow Avenue,Bucklow-St Martins,E05015244,-2.420971,53.420234
@@ -91,8 +104,9 @@ camera_id,location,area_name,area_code,lon,lat
 1180,Lock Lane/Birch Road,Bucklow-St Martins,E05015244,-2.439043,53.418434
 1181,"Millbank House, Wood Lane",Bucklow-St Martins,E05015244,-2.436823,53.4165
 1182,Wood Lane (Shops),Bucklow-St Martins,E05015244,-2.434972,53.416547
+1183,Wynt View Rooftop (Manchester Road),Bucklow-St Martins,E05015244,-2.426074,53.420006
 1184,Lock Lane/Conniston Road,Bucklow-St Martins,E05015244,-2.431558,53.419452
-1185,Manchester New Road/Manchester Road (Millenium Clock),Bucklow-St Martins,E05015244,-2.425567,53.419938
+1185,Wynt View Rooftop (Manchester New Road),Bucklow-St Martins,E05015244,-2.425892,53.419875
 1186,Central Road (Shops),Bucklow-St Martins,E05015244,-2.426262,53.418467
 1187,Oak Road (Shops),Bucklow-St Martins,E05015244,-2.435432,53.411727
 1188,Central Road (Car Park rear of Co-Op),Bucklow-St Martins,E05015244,-2.425075,53.418235
@@ -106,7 +120,7 @@ camera_id,location,area_name,area_code,lon,lat
 1208,Sale Water Park (Static 4),Sale Central,E05015254,-2.300268,53.431402
 1269,Moss Road/Fleming Drive,Gorse Hill & Cornbrook,E05015247,-2.310439,53.456413
 1270,Thirlmere Avenue,Gorse Hill & Cornbrook,E05015247,-2.314001,53.453685
-1271,Chester Road/Great Stone Road,Gorse Hill & Cornbrook,E05015247,-2.29456,53.458112
+1271,Chester Road/Greatstone Road,Gorse Hill & Cornbrook,E05015247,-2.29456,53.458112
 1272,Moss Road/Derbyshire Lane,Stretford & Humphrey Park,E05015256,-2.310343,53.450276
 1273,Sale Waterside (Rooftop),Sale Central,E05015254,-2.319574,53.425632
 1274,"Broad Road, Sale",Sale Central,E05015254,-2.316291,53.424955
@@ -140,3 +154,4 @@ camera_id,location,area_name,area_code,lon,lat
 1303,"Ashley Road, Hale (Shops)",Hale,E05015248,-2.345115,53.376644
 1310,Sibson House (Front Left),Sale Central,E05015254,-2.323957,53.423529
 1311,Sibson House (Front Right),Sale Central,E05015254,-2.324126,53.423611
+2023,Trafford Town Hall (Rooftop),Gorse Hill & Cornbrook,E05015247,-2.288155,53.458601
