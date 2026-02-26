@@ -9,9 +9,9 @@
                 "address": "Oakfield Road, Altrincham",
                 "postcode": "WA15 8EW",
                 "telephone": "01617492570",
-                "website": "https://traffordleisure.co.uk/altrincham-refurbishment-updates-and-help/",
-                "opening_hours": "Temporarily closed for refurbishment, re-opening in 2025",
-                "facilities": "The new look centre, branded move Altrincham, is due to open early 2025 will benefit from a 25m swimming pool, a 20m learner pool, a pool pod to improve accessibility, a combined lobby area with pool viewing and café, a wet village change, an inclusive changing places toilet and a stunning health and wellbeing spa facility. There will also be a wellness assessment room, an enlarged fitness suite, fitness changing and dry change areas, two flexible studio spaces, an immersive indoor cycle studio, a four-court sports hall and storage, a gymnastics hub and staff rooms, and offices.",
+                "website": "https://twmove.co.uk/altrincham/",
+                "opening_hours": "Mon-Fri: 6:30am-10:00pm, Sat-Sun: 8:00am-6:00pm",
+                "facilities": "The new look centre, branded move Altrincham, benefits from a 25m swimming pool, a 20m learner pool, a pool pod to improve accessibility, a combined lobby area with pool viewing and café, a wet village change, an inclusive changing places toilet and The Cove Spa - a stunning health and wellbeing spa facility. There is also a wellness assessment room, an enlarged fitness suite, fitness changing and dry change areas, two flexible studio spaces, an immersive indoor cycle studio, a four-court sports hall and storage, a gymnastics hub and staff rooms, and offices.",
                 "managed_by": "Trafford Leisure CIC."
             },
             "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.345804, 53.388726 ], [ -2.345332, 53.388598 ], [ -2.345375, 53.388554 ], [ -2.345339, 53.388535 ], [ -2.345303, 53.388586 ], [ -2.345243, 53.388564 ], [ -2.345271, 53.388537 ], [ -2.345067, 53.38849 ], [ -2.345543, 53.387869 ], [ -2.345893, 53.387961 ], [ -2.345868, 53.387987 ], [ -2.346237, 53.388083 ], [ -2.346215, 53.388104 ], [ -2.34634, 53.388136 ], [ -2.346247, 53.388268 ], [ -2.346176, 53.388242 ], [ -2.346158, 53.388277 ], [ -2.346097, 53.388257 ], [ -2.346072, 53.388302 ], [ -2.346187, 53.388345 ], [ -2.346069, 53.388507 ], [ -2.346008, 53.388488 ], [ -2.345818, 53.388729 ], [ -2.345804, 53.388726 ] ] ] ] }
@@ -166,11 +166,11 @@
                 "name": "The Grammar",
                 "address": "Altrincham Grammar School for Boys, Marlborough Road, Bowdon, Altrincham",
                 "postcode": "WA14 2RS",
-                "telephone": "01619291078",
-                "website": "https://thegrammar.co.uk",
-                "opening_hours": "Mon-Fri (term time): 7:00am-8:45am & 5:00pm-10:00pm, Mon-Fri (school holidays): 7:00am-10:00pm, Sat-Sun: 9:00am-5:00pm",
-                "facilities": "Gym, Sports Hall, Practice Hall, All Weather Pitch, 1 Cricket Square, 4 Outdoor Artifical Tennis Courts, Indoor Cricket Nets",
-                "managed_by": "Trafford Leisure CIC."
+                "telephone": "03452222323",
+                "website": "https://www.schoolsplus.co.uk/altrinchamboys/facilities/",
+                "opening_hours": "Evenings, Weekends and School Holidays",
+                "facilities": "Altrincham Grammar School for Boys is delighted to partner with Schools Plus to provide the local residents and the community with a wide range of leisure facilities for use. These include a multi-use Astro Pitch, Sports Halls, Dance Studio, Tennis Courts, Cricket Nets and Classrooms for hire.",
+                "managed_by": "Altrincham Grammar School for Boys in partnership with Schools Plus."
             },
             "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.350879, 53.375252 ], [ -2.350844, 53.375449 ], [ -2.35077, 53.375463 ], [ -2.350724, 53.375586 ], [ -2.350787, 53.375596 ], [ -2.350559, 53.376595 ], [ -2.349621, 53.376513 ], [ -2.349781, 53.375576 ], [ -2.349787, 53.375507 ], [ -2.348867, 53.375439 ], [ -2.348896, 53.375129 ], [ -2.350879, 53.375252 ] ] ] ] }
         },
@@ -180,7 +180,7 @@
                 "name": "The Grammar Parking",
                 "address": "Altrincham Grammar School for Boys, Marlborough Road, Bowdon, Altrincham",
                 "postcode": "WA14 2RS",
-                "managed_by": "Trafford Leisure CIC."
+                "managed_by": "Altrincham Grammar School for Boys in partnership with Schools Plus."
             },
             "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -2.351307, 53.377849 ], [ -2.351368, 53.377512 ], [ -2.351166, 53.377458 ], [ -2.351136, 53.377831 ], [ -2.351307, 53.377849 ] ] ] ] }
         },

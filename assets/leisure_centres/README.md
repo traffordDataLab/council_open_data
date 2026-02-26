@@ -32,7 +32,7 @@
 </tr>
 <tr>
 	<td>Temporal coverage</td>
-	<td>Correct as of September 2024</td>
+	<td>Correct as of February 2026</td>
 </tr>
 <tr>
 	<td>Update frequency</td>
@@ -44,7 +44,7 @@
 </tr>
 <tr>
 	<td>Attribution</td>
-	<td>Trafford Council, Trafford Leisure CIC and George Carnall Community Group CIC</td>
+	<td>Trafford Council, Trafford Leisure CIC, George Carnall Community Group CIC, Schools Plus</td>
 </tr>
 <tr>
 	<td>Format</td>
@@ -56,7 +56,7 @@
 </tr>
 <tr>
 	<td>Last updated</td>
-	<td>2024-09-20</td>
+	<td>2026-02-26</td>
 </tr>
 <tr>
 	<td>Notes</td>

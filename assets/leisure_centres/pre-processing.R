@@ -1,10 +1,18 @@
 # Leisure Centres in Trafford
-# 2023-06-22
+# Created: 2023-06-22
+# Last updated 2026-02-26 with minor code amendments to remove old versions of GeoJSON before writing new files.
 
 library(tidyverse) ; library(sf)
 
+
+## Delete the old GeoJSON files first!
+file.remove("trafford_leisure_centres_and_parking_polygons_styled.geojson")
+file.remove("trafford_leisure_centres.geojson")
+
+
 # Read in the source data
 sf_centres_and_parking <-  st_read("trafford_leisure_centres_and_parking_polygons.geojson")
+
 
 # Create a styled version of the centres and parking polygons for use in https://www.trafforddatalab.io/explore
 sf_centres_and_parking %>%
@@ -18,6 +26,7 @@ sf_centres_and_parking %>%
            `fill-opacity` = 0.8) %>%
     st_write("trafford_leisure_centres_and_parking_polygons_styled.geojson")
 
+
 # Create a CSV version of the dataset
 df_centres_and_parking <- sf_centres_and_parking %>%
     st_drop_geometry() %>%
@@ -27,6 +36,7 @@ df_centres_and_parking <- sf_centres_and_parking %>%
 # Now amend the CSV, dropping the car parks, ready to create a point dataset
 df_centres <- df_centres_and_parking %>%
     filter(!grepl("\\b.*?Parking", name))
+
 
 # Create a dataset of the centre's point locations which can be used to join with the centres CSV to create a GeoJSON point dataset
 df_centres_points <- tibble(name = "Move Altrincham", lon = -2.3456813925334914, lat = 53.38834687816429) %>%
@@ -38,6 +48,7 @@ df_centres_points <- tibble(name = "Move Altrincham", lon = -2.3456813925334914,
     add_row(name = "Move Urmston", lon = -2.3711497029003548, lat = 53.450327457123855) %>%
     add_row(name = "The Grammar", lon = -2.3505202740693187, lat = 53.37550898109315) %>%
     add_row(name = "BeActive Urmston", lon = -2.3427956452275187, lat = 53.45788738193787)
+
 
 # Join the centres dataset to the points, save as a CSV, then transform into a spatial file
 sf_centres <- df_centres %>%
