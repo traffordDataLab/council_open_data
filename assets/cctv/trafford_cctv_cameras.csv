@@ -2,6 +2,7 @@ camera_id,location,area_name,area_code,lon,lat
 1001,Trafford Wharf Road,Gorse Hill & Cornbrook,E05015247,-2.284777,53.464515
 1002,Trafford Wharf Road/Wharfside tram stop,Gorse Hill & Cornbrook,E05015247,-2.289056,53.466406
 1003,Wharfside Way/Sir Matt Busby Way,Gorse Hill & Cornbrook,E05015247,-2.289589,53.464723
+1004,Imperial War Musem tram stop,Gorse Hill & Cornbrook,E05015247,-2.298108,53.468727
 1005,Chester Road (White City),Gorse Hill & Cornbrook,E05015247,-2.285219,53.46222
 1006,Chester Road/Sir Matt Busby Way,Gorse Hill & Cornbrook,E05015247,-2.2880219999999998,53.461151
 1007,Warwick Road (Town Hall),Gorse Hill & Cornbrook,E05015247,-2.287323,53.459559
@@ -77,7 +78,9 @@ camera_id,location,area_name,area_code,lon,lat
 1095,School Road/Hayfield Street (Costa),Sale Central,E05015254,-2.324203,53.425492
 1096,Hereford Street,Sale Central,E05015254,-2.32311,53.425014
 1097,School Road/Hayfield Street,Sale Central,E05015254,-2.324461,53.425556
+1098,Dane Road tram stop,Sale Central,E05015254,-2.311432,53.43044
 1103,Wharfside Way/Sir Matt Busby Way/Hotel Football,Gorse Hill & Cornbrook,E05015247,-2.289544,53.46473
+1148,Trafford Way,Lostock & Barton,E05015251,-2.363316,53.470163
 1149,Peel Circle/Trafford Centre,Lostock & Barton,E05015251,-2.341002,53.465097
 1150,Barton Dock Road/Trafford Centre tram stop,Lostock & Barton,E05015251,-2.347539,53.467971
 1151,Europa Circle,Gorse Hill & Cornbrook,E05015247,-2.306039,53.462625
@@ -86,10 +89,11 @@ camera_id,location,area_name,area_code,lon,lat
 1154,Flixton Road (Railway Station),Urmston,E05015259,-2.353634,53.448477
 1155,Golden Hill Carpark,Urmston,E05015259,-2.356857,53.450963
 1156,Trafford Retail Park,Davyhulme,E05015245,-2.358109,53.462237
-1157,Aaron Gardens,Lostock & Barton,E05015251,-2.354921,53.461523
 1158,Shaw View,Flixton,E05015246,-2.37221,53.447685
 1159,Pennybridge Lane,Flixton,E05015246,-2.372848,53.44766
+1160,Crofts Bank Road,Urmston,E05015259,-2.353119,53.44917
 1161,Station Road/Higher Road,Urmston,E05015259,-2.352996,53.448046
+1164,Heyeswater Road,Davyhulme,E05015245,-2.358815,53.456716
 1165,Woodsend Circle,Davyhulme,E05015245,-2.392811,53.452665
 1170,Bucklow Avenue,Bucklow-St Martins,E05015244,-2.420971,53.420234
 1171,"Moss Lane, Partington",Bucklow-St Martins,E05015244,-2.420165,53.414908
@@ -110,6 +114,7 @@ camera_id,location,area_name,area_code,lon,lat
 1186,Central Road (Shops),Bucklow-St Martins,E05015244,-2.426262,53.418467
 1187,Oak Road (Shops),Bucklow-St Martins,E05015244,-2.435432,53.411727
 1188,Central Road (Car Park rear of Co-Op),Bucklow-St Martins,E05015244,-2.425075,53.418235
+1200,Sale Water Park Ptz 5,Sale Central,E05015254,-2.300595,53.431686
 1201,Sale Water Park (PTZ 1),Sale Central,E05015254,-2.300683,53.431668
 1202,Sale Water Park (PTZ 2),Sale Central,E05015254,-2.299811,53.43147
 1203,Sale Water Park (PTZ 3),Sale Central,E05015254,-2.299181,53.431016
@@ -155,3 +160,5 @@ camera_id,location,area_name,area_code,lon,lat
 1310,Sibson House (Front Left),Sale Central,E05015254,-2.323957,53.423529
 1311,Sibson House (Front Right),Sale Central,E05015254,-2.324126,53.423611
 2023,Trafford Town Hall (Rooftop),Gorse Hill & Cornbrook,E05015247,-2.288155,53.458601
+11284,Moss Lane Bridge Static,Altrincham,E05015239,-2.347909,53.386422
+11689,Moss Lane Park Bmx Track,Bucklow-St Martins,E05015244,-2.420149,53.414109
