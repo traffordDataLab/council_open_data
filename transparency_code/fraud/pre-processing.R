@@ -1,13 +1,13 @@
 ## Transparency Code - Fraud ##
 # Source: Trafford Council
-# Publisher URL: https://www.trafford.gov.uk/about-your-council/open-data/docs/trafford-counter-fraud.csv
+# Publisher URL: https://www.trafford.gov.uk/sites/default/files/2025-12/trafford-counter-fraud.csv
 # Licence: Open Government Licence v3.0
 
 # Load the necessary R packages
 library(tidyverse)
 
 # Read in the data to a tibble
-df_raw <- read_csv("https://www.trafford.gov.uk/about-your-council/open-data/docs/trafford-counter-fraud.csv")
+df_raw <- read_csv("https://www.trafford.gov.uk/sites/default/files/2025-12/trafford-counter-fraud.csv")
 
 # Tidy up the data
 df <- df_raw %>%
