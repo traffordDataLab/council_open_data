@@ -1,6 +1,6 @@
 OrganisationLabel,OrganisationURI,EffectiveDate,Location,Postcode,ParkingSpaces,DisabledParkingSpaces,ParkingRestrictions,FreeParking,ChargeableParking,ElectricVehiclePoint
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Regent Road, Altrincham",WA14 2YQ,177,11,Pay & Display,FALSE,TRUE,10
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Oakfield Road (managed by Trafford), Altrincham",WA15 8EW,300,12,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2025-12-05,"Oakfield Road, Altrincham",WA15 8EW,250,12,Pay & Display,FALSE,TRUE,0
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Balmoral Road (No. 2), Altrincham",WA15 8HJ,19,1,Pay & Display,FALSE,TRUE,5
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Borough Road, Altrincham",WA15 9RA,8,0,Free,TRUE,FALSE,0
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Cecil Road (East), Hale",WA14 9NT,135,12,Pay & Display,FALSE,TRUE,8
@@ -10,12 +10,10 @@ Trafford Council,https://opendatacommunities.org/id/metropolitan-district-counci
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Baker Street, Timperley",WA15 7XH,71,3,Pay & Display,FALSE,TRUE,0
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Warrener Street, Sale Moor",M33 3GE,88,2,Pay & Display,FALSE,TRUE,0
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Oaklands Drive, Sale",M33 7NS,74,3,Pay & Display,FALSE,TRUE,0
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Hampson Street, Sale Moor",M33 3JF,29,0,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Hampson Street, Sale Moor",M33 3JF,29,0,Pay & Display,FALSE,TRUE,0
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"James Street, Sale Moor",M33 3HN,19,1,Pay & Display,FALSE,TRUE,4
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Greenbank Road, Sale",M33 5PH,20,1,Pay & Display,FALSE,TRUE,4
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Newton Street/Lacy Street, Stretford",M32 8AA,93,4,Pay & Display,FALSE,TRUE,2
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Eleventh Street, Trafford Park",M17 1JF,43,0,Free,TRUE,FALSE,0
-Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Manor Avenue, Urmston",M41 9JE,75,4,Pay & Display,FALSE,TRUE,0
+Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Eleventh Street, Trafford Park",M17 1JF,43,0,Free,TRUE,FALSE,0
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Atkinson Road (East), Urmston",M41 9QN,23,1,Pay & Display,FALSE,TRUE,0
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Golden Hill Park, Urmston",M41 5AT,103,3,Pay & Display,FALSE,TRUE,12
 Trafford Council,https://opendatacommunities.org/id/metropolitan-district-council/trafford,2024-07-31,"Flixton Road, Urmston",M41 6JF,36,2,Pay & Display,FALSE,TRUE,6

@@ -8,8 +8,8 @@
 library(tidyverse)
 
 # Read in the data to separate tibbles
-df_off_street_raw <- read_csv("https://www.trafford.gov.uk/about-your-council/open-data/docs/trafford-off-street-parking-spaces.csv")
-df_on_street_raw <- read_csv("https://www.trafford.gov.uk/about-your-council/open-data/docs/trafford-on-street-parking-spaces.csv")
+df_off_street_raw <- read_csv("https://www.trafford.gov.uk/sites/default/files/2025-12/trafford-off-street-parking-spaces.csv")
+df_on_street_raw <- read_csv("https://www.trafford.gov.uk/sites/default/files/2025-12/trafford-on-street-parking-spaces.csv")
 
 # Tidy up the data
 # - nothing required for these datasets
