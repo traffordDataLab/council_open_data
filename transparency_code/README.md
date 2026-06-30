@@ -8,7 +8,7 @@ Column (variable) names in these datasets may be expressed in formats other than
 
 |Dataset |Frequency |Licence |
 |:--- |:--- |:--- |
-|Expenditure exceeding £500 |Quarterly | |
+|[Expenditure exceeding £500 (Supplier Spend)](supplier_spend) |Quarterly | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
 |Government Procurement Card transactions |Quarterly | |
 |Procurement information |Quarterly | |
 |Local authority land |Annual | |
