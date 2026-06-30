@@ -1,0 +1,49 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "tables": [{
+    "url": "government_procurement_card_transactions_2024-25.csv",
+  },{
+    "url": "government_procurement_card_transactions_2025-26.csv",
+  },{
+    "url": "government_procurement_card_transactions_2026-27.csv"
+  }],
+  "tableSchema": {
+    "columns": [{
+      "titles": "OrganisationLabel",
+      "dc:description": "The name of the organisation to which the dataset relates."
+    },{
+      "titles": "OrganisationURI",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+    },{
+      "titles": "EffectiveDate",
+      "dc:description": "The end date of the accounting period (month) to which the transaction applies, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "OrganisationalUnit",
+      "dc:description": "The organisational unit responsible for spending the money."
+    },{
+      "titles": "BeneficiaryName",
+      "dc:description": "The name of the supplier or beneficiary."
+    },{
+      "titles": "PaymentDate",
+      "dc:description": "The payment date as recorded in the department's purchase or general ledger, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "Amount",
+      "dc:description": "The actual value of the transaction (net amount) in GBP."
+    },{
+      "titles": "IrrecoverableVATAmount",
+      "dc:description": "The value of VAT that cannot be recovered in GBP."
+    },{
+      "titles": "Purpose",
+      "dc:description": "Description and details of the transaction."
+    },{
+      "titles": "CategoryInternalName",
+      "dc:description": "The council's procurement category name."
+    },{
+      "titles": "MerchantCategoryCode",
+      "dc:description": "Code used to identify the goods and services purchased."
+    },{
+      "titles": "CardTransaction",
+      "dc:description": "The type of card used for the transaction, GPG for Government Procurement Card and CCC for Corporate Credit Card."
+    }]
+  }
+}
