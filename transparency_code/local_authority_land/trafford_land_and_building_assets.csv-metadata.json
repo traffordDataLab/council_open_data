@@ -1,0 +1,67 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "url": "https://www.trafforddatalab.io/council_open_data/transparency_code/local_authority_land/trafford_land_and_building_assets.csv",
+  "tableSchema": {
+    "columns": [{
+      "titles": "OrganisationLabel",
+      "dc:description": "The name of the organisation to which the counter fraud activity relates."
+    },{
+      "titles": "OrganisationURI",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+    },{
+      "titles": "EffectiveDate",
+      "dc:description": "Date at which the information provided is true, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "UPRN",
+      "dc:description": "Unique Property Reference Number - a unique code describing the property held in the Address Gazetteer provided by Ordnance Survey."
+    },{
+      "titles": "AssetCode",
+      "dc:description": "A local reference identifier describing the asset."
+    },{
+      "titles": "PropertyName",
+      "dc:description": "Common title or name used for the asset. Can include the title or a description of the land such as "land to the rear of"."
+    },{
+      "titles": "StreetNumber",
+      "dc:description": "Number of the building or land."
+    },{
+      "titles": "StreetName",
+      "dc:description": "Postal road address."
+    },{
+      "titles": "PostTown",
+      "dc:description": "Name of post town or town."
+    },{
+      "titles": "PostCode",
+      "dc:description": "Postcode of the asset where possible. A piece of land may not have a postal address."
+    },{
+      "titles": "CoordinateReferenceSystem",
+      "dc:description": "Indicates which coordinate reference system the geographic coordinates will refer to. WGS84 refers to the World Geodetic System 84."
+    },{
+      "titles": "GeoX",
+      "dc:description": "Longitude centre point of the asset for plotting on a map."
+    },{
+      "titles": "GeoY",
+      "dc:description": "Latitude centre point of the asset for plotting on a map."
+    },{
+      "titles": "TenureType",
+      "dc:description": "Whether the local authority owns the freehold or leased in the asset."
+    },{
+      "titles": "TenureDetail",
+      "dc:description": "The tenure arrangements for the asset."
+    },{
+      "titles": "OtherDetail",
+      "dc:description": "Text description of other tenure type if applicable."
+    },{
+      "titles": "HoldingType",
+      "dc:description": "Whether the asset is land, buildings or both."
+    },{
+      "titles": "BuildingSize",
+      "dc:description": "Gross Internal Area in square metres of the building."
+    },{
+      "titles": "LandArea",
+      "dc:description": "Area in hectares of the land."
+    },{
+      "titles": "EnergyRating",
+      "dc:description": "Value stated on the Display Energy Certificate under the Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007."
+    }]
+  }
+}
