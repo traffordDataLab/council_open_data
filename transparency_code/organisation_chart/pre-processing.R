@@ -1,13 +1,13 @@
 ## Transparency Code - Senior structure dataset  ##
 # Source: Trafford Council
-# Publisher URL: https://www.trafford.gov.uk/about-your-council/open-data/docs/senior-staff-organisation-structure.csv
+# Publisher URL: https://www.trafford.gov.uk/council-data-and-democracy/transparency-and-accountability/local-government-and-transparency-code/council-workforce-and-governance
 # Licence: Open Government Licence v3.0
 
 # Load the necessary R packages
 library(tidyverse)
 
 # Read in the data to a tibble
-df <- read_csv("https://www.trafford.gov.uk/about-your-council/open-data/docs/senior-staff-organisation-structure.csv")
+df <- read_csv("https://www.trafford.gov.uk/sites/default/files/2025-12/senior-staff-organisation-structure.csv")
 
 # Tidy up the data
 # Not required for this dataset at this time
