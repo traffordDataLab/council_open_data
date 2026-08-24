@@ -1,0 +1,108 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "tables": [{
+    "url": "2026-27_contracts_register.csv"
+  }],
+  "tableSchema": {
+    "columns": [{
+      "titles": "OrganisationLabel",
+      "dc:description": "Name of the organisation issuing the tender opportunity."
+    },{
+      "titles": "OrganisationURI",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+    },{
+      "titles": "EffectiveDate",
+      "dc:description": "Date of the end of the financial quarter to which the data relates, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "ContractReference",
+      "dc:description": "Unique identifier assigned to the contract record."
+    },{
+      "titles": "ContractTitle",
+      "dc:description": "Official title or name of the contract record."
+    },{
+      "titles": "ContractType",
+      "dc:description": "Type of contractual arrangement (e.g. framework, call-off, service contract)."
+    },{
+      "titles": "OrganisationalUnit",
+      "dc:description": "Department managing the contract."
+    },{
+      "titles": "ServiceCategoryLabel",
+      "dc:description": "Directorate responsible for the contract."
+    },{
+      "titles": "Description",
+      "dc:description": "Summary of the goods, services, or works being provided under the contract."
+    },{
+      "titles": "CPVLabel",
+      "dc:description": "Common Procurement Vocabulary describing the nature of the goods, services, or works."
+    },{
+      "titles": "StartDate",
+      "dc:description": "Date the contract commenced, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "EndDate",
+      "dc:description": "Current contractual end date, including any approved extensions, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "LastExtensionDate",
+      "dc:description": "Date up to which contractual extensions are permitted, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "ContractValue",
+      "dc:description": "Total estimated value at contract award in GBP."
+    },{
+      "titles": "SupplierName",
+      "dc:description": "Name of the supplier awarded the contract."
+    },{
+      "titles": "SMESupplier",
+      "dc:description": "Indicates whether the supplier is a Small and Medium-sized Enterprise organisation."
+    },{
+      "titles": "VCFSESupplier",
+      "dc:description": "Indicates whether the supplier is a Voluntary, Community, Faith or Social Enterprise organisation."
+    },{
+      "titles": "STARCategory",
+      "dc:description": "Procurement category under the STAR procurement structure."
+    },{
+      "titles": "STARCategoryManager",
+      "dc:description": "Procurement Category Manager overseeing the contract."
+    },{
+      "titles": "ContactName",
+      "dc:description": "Procurement Officer overseeing the contract."
+    },{
+      "titles": "ProcessType",
+      "dc:description": "Procurement method used to award the contract (e.g., open tender, framework, direct award)."
+    },{
+      "titles": "Status",
+      "dc:description": "Current status of the contract (e.g., Active, Expired)."
+    },{
+      "titles": "InitialEndDateOriginalTerm",
+      "dc:description": "Original contract end date before any extensions are applied, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "LastPossibleEndDateCalc",
+      "dc:description": "Latest date the contract could end if all extension options are exercised, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "BudgetType",
+      "dc:description": "Indicates whether funding is revenue, capital, grant-funded, or another budget category."
+    },{
+      "titles": "AnnualValue",
+      "dc:description": "Average or expected annual spend under the contract in GBP."
+    },{
+      "titles": "CriticalityStatus",
+      "dc:description": "Assessment of the contract's importance or risk to service delivery."
+    },{
+      "titles": "CollaborativeGroup",
+      "dc:description": "Partnership or collaborative procurement group involved in the contract."
+    },{
+      "titles": "TotalSavings",
+      "dc:description": "Total savings achieved through the procurement activity in GBP."
+    },{
+      "titles": "SavingsRealisationDate",
+      "dc:description": "Date on which procurement savings were realised or recorded, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "SavingsType",
+      "dc:description": "Classification of savings achieved (e.g. revenue, capital, avoidance)."
+    },{
+      "titles": "RecurringOrOneOff",
+      "dc:description": "Indicates whether contract is ongoing or a one-time purchase."
+    },{
+      "titles": "SupplierSize",
+      "dc:description": "Classification of supplier size (e.g. SME, large organisation)."
+    }]
+  }
+}

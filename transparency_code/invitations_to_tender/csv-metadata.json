@@ -1,0 +1,39 @@
+{
+  "@context": "http://www.w3.org/ns/csvw",
+  "tables": [{
+    "url": "2026-27_invitations_to_tender.csv"
+  }],
+  "tableSchema": {
+    "columns": [{
+      "titles": "OrganisationLabel",
+      "dc:description": "Name of the organisation issuing the tender opportunity."
+    },{
+      "titles": "OrganisationURI",
+      "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
+    },{
+      "titles": "EffectiveDate",
+      "dc:description": "Date of the end of the financial quarter to which the data relates, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "ExpressionOfInterestStartDate",
+      "dc:description": "Date suppliers can begin registering interest in the opportunity, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "ContractReferenceNumber",
+      "dc:description": "Unique reference number assigned to the tender."
+    },{
+      "titles": "TenderTitle",
+      "dc:description": "Title of the procurement opportunity."
+    },{
+      "titles": "DescriptionOfGoods",
+      "dc:description": "Summary of the goods, services, or works being procured (CPV)."
+    },{
+      "titles": "ContractStartDate",
+      "dc:description": "Planned commencement date of the contract, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "ContractEndDate",
+      "dc:description": "Planned expiry date of the contract, in the ISO international date format YYYY-MM-DD."
+    },{
+      "titles": "ReviewDate",
+      "dc:description": "Date the contract is due for review, in the ISO international date format YYYY-MM-DD."
+    }]
+  }
+}

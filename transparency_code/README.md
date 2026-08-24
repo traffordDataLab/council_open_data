@@ -8,17 +8,18 @@ Column (variable) names in these datasets may be expressed in formats other than
 
 |Dataset |Frequency |Licence |
 |:--- |:--- |:--- |
-|[Expenditure exceeding £500 (Supplier Spend)](supplier_spend) |Quarterly | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|[Government Procurement Card transactions](government_procurement_card_transactions) |Quarterly | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|Procurement information |Quarterly | |
-|[Local authority land](local_authority_land) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|[Grants to voluntary, community and social enterprise organisations](grants) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
+|[Expenditure exceeding £500 (Supplier Spend)](supplier_spend) |Quarterly |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Government Procurement Card transactions](government_procurement_card_transactions) |Quarterly |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Contracts Register](contracts_register) |Quarterly |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Invitations To Tender](invitations_to_tender) |Quarterly |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Local authority land](local_authority_land) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Grants to voluntary, community and social enterprise organisations](grants) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
 |[Organisation chart](organisation_chart) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
-|[Trade union facility time](trade_union_facility_time) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|[Parking account](parking_account) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|[Parking spaces](parking_spaces) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|[Senior salaries](senior_salaries) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|[Constitution](constitution) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|[Pay multiple](pay_multiple) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|[Fraud](fraud) |Annual | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
-|[Waste contracts](waste_contract) |One-off | [OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)|
+|[Trade union facility time](trade_union_facility_time) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Parking account](parking_account) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Parking spaces](parking_spaces) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Senior salaries](senior_salaries) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Constitution](constitution) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Pay multiple](pay_multiple) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Fraud](fraud) |Annual |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
+|[Waste contracts](waste_contract) |One-off |[OGL v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) |
