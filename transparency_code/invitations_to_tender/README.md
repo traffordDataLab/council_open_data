@@ -31,6 +31,6 @@
 </tr>
 <tr>
 	<td>Page on data.gov.uk</td>
-	<td><a href="#">View</a></td>
+	<td><a href="https://ckan.publishing.service.gov.uk/dataset/trafford-council-invitations-to-tender">View</a></td>
 </tr>
 </table>
