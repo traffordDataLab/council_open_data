@@ -2,7 +2,7 @@
 ## The "RAW" file is now updated by the Trafford CCTV control room as and when there are changes, also using Plotter.
 ## The "RAW" file is **NOT** included in the repo due to it containing both the camera positions and their field of view.
 ## This purpose of this script is separate the camera positions from the views and clean up the output for publication as open data, in both GeoJSON and CSV format.
-## Last code update: 2026-02-17
+## Last code update: 2026-11-18
 
 
 # Required libraries
@@ -98,6 +98,7 @@ sf_cctv <- sf_cctv %>%
                                               location == "1040 Ayres Road" ~ "1040 Ayres Road/Northumberland Road",
                                               location == "1042 Stretford Road" ~ "1042 Stretford Road/East Union Street",
                                               location == "1044 Stretford House Roof" ~ "1044 Stretford House (Rooftop South)",
+                                              location == "Camea 1054 Flixton Road/Crofts Bank Road" ~ "1054 Flixton Road/Crofts Bank Road",
                                               location == "1060 Health Centre" ~ "1060 Plymouth Road/Bodmin Road (Health Centre)",
                                               location == "1064 Firsway/Goodwood Avenue" ~ "1064 Firs Way/Goodwood Avenue",
                                               location == "1069 Chepstow/Epsom Avenue" ~ "1069 Chepstow Avenue/Epsom Avenue",

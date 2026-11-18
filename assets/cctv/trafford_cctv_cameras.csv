@@ -44,6 +44,7 @@ camera_id,location,area_name,area_code,lon,lat
 1045,Stretford House (Rooftop North),Stretford & Humphrey Park,E05015256,-2.312395,53.443001
 1046,Rye Bank Road,Longford,E05015250,-2.277925,53.451688
 1050,Ayres Road/Darnley Street,Old Trafford,E05015253,-2.264306,53.459222
+1054,Flixton Road/Crofts Bank Road,Urmston,E05015259,-2.353681,53.448487
 1060,Plymouth Road/Bodmin Road (Health Centre),Bucklow-St Martins,E05015244,-2.352147,53.427291
 1061,Magnolia Court (Rooftop North),Bucklow-St Martins,E05015244,-2.356303,53.428986
 1062,Magnolia Court (Rooftop South),Bucklow-St Martins,E05015244,-2.355984,53.428826
@@ -55,14 +56,16 @@ camera_id,location,area_name,area_code,lon,lat
 1070,Hurst Avenue,Manor,E05015252,-2.356562,53.414996
 1071,Ascot Avenue,Manor,E05015252,-2.354571,53.417121
 1072,Manor Avenue/Coppice Avenue,Manor,E05015252,-2.352037,53.414247
+1073,Washway Road/Woodhouse Lane,Brooklands,E05015243,-2.341181,53.411422
 1074,Stockport Road Timperley Village,Timperley Central,E05015257,-2.318367,53.397353
 1075,Manchester Road/Sinderland Road,Broadheath,E05015242,-2.352408,53.400977
+1076,Firsway/Epsom Avenue Static Camera,Manor,E05015252,-2.361723,53.414325
 1077,Firs Way/Epsom Avenue,Manor,E05015252,-2.36172,53.414343
 1078,Shaftesbury Avenue,Timperley Central,E05015257,-2.322976,53.39228
 1079,Briarfield Road,Timperley Central,E05015257,-2.31191,53.392836
 1080,George Street,Altrincham,E05015239,-2.349734,53.387686
 1081,Regent Road/George Street,Altrincham,E05015239,-2.35191,53.38566
-1082,"The Causeway, Altrincham",Altrincham,E05015239,-2.349835,53.386835
+1082,Travel Lodge Roof 2,Altrincham,E05015239,-2.351455,53.3856
 1083,"Travelodge (Rooftop), Altrincham",Altrincham,E05015239,-2.35094,53.385818
 1084,Regent Road/Stamford New Road,Altrincham,E05015239,-2.351305,53.385521
 1085,Woodlands Road/Church Street (Cresta Court),Altrincham,E05015239,-2.35002,53.390565
@@ -80,6 +83,8 @@ camera_id,location,area_name,area_code,lon,lat
 1097,School Road/Hayfield Street,Sale Central,E05015254,-2.324461,53.425556
 1098,Dane Road tram stop,Sale Central,E05015254,-2.311432,53.43044
 1103,Wharfside Way/Sir Matt Busby Way/Hotel Football,Gorse Hill & Cornbrook,E05015247,-2.289544,53.46473
+1109,Quadrant Takeway Side,Longford,E05015250,-2.287152,53.452915
+1147,Bridgewater Circle,Lostock & Barton,E05015251,-2.353172,53.468156
 1148,Trafford Way,Lostock & Barton,E05015251,-2.363316,53.470163
 1149,Peel Circle/Trafford Centre,Lostock & Barton,E05015251,-2.341002,53.465097
 1150,Barton Dock Road/Trafford Centre tram stop,Lostock & Barton,E05015251,-2.347539,53.467971
@@ -123,6 +128,7 @@ camera_id,location,area_name,area_code,lon,lat
 1206,Sale Water Park (Static 2),Sale Central,E05015254,-2.300072,53.431336
 1207,Sale Water Park (Static 3),Sale Central,E05015254,-2.300123,53.431355
 1208,Sale Water Park (Static 4),Sale Central,E05015254,-2.300268,53.431402
+1268,Park Road/Ennderdale Road,Stretford & Humphrey Park,E05015256,-2.314065,53.452564
 1269,Moss Road/Fleming Drive,Gorse Hill & Cornbrook,E05015247,-2.310439,53.456413
 1270,Thirlmere Avenue,Gorse Hill & Cornbrook,E05015247,-2.314001,53.453685
 1271,Chester Road/Greatstone Road,Gorse Hill & Cornbrook,E05015247,-2.29456,53.458112
