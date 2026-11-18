@@ -3,6 +3,7 @@
 # Publisher URL: https://www.trafford.gov.uk/council-data-and-democracy/transparency-and-accountability/contracts-register
 # Licence: Open Government Licence
 # Created: 2026-08-24
+# Updated: 2026-11-18 - following change to the schema for 2026-27 Q2.  Data for Q1 has been reissued in the new schema.
 
 # Purpose:
 # Produce 3-star open data files in as close to the LGA schema as possible from the latest CSV files uploaded to the council website open data section.
@@ -15,8 +16,9 @@
 library(tidyverse) ; library(lubridate) ;
 
 
-# Read in the latest data
-df_raw <- read_csv("https://www.trafford.gov.uk/sites/default/files/2026-08/2026-27-Q1-Contracts-Register-Trafford.csv")
+# Read in the latest data (Trafford's website now returns a 403 when trying to read it directly. If this continues, download it manually and read in the local copy)
+#df_raw <- read_csv("https://www.trafford.gov.uk/sites/default/files/2026-11/2026-27-Q2-Contracts-Register-Trafford.csv")
+df_raw <- read_csv("2026-27-Q2-Contracts-Register-Trafford.csv")
 
 
 # tidy up the latest data and put it into the schema ---------------------------
@@ -27,7 +29,7 @@ df <- df_raw %>%
            OrganisationalUnit = CouncilDepartment,
            ServiceCategoryLabel = CouncilDirectorate,
            CPVLabel = CPVCode,
-           LastExtensionDate = MaximumExtensionDate,
+           LastExtensionDate = LastPossibleEndDateCalc,
            SupplierName = Supplier,
            VCFSESupplier = SupplierIsVCFSE,
            ContactName = STARResponsibleOfficer,
@@ -39,8 +41,7 @@ df <- df_raw %>%
                                      VCFSESupplier == "No" ~ "FALSE",
                                      TRUE ~ VCFSESupplier),
            ContractValue = as.character(str_trim(format(OriginalContractValue, scientific = FALSE, nsmall = 2))),
-           AnnualValue = as.character(str_trim(format(AnnualValue, scientific = FALSE, nsmall = 2))),
-           TotalSavings = as.character(str_trim(format(TotalSavings, scientific = FALSE, nsmall = 2)))) %>%
+           ContractValuePlusModifications = as.character(str_trim(format(OriginalContractValuePlusModifications, scientific = FALSE, nsmall = 2)))) %>%
     select(OrganisationLabel,
            OrganisationURI,
            EffectiveDate,
@@ -55,23 +56,19 @@ df <- df_raw %>%
            EndDate,
            LastExtensionDate,
            ContractValue,
+           ContractValuePlusModifications,
            SupplierName,
            SMESupplier,
            VCFSESupplier,
-           STARCategory,
-           STARCategoryManager,
            ContactName,
+           STARCategoryManager,
+           STARCategory,
+           ProcurementCategory,
            ProcessType,
+           ParentContractOrFramework,
            Status,
            InitialEndDateOriginalTerm,
-           LastPossibleEndDateCalc,
-           BudgetType,
-           AnnualValue,
-           CriticalityStatus,
            CollaborativeGroup,
-           TotalSavings,
-           SavingsRealisationDate,
-           SavingsType,
            RecurringOrOneOff,
            SupplierSize)
            
@@ -80,8 +77,7 @@ df <- df_raw %>%
 # At the beginning of each financial year there is no current data, so skip the following 2 lines if it's Q1
 df_current <- read_csv("2026-27_contracts_register.csv") %>%
     mutate(ContractValue = as.character(str_trim(format(ContractValue, scientific = FALSE, nsmall = 2))),
-           AnnualValue = as.character(str_trim(format(AnnualValue, scientific = FALSE, nsmall = 2))),
-           TotalSavings = as.character(str_trim(format(TotalSavings, scientific = FALSE, nsmall = 2))),
+           ContractValuePlusModifications = as.character(str_trim(format(ContractValuePlusModifications, scientific = FALSE, nsmall = 2))),
            SMESupplier = as.character(SMESupplier),
            VCFSESupplier = as.character(VCFSESupplier))
 

@@ -3,6 +3,7 @@
 # Publisher URL: https://www.trafford.gov.uk/council-data-and-democracy/transparency-and-accountability/invitations-tender
 # Licence: Open Government Licence
 # Created: 2026-08-24
+# Updated: 2026-11-18
 
 # Purpose:
 # Produce 3-star open data files from the latest CSV files uploaded to the council website open data section.
@@ -15,8 +16,9 @@
 library(tidyverse) ; library(lubridate) ;
 
 
-# Read in the latest data ---------------------------
-df_raw <- read_csv("https://www.trafford.gov.uk/sites/default/files/2026-08/2026-27-Q1-Published-Tenders-Trafford.csv")
+# Read in the latest data (Trafford's website now returns a 403 when trying to read it directly. If this continues, download it manually and read in the local copy)
+#df_raw <- read_csv("https://www.trafford.gov.uk/sites/default/files/2026-11/2026-27-Q2-Published-Tenders-Trafford.csv")
+df_raw <- read_csv("2026-27-Q2-Published-Tenders-Trafford.csv")
 
 
 # No requirement to tidy up the raw data, it's already OK ---------------------------

@@ -6,7 +6,7 @@
   "tableSchema": {
     "columns": [{
       "titles": "OrganisationLabel",
-      "dc:description": "Name of the organisation issuing the tender opportunity."
+      "dc:description": "Name of the organisation associated with the contract record."
     },{
       "titles": "OrganisationURI",
       "dc:description": "A Uniform Resource Identifier (URI) which identifies the organisation."
@@ -15,40 +15,43 @@
       "dc:description": "Date of the end of the financial quarter to which the data relates, in the ISO international date format YYYY-MM-DD."
     },{
       "titles": "ContractReference",
-      "dc:description": "Unique identifier assigned to the contract record."
+      "dc:description": "Unique identifier used to distinguish the contract record."
     },{
       "titles": "ContractTitle",
-      "dc:description": "Official title or name of the contract record."
+      "dc:description": "Name of the contract record in Atamis."
     },{
       "titles": "ContractType",
-      "dc:description": "Type of contractual arrangement (e.g. framework, call-off, service contract)."
+      "dc:description": "Type of agreement, such as Goods, Works or Services."
     },{
       "titles": "OrganisationalUnit",
-      "dc:description": "Department managing the contract."
+      "dc:description": "Council department responsible for the contract."
     },{
       "titles": "ServiceCategoryLabel",
-      "dc:description": "Directorate responsible for the contract."
+      "dc:description": "Council directorate responsible for the contract."
     },{
       "titles": "Description",
-      "dc:description": "Summary of the goods, services, or works being provided under the contract."
+      "dc:description": "Short summary of the contract's purpose and scope."
     },{
       "titles": "CPVLabel",
       "dc:description": "Common Procurement Vocabulary describing the nature of the goods, services, or works."
     },{
       "titles": "StartDate",
-      "dc:description": "Date the contract commenced, in the ISO international date format YYYY-MM-DD."
+      "dc:description": "Date the contract begins, in the ISO international date format YYYY-MM-DD."
     },{
       "titles": "EndDate",
-      "dc:description": "Current contractual end date, including any approved extensions, in the ISO international date format YYYY-MM-DD."
+      "dc:description": "Current confirmed end date of the contract, in the ISO international date format YYYY-MM-DD."
     },{
       "titles": "LastExtensionDate",
-      "dc:description": "Date up to which contractual extensions are permitted, in the ISO international date format YYYY-MM-DD."
+      "dc:description": "Calculated latest end date if all available extensions are used, in the ISO international date format YYYY-MM-DD."
     },{
       "titles": "ContractValue",
-      "dc:description": "Total estimated value at contract award in GBP."
+      "dc:description": "Original approved value of the contract before modifications in GBP."
+    },{
+      "titles": "ContractValuePlusModifications",
+      "dc:description": "Current total contract value including approved modifications in GBP."
     },{
       "titles": "SupplierName",
-      "dc:description": "Name of the supplier awarded the contract."
+      "dc:description": "Name of the supplier awarded or delivering the contract."
     },{
       "titles": "SMESupplier",
       "dc:description": "Indicates whether the supplier is a Small and Medium-sized Enterprise organisation."
@@ -56,53 +59,38 @@
       "titles": "VCFSESupplier",
       "dc:description": "Indicates whether the supplier is a Voluntary, Community, Faith or Social Enterprise organisation."
     },{
-      "titles": "STARCategory",
-      "dc:description": "Procurement category under the STAR procurement structure."
+      "titles": "ContactName",
+      "dc:description": "STAR officer responsible for managing or overseeing the record."  
     },{
       "titles": "STARCategoryManager",
-      "dc:description": "Procurement Category Manager overseeing the contract."
+      "dc:description": "STAR Category Manager responsible for the contract category."
     },{
-      "titles": "ContactName",
-      "dc:description": "Procurement Officer overseeing the contract."
+      "titles": "STARCategory",
+      "dc:description": "STAR procurement category assigned to the contract."
+    },{
+      "titles": "ProcurementCategory",
+      "dc:description": "Procurement category used to classify the contract."
     },{
       "titles": "ProcessType",
-      "dc:description": "Procurement method used to award the contract (e.g., open tender, framework, direct award)."
+      "dc:description": "Procurement route or procedure used to award the contract."
+    },{
+      "titles": "ParentContractOrFramework",
+      "dc:description": "Atamis reference or Salesforce ID of the related parent contract or framework."
     },{
       "titles": "Status",
-      "dc:description": "Current status of the contract (e.g., Active, Expired)."
+      "dc:description": "Current status of the contract record in Atamis."
     },{
       "titles": "InitialEndDateOriginalTerm",
-      "dc:description": "Original contract end date before any extensions are applied, in the ISO international date format YYYY-MM-DD."
-    },{
-      "titles": "LastPossibleEndDateCalc",
-      "dc:description": "Latest date the contract could end if all extension options are exercised, in the ISO international date format YYYY-MM-DD."
-    },{
-      "titles": "BudgetType",
-      "dc:description": "Indicates whether funding is revenue, capital, grant-funded, or another budget category."
-    },{
-      "titles": "AnnualValue",
-      "dc:description": "Average or expected annual spend under the contract in GBP."
-    },{
-      "titles": "CriticalityStatus",
-      "dc:description": "Assessment of the contract's importance or risk to service delivery."
+      "dc:description": "End date of the original contract term before extensions, in the ISO international date format YYYY-MM-DD."
     },{
       "titles": "CollaborativeGroup",
-      "dc:description": "Partnership or collaborative procurement group involved in the contract."
-    },{
-      "titles": "TotalSavings",
-      "dc:description": "Total savings achieved through the procurement activity in GBP."
-    },{
-      "titles": "SavingsRealisationDate",
-      "dc:description": "Date on which procurement savings were realised or recorded, in the ISO international date format YYYY-MM-DD."
-    },{
-      "titles": "SavingsType",
-      "dc:description": "Classification of savings achieved (e.g. revenue, capital, avoidance)."
+      "dc:description": "Collaboration or partner group associated with the procurement."
     },{
       "titles": "RecurringOrOneOff",
-      "dc:description": "Indicates whether contract is ongoing or a one-time purchase."
+      "dc:description": "Indicates whether contract is recurring or a one-off purchase."
     },{
       "titles": "SupplierSize",
-      "dc:description": "Classification of supplier size (e.g. SME, large organisation)."
+      "dc:description": "Supplier size classification recorded in Atamis."
     }]
   }
 }
